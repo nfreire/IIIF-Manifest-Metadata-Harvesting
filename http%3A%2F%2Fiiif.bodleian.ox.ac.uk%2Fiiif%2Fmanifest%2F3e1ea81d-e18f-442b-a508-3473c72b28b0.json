@@ -1,0 +1,128 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json", 
+  "@id": "http://iiif.bodleian.ox.ac.uk/iiif/manifest/3e1ea81d-e18f-442b-a508-3473c72b28b0.json", 
+  "@type": "sc:Manifest", 
+  "label": "Curzon b.26(56)", 
+  "metadata": [
+    {
+      "label": "Digital.Bodleian", 
+      "value": "<span>View at: <a href=\"http://digital.bodleian.ox.ac.uk/inquire/p//3e1ea81d-e18f-442b-a508-3473c72b28b0\">Digital.Bodleian</a></span>"
+    }, 
+    {
+      "label": "Subject", 
+      "value": "Napoleonic Wars, 1800-1815"
+    }, 
+    {
+      "label": "Subject", 
+      "value": "John Bull (Symbolic character)"
+    }, 
+    {
+      "label": "Subject", 
+      "value": "Navy"
+    }, 
+    {
+      "label": "Collection", 
+      "value": "History and Politics"
+    }, 
+    {
+      "label": "Date", 
+      "value": "1808-02-01"
+    }, 
+    {
+      "label": "Description", 
+      "value": "Satire on the Napoleonic wars. (British political cartoon)"
+    }, 
+    {
+      "label": "Description", 
+      "value": "John Bull turns away from 1807, laden with the victories of Buenos Aires, Montevideo, and Copenhagen, towards 1808, who bears promises of Peace and Plenty."
+    }, 
+    {
+      "label": "Description", 
+      "value": "Publisher's number: 37"
+    }, 
+    {
+      "label": "Language", 
+      "value": "eng"
+    }, 
+    {
+      "label": "Id", 
+      "value": "3e1ea81d-e18f-442b-a508-3473c72b28b0"
+    }, 
+    {
+      "label": "Publisher", 
+      "value": "London (England): Thomas Tegg"
+    }, 
+    {
+      "label": "Shelfmark", 
+      "value": "Curzon b.26(56)"
+    }, 
+    {
+      "label": "Type", 
+      "value": "Page record"
+    }, 
+    {
+      "label": "Type", 
+      "value": "Image.Graphic"
+    }, 
+    {
+      "label": "Title", 
+      "value": " John Bull kicking out the old year 1807 and ushering the new year 1808"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Woodward, G. M. (George Moutard), ca. 1760-1809 [artist - attributed]"
+    }, 
+    {
+      "label": "Format", 
+      "value": "254 x 350 (sheet); 228 x 312 (image and text) mm"
+    }, 
+    {
+      "label": "Displaylanguage", 
+      "value": "English"
+    }, 
+    {
+      "label": "Source", 
+      "value": "politi004-awy-0001-0"
+    }
+  ], 
+  "description": "Satire on the Napoleonic wars. (British political cartoon); John Bull turns away from 1807, laden with the victories of Buenos Aires, Montevideo, and Copenhagen, towards 1808, who bears promises of Peace and Plenty.; Publisher's number: 37", 
+  "attribution": "From: politi004-awy-0001-0<br>Rights: Photo: \u00c2 Bodleian Libraries, University of Oxford<br>Terms of Access: http://digital.bodleian.ox.ac.uk/terms.html<br>", 
+  "logo": "http://www.bodleian.ox.ac.uk/__data/assets/image/0005/117176/logo.jpg", 
+  "viewingHint": "individuals", 
+  "seeAlso": "http://digital.bodleian.ox.ac.uk/inquire/p/3e1ea81d-e18f-442b-a508-3473c72b28b0", 
+  "sequences": [
+    {
+      "@id": "http://iiif.bodleian.ox.ac.uk/iiif/sequence/3e1ea81d-e18f-442b-a508-3473c72b28b0_default.json", 
+      "@type": "sc:Sequence", 
+      "label": "Default", 
+      "canvases": [
+        {
+          "@id": "http://iiif.bodleian.ox.ac.uk/iiif/canvas/3e1ea81d-e18f-442b-a508-3473c72b28b0.json", 
+          "@type": "sc:Canvas", 
+          "label": "Curzon b.26(56)", 
+          "height": 7920, 
+          "width": 11911, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://iiif.bodleian.ox.ac.uk/iiif/image/3e1ea81d-e18f-442b-a508-3473c72b28b0/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 7920, 
+                "width": 11911, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://iiif.bodleian.ox.ac.uk/iiif/image/3e1ea81d-e18f-442b-a508-3473c72b28b0", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://iiif.bodleian.ox.ac.uk/iiif/canvas/3e1ea81d-e18f-442b-a508-3473c72b28b0.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

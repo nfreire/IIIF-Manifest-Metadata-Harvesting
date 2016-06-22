@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json", 
+  "@id": "http://iiif.bodleian.ox.ac.uk/iiif/manifest/efbac9aa-19b4-43cd-adb0-d49e5815a7c6.json", 
+  "@type": "sc:Manifest", 
+  "label": "POSTER 1961-06", 
+  "metadata": [
+    {
+      "label": "Digital.Bodleian", 
+      "value": "<span>View at: <a href=\"http://digital.bodleian.ox.ac.uk/inquire/p//efbac9aa-19b4-43cd-adb0-d49e5815a7c6\">Digital.Bodleian</a></span>"
+    }, 
+    {
+      "label": "Shelfmark", 
+      "value": "POSTER 1961-06"
+    }, 
+    {
+      "label": "Type", 
+      "value": "Page record"
+    }, 
+    {
+      "label": "Title", 
+      "value": "POSTER 1961-06"
+    }, 
+    {
+      "label": "Relation", 
+      "value": "oulis2006-bzm-0308-0.tif"
+    }, 
+    {
+      "label": "Identifier", 
+      "value": "ox:uuid: urn:uuid:efbac9aa-19b4-43cd-adb0-d49e5815a7c6"
+    }, 
+    {
+      "label": "Identifier", 
+      "value": "ox:shelfmark: POSTER 1961-06"
+    }, 
+    {
+      "label": "Source", 
+      "value": "Luna: CPA Poster Collection"
+    }, 
+    {
+      "label": "Description", 
+      "value": "Still advancing in local government. Vote Conservative."
+    }, 
+    {
+      "label": "Collection", 
+      "value": "History and Politics"
+    }, 
+    {
+      "label": "Id", 
+      "value": "efbac9aa-19b4-43cd-adb0-d49e5815a7c6"
+    }
+  ], 
+  "description": "Still advancing in local government. Vote Conservative.", 
+  "attribution": "From: Luna: CPA Poster Collection<br>Rights: Photo: \u00c2 Bodleian Libraries, University of Oxford<br>Terms of Access: http://digital.bodleian.ox.ac.uk/terms.html<br>", 
+  "logo": "http://www.bodleian.ox.ac.uk/__data/assets/image/0005/117176/logo.jpg", 
+  "viewingHint": "individuals", 
+  "seeAlso": "http://digital.bodleian.ox.ac.uk/inquire/p/efbac9aa-19b4-43cd-adb0-d49e5815a7c6", 
+  "sequences": [
+    {
+      "@id": "http://iiif.bodleian.ox.ac.uk/iiif/sequence/efbac9aa-19b4-43cd-adb0-d49e5815a7c6_default.json", 
+      "@type": "sc:Sequence", 
+      "label": "Default", 
+      "canvases": [
+        {
+          "@id": "http://iiif.bodleian.ox.ac.uk/iiif/canvas/efbac9aa-19b4-43cd-adb0-d49e5815a7c6.json", 
+          "@type": "sc:Canvas", 
+          "label": "POSTER 1961-06", 
+          "height": 7230, 
+          "width": 5428, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://iiif.bodleian.ox.ac.uk/iiif/image/efbac9aa-19b4-43cd-adb0-d49e5815a7c6/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 7230, 
+                "width": 5428, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://iiif.bodleian.ox.ac.uk/iiif/image/efbac9aa-19b4-43cd-adb0-d49e5815a7c6", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://iiif.bodleian.ox.ac.uk/iiif/canvas/efbac9aa-19b4-43cd-adb0-d49e5815a7c6.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

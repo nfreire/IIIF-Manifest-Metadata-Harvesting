@@ -1,0 +1,116 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json", 
+  "@id": "http://iiif.bodleian.ox.ac.uk/iiif/manifest/ce891d3a-3d57-42e8-bf89-f9641db70454.json", 
+  "@type": "sc:Manifest", 
+  "label": " [Portuguese portolan of the Atlantic]", 
+  "metadata": [
+    {
+      "label": "Digital.Bodleian", 
+      "value": "<span>View at: <a href=\"http://digital.bodleian.ox.ac.uk/inquire/p//ce891d3a-3d57-42e8-bf89-f9641db70454\">Digital.Bodleian</a></span>"
+    }, 
+    {
+      "label": "Type", 
+      "value": "Page record"
+    }, 
+    {
+      "label": "Type", 
+      "value": "Image.Graphic.Map"
+    }, 
+    {
+      "label": "Subject", 
+      "value": "Atlantic Ocean Charts, maps, etc."
+    }, 
+    {
+      "label": "Identifier", 
+      "value": "Filmstrip Roll 194B, frame 8"
+    }, 
+    {
+      "label": "Coverage", 
+      "value": "Atlantic Ocean"
+    }, 
+    {
+      "label": "Coverage", 
+      "value": "Berkshire (England)"
+    }, 
+    {
+      "label": "Title", 
+      "value": " [Portuguese portolan of the Atlantic]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Teixeira, Domingos, fl.1565-1595 [cartographer]"
+    }, 
+    {
+      "label": "Format", 
+      "value": "35mm slide"
+    }, 
+    {
+      "label": "Language", 
+      "value": "por"
+    }, 
+    {
+      "label": "Displaylanguage", 
+      "value": "Portuguese"
+    }, 
+    {
+      "label": "Source", 
+      "value": "mapsxx003-aot-0001-0"
+    }, 
+    {
+      "label": "Date", 
+      "value": "1570"
+    }, 
+    {
+      "label": "Description", 
+      "value": "Left half of chart, showing part of North America, South America, Central America and the West Indies, and part of the Atlantic"
+    }, 
+    {
+      "label": "Collection", 
+      "value": "Maps"
+    }, 
+    {
+      "label": "Id", 
+      "value": "ce891d3a-3d57-42e8-bf89-f9641db70454"
+    }
+  ], 
+  "description": "Left half of chart, showing part of North America, South America, Central America and the West Indies, and part of the Atlantic", 
+  "attribution": "From: mapsxx003-aot-0001-0<br>Rights: Photo: \u00c2 Bodleian Libraries, University of Oxford<br>Terms of Access: http://digital.bodleian.ox.ac.uk/terms.html<br>", 
+  "logo": "http://www.bodleian.ox.ac.uk/__data/assets/image/0005/117176/logo.jpg", 
+  "viewingHint": "individuals", 
+  "seeAlso": "http://digital.bodleian.ox.ac.uk/inquire/p/ce891d3a-3d57-42e8-bf89-f9641db70454", 
+  "sequences": [
+    {
+      "@id": "http://iiif.bodleian.ox.ac.uk/iiif/sequence/ce891d3a-3d57-42e8-bf89-f9641db70454_default.json", 
+      "@type": "sc:Sequence", 
+      "label": "Default", 
+      "canvases": [
+        {
+          "@id": "http://iiif.bodleian.ox.ac.uk/iiif/canvas/ce891d3a-3d57-42e8-bf89-f9641db70454.json", 
+          "@type": "sc:Canvas", 
+          "label": " [Portuguese portolan of the Atlantic]", 
+          "height": 1228, 
+          "width": 1818, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://iiif.bodleian.ox.ac.uk/iiif/image/ce891d3a-3d57-42e8-bf89-f9641db70454/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1228, 
+                "width": 1818, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://iiif.bodleian.ox.ac.uk/iiif/image/ce891d3a-3d57-42e8-bf89-f9641db70454", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://iiif.bodleian.ox.ac.uk/iiif/canvas/ce891d3a-3d57-42e8-bf89-f9641db70454.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

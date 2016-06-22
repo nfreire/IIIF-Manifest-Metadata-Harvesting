@@ -1,0 +1,336 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json", 
+  "@id": "http://iiif.bodleian.ox.ac.uk/iiif/manifest/aada54cc-434a-4ce9-bbb3-00377f977f67.json", 
+  "@type": "sc:Manifest", 
+  "label": " [Playbill of Covent Garden, Tuesday, Nov. 1, 1796, announcing Fortune's fool &c.]", 
+  "metadata": [
+    {
+      "label": "Digital.Bodleian", 
+      "value": "<span>View at: <a href=\"http://digital.bodleian.ox.ac.uk/inquire/p//aada54cc-434a-4ce9-bbb3-00377f977f67\">Digital.Bodleian</a></span>"
+    }, 
+    {
+      "label": "Subject", 
+      "value": "Theater--England--London--History--18th century"
+    }, 
+    {
+      "label": "Subject", 
+      "value": "Printed ephemera"
+    }, 
+    {
+      "label": "Subject", 
+      "value": "Playbills"
+    }, 
+    {
+      "label": "Subject", 
+      "value": "comedy"
+    }, 
+    {
+      "label": "Subject", 
+      "value": "Telegraph"
+    }, 
+    {
+      "label": "Coverage", 
+      "value": "[London] (England)"
+    }, 
+    {
+      "label": "Coverage", 
+      "value": "1796"
+    }, 
+    {
+      "label": "Collection", 
+      "value": "Ephemera"
+    }, 
+    {
+      "label": "Date", 
+      "value": "1796-11-01"
+    }, 
+    {
+      "label": "Description", 
+      "value": "Playbill of Covent Garden, Tuesday, Nov. 1, 1796, announcing Fortune's fool &c."
+    }, 
+    {
+      "label": "Description", 
+      "value": "30"
+    }, 
+    {
+      "label": "Language", 
+      "value": "eng"
+    }, 
+    {
+      "label": "Alternative", 
+      "value": "Fortune's fool"
+    }, 
+    {
+      "label": "Alternative", 
+      "value": "Harlequin's treasure: or, Jewels new set"
+    }, 
+    {
+      "label": "Alternative", 
+      "value": "Telegraphe"
+    }, 
+    {
+      "label": "Alternative", 
+      "value": "Temple of Virtue"
+    }, 
+    {
+      "label": "Alternative", 
+      "value": "Way to get married"
+    }, 
+    {
+      "label": "Alternative", 
+      "value": "Lock and key"
+    }, 
+    {
+      "label": "Alternative", 
+      "value": "Rosina"
+    }, 
+    {
+      "label": "Alternative", 
+      "value": "Olympus in an uproar, or The descent of the deities"
+    }, 
+    {
+      "label": "Creator", 
+      "value": "Covent Garden Theatre [author]"
+    }, 
+    {
+      "label": "Publisher", 
+      "value": "[s.l. (England) : s.n.]"
+    }, 
+    {
+      "label": "Incipit", 
+      "value": "Acted but twice"
+    }, 
+    {
+      "label": "Type", 
+      "value": "Page record"
+    }, 
+    {
+      "label": "Type", 
+      "value": "Text.Playbill"
+    }, 
+    {
+      "label": "Identifier", 
+      "value": "London Playbills Covent Garden box 1 (92)"
+    }, 
+    {
+      "label": "Identifier", 
+      "value": "20010709/10:45:51$af"
+    }, 
+    {
+      "label": "Title", 
+      "value": " [Playbill of Covent Garden, Tuesday, Nov. 1, 1796, announcing Fortune's fool &c.]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Reynolds, Frederick, 1764-1841 [author - attributed]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Lewis, William Thomas, ca. 1746-1811, actor [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Quick, John, 1748-1831 [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Fawcett, Mr. (John), 1768-1837 [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Middleton, James, ca. 1769-1799, actor [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Macready, William, d. 1829 [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Simmons, Samuel, ca. 1773-1819 [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Street, James, [fl. 1791-1812], actor [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Abbot, T., Mr., [fl. 1788?-1821?], actor [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Wilde, d.?, Mr., d. 1810, actor [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Curties, Mr., [fl. 1794-1801], actor [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Blurton, James, b. 1756, actor [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Mattocks, Isabella, Mrs., 1746-1826, actress [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Morris, Miss, [fl. 1792-1799?], actress [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Leserve, Anna Maria, Miss, d. 1831, actress [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Logan, Miss, [fl. 1795-1797], actress [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Watts, Louisa, Mrs., 1763-1838, actress [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Norton, Martha, Mrs., [fl. 1786-1810?], actress [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Wallis, Tryphosa Jane, Miss, 1774-1848, actress [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Toms, Mr., [fl. 1790-1807], actor [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Farley, Charles, 1771-1859 [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Simpson, Mr., [fl. 1792-1809], actor [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Follett, John, 1765-1799, actor [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Hawtin, Mr., [fl. 1792-1802], actor [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Rayner, Mr., actor [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Thompson, James, [fl. 1770-1812?], actor [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Henley, Elizabeth, Mrs., [fl. 1784-1817], actress [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "St. Amand, Mlle, actress [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Martyr, Margaret, d. 1807 [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Mountain, Rosemond, ca. 1768-1841 [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Clendining, Elizabeth, Mrs., 1768-1799, actress [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Bowden, Wright, 1752-1823, actor [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Townsend, Edward (or Edmund) Evans, 1766-1809, actor [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Haymes, Mr., actor [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Phillips, Mr., actor [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Weippert, J. M. (Johann Michael), 1776-1831 [performer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Richards, John Inigo, ca. 1729-1810 [designer]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Phillips, Thomas, 1770-1845 [designer]"
+    }, 
+    {
+      "label": "Format", 
+      "value": "single sheet"
+    }, 
+    {
+      "label": "Format", 
+      "value": "265 x 212 mm"
+    }, 
+    {
+      "label": "Id", 
+      "value": "aada54cc-434a-4ce9-bbb3-00377f977f67"
+    }, 
+    {
+      "label": "Displaylanguage", 
+      "value": "English"
+    }, 
+    {
+      "label": "Source", 
+      "value": "bodjjo005-aad-0001-0"
+    }
+  ], 
+  "description": "Playbill of Covent Garden, Tuesday, Nov. 1, 1796, announcing Fortune's fool &c.; 30", 
+  "attribution": "From: bodjjo005-aad-0001-0<br>Rights: Photo: \u00c2 Bodleian Libraries, University of Oxford<br>Terms of Access: http://digital.bodleian.ox.ac.uk/terms.html<br>", 
+  "logo": "http://www.bodleian.ox.ac.uk/__data/assets/image/0005/117176/logo.jpg", 
+  "viewingHint": "individuals", 
+  "seeAlso": "http://digital.bodleian.ox.ac.uk/inquire/p/aada54cc-434a-4ce9-bbb3-00377f977f67", 
+  "sequences": [
+    {
+      "@id": "http://iiif.bodleian.ox.ac.uk/iiif/sequence/aada54cc-434a-4ce9-bbb3-00377f977f67_default.json", 
+      "@type": "sc:Sequence", 
+      "label": "Default", 
+      "canvases": [
+        {
+          "@id": "http://iiif.bodleian.ox.ac.uk/iiif/canvas/aada54cc-434a-4ce9-bbb3-00377f977f67.json", 
+          "@type": "sc:Canvas", 
+          "label": " [Playbill of Covent Garden, Tuesday, Nov. 1, 1796, announcing Fortune's fool &c.]", 
+          "height": 6396, 
+          "width": 5138, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://iiif.bodleian.ox.ac.uk/iiif/image/aada54cc-434a-4ce9-bbb3-00377f977f67/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 6396, 
+                "width": 5138, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://iiif.bodleian.ox.ac.uk/iiif/image/aada54cc-434a-4ce9-bbb3-00377f977f67", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://iiif.bodleian.ox.ac.uk/iiif/canvas/aada54cc-434a-4ce9-bbb3-00377f977f67.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

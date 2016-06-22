@@ -1,0 +1,108 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json", 
+  "@id": "http://iiif.bodleian.ox.ac.uk/iiif/manifest/f7d86704-d06b-4ff8-ab5d-e90daefc448b.json", 
+  "@type": "sc:Manifest", 
+  "label": "MS. Gough Kent 16, fol. 2v", 
+  "metadata": [
+    {
+      "label": "Digital.Bodleian", 
+      "value": "<span>View at: <a href=\"http://digital.bodleian.ox.ac.uk/inquire/p//f7d86704-d06b-4ff8-ab5d-e90daefc448b\">Digital.Bodleian</a></span>"
+    }, 
+    {
+      "label": "Shelfmark", 
+      "value": "MS. Gough Kent 16, fol. 2v"
+    }, 
+    {
+      "label": "Type", 
+      "value": "Page record"
+    }, 
+    {
+      "label": "Type", 
+      "value": "Text.Manual"
+    }, 
+    {
+      "label": "Coverage", 
+      "value": "Berkshire (England)"
+    }, 
+    {
+      "label": "Title", 
+      "value": " [Preface to the survey of Poole Harbour, 1698]"
+    }, 
+    {
+      "label": "Format", 
+      "value": "35mm slide"
+    }, 
+    {
+      "label": "Language", 
+      "value": "eng"
+    }, 
+    {
+      "label": "Displaylanguage", 
+      "value": "English"
+    }, 
+    {
+      "label": "Source", 
+      "value": "mapsxx003-akk-0001-0"
+    }, 
+    {
+      "label": "Date", 
+      "value": "1698"
+    }, 
+    {
+      "label": "Description", 
+      "value": "The end of the preface to the survey"
+    }, 
+    {
+      "label": "Collection", 
+      "value": "Maps"
+    }, 
+    {
+      "label": "Identifier", 
+      "value": "Filmstrip Roll 283.3, frame 2"
+    }, 
+    {
+      "label": "Id", 
+      "value": "f7d86704-d06b-4ff8-ab5d-e90daefc448b"
+    }
+  ], 
+  "description": "The end of the preface to the survey", 
+  "attribution": "From: mapsxx003-akk-0001-0<br>Rights: Photo: \u00c2 Bodleian Libraries, University of Oxford<br>Terms of Access: http://digital.bodleian.ox.ac.uk/terms.html<br>", 
+  "logo": "http://www.bodleian.ox.ac.uk/__data/assets/image/0005/117176/logo.jpg", 
+  "viewingHint": "individuals", 
+  "seeAlso": "http://digital.bodleian.ox.ac.uk/inquire/p/f7d86704-d06b-4ff8-ab5d-e90daefc448b", 
+  "sequences": [
+    {
+      "@id": "http://iiif.bodleian.ox.ac.uk/iiif/sequence/f7d86704-d06b-4ff8-ab5d-e90daefc448b_default.json", 
+      "@type": "sc:Sequence", 
+      "label": "Default", 
+      "canvases": [
+        {
+          "@id": "http://iiif.bodleian.ox.ac.uk/iiif/canvas/f7d86704-d06b-4ff8-ab5d-e90daefc448b.json", 
+          "@type": "sc:Canvas", 
+          "label": "MS. Gough Kent 16, fol. 2v", 
+          "height": 1228, 
+          "width": 1818, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://iiif.bodleian.ox.ac.uk/iiif/image/f7d86704-d06b-4ff8-ab5d-e90daefc448b/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1228, 
+                "width": 1818, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://iiif.bodleian.ox.ac.uk/iiif/image/f7d86704-d06b-4ff8-ab5d-e90daefc448b", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://iiif.bodleian.ox.ac.uk/iiif/canvas/f7d86704-d06b-4ff8-ab5d-e90daefc448b.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

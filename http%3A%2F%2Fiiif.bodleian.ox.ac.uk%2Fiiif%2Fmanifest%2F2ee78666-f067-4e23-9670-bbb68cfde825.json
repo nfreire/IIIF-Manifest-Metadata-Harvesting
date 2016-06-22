@@ -1,0 +1,116 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json", 
+  "@id": "http://iiif.bodleian.ox.ac.uk/iiif/manifest/2ee78666-f067-4e23-9670-bbb68cfde825.json", 
+  "@type": "sc:Manifest", 
+  "label": "Curzon b.07(033)", 
+  "metadata": [
+    {
+      "label": "Digital.Bodleian", 
+      "value": "<span>View at: <a href=\"http://digital.bodleian.ox.ac.uk/inquire/p//2ee78666-f067-4e23-9670-bbb68cfde825\">Digital.Bodleian</a></span>"
+    }, 
+    {
+      "label": "Shelfmark", 
+      "value": "Curzon b.07(033)"
+    }, 
+    {
+      "label": "Type", 
+      "value": "Page record"
+    }, 
+    {
+      "label": "Type", 
+      "value": "Image.Graphic"
+    }, 
+    {
+      "label": "Subject", 
+      "value": "Jena, Battle of, Jena, Germany, 1806"
+    }, 
+    {
+      "label": "Title", 
+      "value": " Les Prussiens pris en t\u00eate et en queue."
+    }, 
+    {
+      "label": "Format", 
+      "value": "1 print"
+    }, 
+    {
+      "label": "Format", 
+      "value": "215 x 275 mm"
+    }, 
+    {
+      "label": "Format", 
+      "value": "232 x 285 mm"
+    }, 
+    {
+      "label": "Format", 
+      "value": "etching"
+    }, 
+    {
+      "label": "Language", 
+      "value": "fre"
+    }, 
+    {
+      "label": "Displaylanguage", 
+      "value": "French"
+    }, 
+    {
+      "label": "Source", 
+      "value": "modhis001-ada-0001-0"
+    }, 
+    {
+      "label": "Date", 
+      "value": "1806"
+    }, 
+    {
+      "label": "Description", 
+      "value": "French political cartoon"
+    }, 
+    {
+      "label": "Collection", 
+      "value": "History and Politics"
+    }, 
+    {
+      "label": "Id", 
+      "value": "2ee78666-f067-4e23-9670-bbb68cfde825"
+    }
+  ], 
+  "description": "French political cartoon", 
+  "attribution": "From: modhis001-ada-0001-0<br>Rights: Photo: \u00c2 Bodleian Libraries, University of Oxford<br>Terms of Access: http://digital.bodleian.ox.ac.uk/terms.html<br>", 
+  "logo": "http://www.bodleian.ox.ac.uk/__data/assets/image/0005/117176/logo.jpg", 
+  "viewingHint": "individuals", 
+  "seeAlso": "http://digital.bodleian.ox.ac.uk/inquire/p/2ee78666-f067-4e23-9670-bbb68cfde825", 
+  "sequences": [
+    {
+      "@id": "http://iiif.bodleian.ox.ac.uk/iiif/sequence/2ee78666-f067-4e23-9670-bbb68cfde825_default.json", 
+      "@type": "sc:Sequence", 
+      "label": "Default", 
+      "canvases": [
+        {
+          "@id": "http://iiif.bodleian.ox.ac.uk/iiif/canvas/2ee78666-f067-4e23-9670-bbb68cfde825.json", 
+          "@type": "sc:Canvas", 
+          "label": "Curzon b.07(033)", 
+          "height": 3402, 
+          "width": 4236, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://iiif.bodleian.ox.ac.uk/iiif/image/2ee78666-f067-4e23-9670-bbb68cfde825/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 3402, 
+                "width": 4236, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://iiif.bodleian.ox.ac.uk/iiif/image/2ee78666-f067-4e23-9670-bbb68cfde825", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://iiif.bodleian.ox.ac.uk/iiif/canvas/2ee78666-f067-4e23-9670-bbb68cfde825.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

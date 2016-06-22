@@ -1,0 +1,140 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json", 
+  "@id": "http://iiif.bodleian.ox.ac.uk/iiif/manifest/abd5d95a-8ee9-42cb-af56-71ffc7bd09da.json", 
+  "@type": "sc:Manifest", 
+  "label": " John Joseph Merlin, the celebrated mechanic", 
+  "metadata": [
+    {
+      "label": "Digital.Bodleian", 
+      "value": "<span>View at: <a href=\"http://digital.bodleian.ox.ac.uk/inquire/p//abd5d95a-8ee9-42cb-af56-71ffc7bd09da\">Digital.Bodleian</a></span>"
+    }, 
+    {
+      "label": "Type", 
+      "value": "Page record"
+    }, 
+    {
+      "label": "Type", 
+      "value": "Image.Graphic.Print"
+    }, 
+    {
+      "label": "Subject", 
+      "value": "Mechanics"
+    }, 
+    {
+      "label": "Subject", 
+      "value": "Prints"
+    }, 
+    {
+      "label": "Subject", 
+      "value": "Merlin, John Joseph, 1735-1803"
+    }, 
+    {
+      "label": "Subject", 
+      "value": "Men "
+    }, 
+    {
+      "label": "Subject", 
+      "value": "Wigs "
+    }, 
+    {
+      "label": "Subject", 
+      "value": "Clothing and dress "
+    }, 
+    {
+      "label": "Subject", 
+      "value": "Carriages and coaches "
+    }, 
+    {
+      "label": "Subject", 
+      "value": "Decorations "
+    }, 
+    {
+      "label": "Identifier", 
+      "value": "Waxworks 4 (42a)"
+    }, 
+    {
+      "label": "Identifier", 
+      "value": "20030521/12:44:53$hm"
+    }, 
+    {
+      "label": "Title", 
+      "value": " John Joseph Merlin, the celebrated mechanic"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Incledon, Charles Benjamin, 1763-1826 [performer]"
+    }, 
+    {
+      "label": "Format", 
+      "value": "single sheet"
+    }, 
+    {
+      "label": "Format", 
+      "value": "120 x 165 mm"
+    }, 
+    {
+      "label": "Language", 
+      "value": "eng"
+    }, 
+    {
+      "label": "Displaylanguage", 
+      "value": "English"
+    }, 
+    {
+      "label": "Source", 
+      "value": "bodjjo005-ans-0001-0"
+    }, 
+    {
+      "label": "Description", 
+      "value": "Print of John Joseph Merlin"
+    }, 
+    {
+      "label": "Collection", 
+      "value": "Ephemera"
+    }, 
+    {
+      "label": "Id", 
+      "value": "abd5d95a-8ee9-42cb-af56-71ffc7bd09da"
+    }
+  ], 
+  "description": "Print of John Joseph Merlin", 
+  "attribution": "From: bodjjo005-ans-0001-0<br>Rights: Photo: \u00c2 Bodleian Libraries, University of Oxford<br>Terms of Access: http://digital.bodleian.ox.ac.uk/terms.html<br>", 
+  "logo": "http://www.bodleian.ox.ac.uk/__data/assets/image/0005/117176/logo.jpg", 
+  "viewingHint": "individuals", 
+  "seeAlso": "http://digital.bodleian.ox.ac.uk/inquire/p/abd5d95a-8ee9-42cb-af56-71ffc7bd09da", 
+  "sequences": [
+    {
+      "@id": "http://iiif.bodleian.ox.ac.uk/iiif/sequence/abd5d95a-8ee9-42cb-af56-71ffc7bd09da_default.json", 
+      "@type": "sc:Sequence", 
+      "label": "Default", 
+      "canvases": [
+        {
+          "@id": "http://iiif.bodleian.ox.ac.uk/iiif/canvas/abd5d95a-8ee9-42cb-af56-71ffc7bd09da.json", 
+          "@type": "sc:Canvas", 
+          "label": " John Joseph Merlin, the celebrated mechanic", 
+          "height": 9894, 
+          "width": 5776, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://iiif.bodleian.ox.ac.uk/iiif/image/abd5d95a-8ee9-42cb-af56-71ffc7bd09da/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 9894, 
+                "width": 5776, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://iiif.bodleian.ox.ac.uk/iiif/image/abd5d95a-8ee9-42cb-af56-71ffc7bd09da", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://iiif.bodleian.ox.ac.uk/iiif/canvas/abd5d95a-8ee9-42cb-af56-71ffc7bd09da.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

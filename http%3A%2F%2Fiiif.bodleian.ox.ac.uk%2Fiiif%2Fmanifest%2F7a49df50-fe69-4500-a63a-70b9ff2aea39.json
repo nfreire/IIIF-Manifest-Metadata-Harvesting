@@ -1,0 +1,120 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json", 
+  "@id": "http://iiif.bodleian.ox.ac.uk/iiif/manifest/7a49df50-fe69-4500-a63a-70b9ff2aea39.json", 
+  "@type": "sc:Manifest", 
+  "label": " [South China Sea and the Gulf of Tonkin, [1701-15?]]", 
+  "metadata": [
+    {
+      "label": "Digital.Bodleian", 
+      "value": "<span>View at: <a href=\"http://digital.bodleian.ox.ac.uk/inquire/p//7a49df50-fe69-4500-a63a-70b9ff2aea39\">Digital.Bodleian</a></span>"
+    }, 
+    {
+      "label": "Subject", 
+      "value": "South China Sea Maps, Manuscript Early works to 1800"
+    }, 
+    {
+      "label": "Coverage", 
+      "value": "South China Sea"
+    }, 
+    {
+      "label": "Coverage", 
+      "value": "Berkshire (England)"
+    }, 
+    {
+      "label": "Identifier", 
+      "value": "Filmstrip Roll 364.1, frame 7"
+    }, 
+    {
+      "label": "Date", 
+      "value": "[1701-15?]"
+    }, 
+    {
+      "label": "Description", 
+      "value": "Close-up of portolan chart of the South China Sea and the Gulf of Tonkin, [1701-15?]"
+    }, 
+    {
+      "label": "Language", 
+      "value": "eng"
+    }, 
+    {
+      "label": "Id", 
+      "value": "7a49df50-fe69-4500-a63a-70b9ff2aea39"
+    }, 
+    {
+      "label": "Publisher", 
+      "value": "London (England)"
+    }, 
+    {
+      "label": "Collection", 
+      "value": "Maps"
+    }, 
+    {
+      "label": "Type", 
+      "value": "Page record"
+    }, 
+    {
+      "label": "Type", 
+      "value": "Image.Graphic.Map"
+    }, 
+    {
+      "label": "Title", 
+      "value": " [South China Sea and the Gulf of Tonkin, [1701-15?]]"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Thornton, Samuel, fl.1707-1715 [cartographer]"
+    }, 
+    {
+      "label": "Format", 
+      "value": "35mm slide"
+    }, 
+    {
+      "label": "Displaylanguage", 
+      "value": "English"
+    }, 
+    {
+      "label": "Source", 
+      "value": "mapsxx003-anh-0001-0"
+    }
+  ], 
+  "description": "Close-up of portolan chart of the South China Sea and the Gulf of Tonkin, [1701-15?]", 
+  "attribution": "From: mapsxx003-anh-0001-0<br>Rights: Photo: \u00c2 Bodleian Libraries, University of Oxford<br>Terms of Access: http://digital.bodleian.ox.ac.uk/terms.html<br>", 
+  "logo": "http://www.bodleian.ox.ac.uk/__data/assets/image/0005/117176/logo.jpg", 
+  "viewingHint": "individuals", 
+  "seeAlso": "http://digital.bodleian.ox.ac.uk/inquire/p/7a49df50-fe69-4500-a63a-70b9ff2aea39", 
+  "sequences": [
+    {
+      "@id": "http://iiif.bodleian.ox.ac.uk/iiif/sequence/7a49df50-fe69-4500-a63a-70b9ff2aea39_default.json", 
+      "@type": "sc:Sequence", 
+      "label": "Default", 
+      "canvases": [
+        {
+          "@id": "http://iiif.bodleian.ox.ac.uk/iiif/canvas/7a49df50-fe69-4500-a63a-70b9ff2aea39.json", 
+          "@type": "sc:Canvas", 
+          "label": " [South China Sea and the Gulf of Tonkin, [1701-15?]]", 
+          "height": 1228, 
+          "width": 1818, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://iiif.bodleian.ox.ac.uk/iiif/image/7a49df50-fe69-4500-a63a-70b9ff2aea39/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1228, 
+                "width": 1818, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://iiif.bodleian.ox.ac.uk/iiif/image/7a49df50-fe69-4500-a63a-70b9ff2aea39", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://iiif.bodleian.ox.ac.uk/iiif/canvas/7a49df50-fe69-4500-a63a-70b9ff2aea39.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
