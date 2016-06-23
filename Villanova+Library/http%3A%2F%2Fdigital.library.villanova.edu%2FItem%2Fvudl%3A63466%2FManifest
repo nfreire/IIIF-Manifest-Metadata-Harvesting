@@ -1,0 +1,1647 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Manifest",
+    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Manifest",
+    "label": "Tax Petition",
+    "metadata": [
+        {
+            "label": "Full Title",
+            "value": "<span>Tax Petition</span>"
+        },
+        {
+            "label": "Author",
+            "value": "<span><a href=\"http://digital.library.villanova.edu/Search/Results?filter[]=author:Diego+de+Barrio+Nuevo\">Diego de Barrio Nuevo</a></span>"
+        },
+        {
+            "label": "Date Added",
+            "value": "<span>13 January 2014</span>"
+        },
+        {
+            "label": "Language",
+            "value": "<span><a href=\"http://digital.library.villanova.edu/Search/Results?filter[]=language:Spanish+%2F+Castilian\">Spanish / Castilian</a></span>"
+        },
+        {
+            "label": "Publish Date",
+            "value": "<span><a href=\"http://digital.library.villanova.edu/Search/Results?filter[]=dc_date_str:1528\">1528</a></span>"
+        },
+        {
+            "label": "Source",
+            "value": "<span><a href=\"http://digital.library.villanova.edu/Search/Results?filter[]=dc_source_str_mv:Manuscript\">Manuscript</a></span>"
+        },
+        {
+            "label": "About",
+            "value": "<span><a href=\"http://digital.library.villanova.edu/Record/vudl:63466\">More Details</a><br /><a href=\"http://digital.library.villanova.edu/Item/vudl:63466\">Permanent Link</a></span>"
+        }
+    ],
+    "description": "<p>OM 15. Petition for removal of tax.</p>",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "Digital Library@Villanova University",
+    "within": "http://digital.library.villanova.edu/Collection/vudl:62524/IIIF",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "label": "Pages",
+            "rendering": [],
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged",
+            "canvases": [
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p0",
+                    "label": "Front Cover",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63468/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63468/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5429,
+                    "width": 3816,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63468/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63468",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5429,
+                                "width": 3816
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p0"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p1",
+                    "label": "1",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63469/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63469/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5251,
+                    "width": 3487,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63469/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63469",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5251,
+                                "width": 3487
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p1"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p2",
+                    "label": "2",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63470/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63470/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5251,
+                    "width": 3673,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63470/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63470",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5251,
+                                "width": 3673
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p2"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p3",
+                    "label": "3",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63471/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63471/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5251,
+                    "width": 3519,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63471/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63471",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5251,
+                                "width": 3519
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p3"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p4",
+                    "label": "4",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63472/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63472/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5251,
+                    "width": 3649,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63472/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63472",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5251,
+                                "width": 3649
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p4"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p5",
+                    "label": "5",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63473/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63473/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5251,
+                    "width": 3566,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63473/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63473",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5251,
+                                "width": 3566
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p5"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p6",
+                    "label": "6",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63474/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63474/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5404,
+                    "width": 3626,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63474/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63474",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5404,
+                                "width": 3626
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p6"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p7",
+                    "label": "7",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63475/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63475/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5404,
+                    "width": 3626,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63475/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63475",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5404,
+                                "width": 3626
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p7"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p8",
+                    "label": "8",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63476/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63476/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5404,
+                    "width": 3626,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63476/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63476",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5404,
+                                "width": 3626
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p8"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p9",
+                    "label": "9",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63477/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63477/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5404,
+                    "width": 3519,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63477/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63477",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5404,
+                                "width": 3519
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p9"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p10",
+                    "label": "10",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63478/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63478/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5394,
+                    "width": 3519,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63478/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63478",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5394,
+                                "width": 3519
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p10"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p11",
+                    "label": "11",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63479/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63479/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5394,
+                    "width": 3519,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63479/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63479",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5394,
+                                "width": 3519
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p11"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p12",
+                    "label": "12",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63480/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63480/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5394,
+                    "width": 3519,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63480/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63480",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5394,
+                                "width": 3519
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p12"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p13",
+                    "label": "13",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63481/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63481/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5394,
+                    "width": 3519,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63481/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63481",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5394,
+                                "width": 3519
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p13"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p14",
+                    "label": "14",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63482/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63482/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5394,
+                    "width": 3519,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63482/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63482",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5394,
+                                "width": 3519
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p14"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p15",
+                    "label": "15",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63483/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63483/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5394,
+                    "width": 3447,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63483/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63483",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5394,
+                                "width": 3447
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p15"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p16",
+                    "label": "16",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63484/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63484/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5394,
+                    "width": 3586,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63484/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63484",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5394,
+                                "width": 3586
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p16"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p17",
+                    "label": "17",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63485/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63485/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5394,
+                    "width": 3490,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63485/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63485",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5394,
+                                "width": 3490
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p17"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p18",
+                    "label": "18",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63486/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63486/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5394,
+                    "width": 3490,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63486/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63486",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5394,
+                                "width": 3490
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p18"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p19",
+                    "label": "19",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63487/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63487/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5394,
+                    "width": 3383,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63487/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63487",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5394,
+                                "width": 3383
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p19"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p20",
+                    "label": "20",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63488/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63488/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5394,
+                    "width": 3383,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63488/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63488",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5394,
+                                "width": 3383
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p20"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p21",
+                    "label": "21",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63489/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63489/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5394,
+                    "width": 3252,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63489/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63489",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5394,
+                                "width": 3252
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p21"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p22",
+                    "label": "22",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63490/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63490/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5394,
+                    "width": 3428,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63490/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63490",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5394,
+                                "width": 3428
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p22"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p23",
+                    "label": "23",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63491/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63491/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5394,
+                    "width": 3557,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63491/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63491",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5394,
+                                "width": 3557
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p23"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p24",
+                    "label": "24",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63492/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63492/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5394,
+                    "width": 3557,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63492/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63492",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5394,
+                                "width": 3557
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p24"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p25",
+                    "label": "25",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63493/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63493/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5394,
+                    "width": 3687,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63493/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63493",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5394,
+                                "width": 3687
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p25"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p26",
+                    "label": "26",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63494/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63494/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5394,
+                    "width": 3452,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63494/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63494",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5394,
+                                "width": 3452
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p26"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p27",
+                    "label": "27",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63495/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63495/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5394,
+                    "width": 3652,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63495/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63495",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5394,
+                                "width": 3652
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p27"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p28",
+                    "label": "28",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63496/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63496/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5394,
+                    "width": 3488,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63496/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63496",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5394,
+                                "width": 3488
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p28"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p29",
+                    "label": "29",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63497/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63497/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5288,
+                    "width": 3640,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63497/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63497",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5288,
+                                "width": 3640
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p29"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p30",
+                    "label": "30",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63498/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63498/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5288,
+                    "width": 3476,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63498/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63498",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5288,
+                                "width": 3476
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p30"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p31",
+                    "label": "31",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63499/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63499/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5288,
+                    "width": 3653,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63499/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63499",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5288,
+                                "width": 3653
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p31"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p32",
+                    "label": "32",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63500/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63500/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5288,
+                    "width": 3405,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63500/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63500",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5288,
+                                "width": 3405
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p32"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p33",
+                    "label": "33",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63501/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63501/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5288,
+                    "width": 3686,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63501/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63501",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5288,
+                                "width": 3686
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p33"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p34",
+                    "label": "34",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63502/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63502/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5346,
+                    "width": 3333,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63502/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63502",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5346,
+                                "width": 3333
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p34"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p35",
+                    "label": "35",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63503/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63503/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5346,
+                    "width": 3603,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63503/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63503",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5346,
+                                "width": 3603
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p35"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p36",
+                    "label": "36",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63504/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63504/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5346,
+                    "width": 3461,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63504/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63504",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5346,
+                                "width": 3461
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p36"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p37",
+                    "label": "37",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63505/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63505/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5346,
+                    "width": 3581,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63505/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63505",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5346,
+                                "width": 3581
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p37"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p38",
+                    "label": "38",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63506/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63506/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5346,
+                    "width": 3359,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63506/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63506",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5346,
+                                "width": 3359
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p38"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p39",
+                    "label": "39",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63507/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63507/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5346,
+                    "width": 3677,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63507/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63507",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5346,
+                                "width": 3677
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p39"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p40",
+                    "label": "40",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63508/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63508/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5322,
+                    "width": 3490,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63508/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63508",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5322,
+                                "width": 3490
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p40"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p41",
+                    "label": "Rear cover",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63509/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63509/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5357,
+                    "width": 3829,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63509/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63509",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5357,
+                                "width": 3829
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63466/Canvas/p41"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

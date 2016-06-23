@@ -1,0 +1,1306 @@
+
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101763/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Potter's electric news (1868-01-15)", 
+				"navDate":"1868-01-15T00:00:00Z",
+            "metadata": [
+        
+            {
+            "label":[
+            { "@value":"Publisher", "@language": "en"},
+            { "@value":"Cyhoeddwr", "@language": "cy-GB"}
+            ],
+            "value": "Joseph Potter"
+            },
+        
+            {
+            "label": "Place of Publication",
+            "value": "Haverfordwest"
+            },
+        
+            {
+            "label":[
+            { "@value":"Frequency", "@language": "en"},
+            { "@value":"Amlder", "@language": "cy-GB"}
+            ],
+            "value": "Weekly"
+            },
+        
+            {
+            "label": "Language",
+            "value": "eng"
+            },
+        
+        
+        {
+        "label": "Subject",
+        "value": [
+        
+            "Wales Newspapers 19th century",
+            "Haverfordwest (Wales) Newspapers",
+            "Pembrokeshire (Wales) Newspapers",
+            "Begelly (Wales) Newspapers",
+            "Fishguard (Wales) Newspapers",
+            "Tenby (Wales) Newspapers",
+            "Milford Haven (Wales) Newspapers"
+        ]
+        },
+        {
+        "label":[
+        { "@value":"Repository", "@language": "en"},
+        { "@value":"Ystorfa", "@language": "cy-GB"}],
+        "value":[
+        { "@value":"This content has been digitised by The National Library of Wales", "@language": "en"},
+        { "@value":"Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru", "@language": "cy-GB"}
+        ]
+        }
+            ],
+            "within": "http://dams.llgc.org.uk/iiif/newspapers/3100020.json",
+            "sequences": [
+            {
+                "@type": "sc:Sequence",
+                "canvases": [
+            
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/2.0/3101763/canvas/3101764.json",
+                    "@type":"sc:Canvas",
+                    
+                    "label":"[1]",
+                    "height":8015,
+                    "width":4850,
+                    "images": [
+                    {
+                        "@id":"http://dams.llgc.org.uk/iiif/2.0/3101763/annotation/3101764.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource": {
+                            "@id":"http://dams.llgc.org.uk/iiif/2.0/3101763/res/3101764.jpg",
+                            "@type":"dctypes:Image",
+                            "format":"image/jpeg",
+                            "service": {
+                                "@context": "http://iiif.io/api/image/2/context.json",
+                                "@id":"http://dams.llgc.org.uk/iiif/2.0/image/3101764",
+                                "profile":"http://iiif.io/api/image/2/level1.json",
+                                "height":8015,
+                                "width":4850,
+                                "tiles" : [{
+                                    "width": 256,
+                                    "scaleFactors": [ 1, 2, 4, 8, 16, 32 ]
+                                }]
+                            },
+                            "height":8015,
+                            "width":4850
+                        },
+                        "on":"http://dams.llgc.org.uk/iiif/2.0/3101763/canvas/3101764.json"
+                    }],
+                    "otherContent": [
+                        
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101764/annotation/list/ART1.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "Advertising",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART1.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101764/annotation/list/ART2.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "MBROKESHIRE AND HAVERFORDWEST INFIRMARY.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART2.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101764/annotation/list/ART3.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "Advertising",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART3.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101764/annotation/list/ART4.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "ST. KATHERINE'S CHAPEL, MILFORD.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART4.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101764/annotation/list/ART5.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "-'-.-HAROLDSTON WEST CHURCH RESTORATION FUND.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART5.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101764/annotation/list/ART6.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "JEFFREYSTONE CHURCH FUND.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART6.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101764/annotation/list/ART7.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "HAVERFORDWEST RIFLE VOLUNTEERS.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART7.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101764/annotation/list/ART8.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "Advertising",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART8.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            }
+                    ]
+                },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/2.0/3101763/canvas/3101765.json",
+                    "@type":"sc:Canvas",
+                    
+                    "label":"[2]",
+                    "height":8015,
+                    "width":4850,
+                    "images": [
+                    {
+                        "@id":"http://dams.llgc.org.uk/iiif/2.0/3101763/annotation/3101765.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource": {
+                            "@id":"http://dams.llgc.org.uk/iiif/2.0/3101763/res/3101765.jpg",
+                            "@type":"dctypes:Image",
+                            "format":"image/jpeg",
+                            "service": {
+                                "@context": "http://iiif.io/api/image/2/context.json",
+                                "@id":"http://dams.llgc.org.uk/iiif/2.0/image/3101765",
+                                "profile":"http://iiif.io/api/image/2/level1.json",
+                                "height":8015,
+                                "width":4850,
+                                "tiles" : [{
+                                    "width": 256,
+                                    "scaleFactors": [ 1, 2, 4, 8, 16, 32 ]
+                                }]
+                            },
+                            "height":8015,
+                            "width":4850
+                        },
+                        "on":"http://dams.llgc.org.uk/iiif/2.0/3101763/canvas/3101765.json"
+                    }],
+                    "otherContent": [
+                        
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101765/annotation/list/ART9.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "NOTICE TO SUBSCRIBERS.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART9.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101765/annotation/list/ART10.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "TO CORRESPONDENTS. I N",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART10.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101765/annotation/list/ART11.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "HAVERFORDWEST POSTAL REGULATIONS",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART11.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101765/annotation/list/ART12.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "LOOAL INTELLIGENOE.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART12.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101765/annotation/list/ART13.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "T E N B Y.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART13.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101765/annotation/list/ART14.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "CHRISTMAS ENTERTAINMENT TO THE POOR.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART14.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101765/annotation/list/ART15.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "THE FANCY BALL.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART15.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101765/annotation/list/ART16.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "TENBY CORPORATION.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART16.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101765/annotation/list/ART17.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "! CARDIGAN.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART17.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101765/annotation/list/ART18.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "CARMARTHEN.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART18.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101765/annotation/list/ART19.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "Advertising",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART19.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            }
+                    ]
+                },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/2.0/3101763/canvas/3101766.json",
+                    "@type":"sc:Canvas",
+                    
+                    "label":"[3]",
+                    "height":8015,
+                    "width":4850,
+                    "images": [
+                    {
+                        "@id":"http://dams.llgc.org.uk/iiif/2.0/3101763/annotation/3101766.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource": {
+                            "@id":"http://dams.llgc.org.uk/iiif/2.0/3101763/res/3101766.jpg",
+                            "@type":"dctypes:Image",
+                            "format":"image/jpeg",
+                            "service": {
+                                "@context": "http://iiif.io/api/image/2/context.json",
+                                "@id":"http://dams.llgc.org.uk/iiif/2.0/image/3101766",
+                                "profile":"http://iiif.io/api/image/2/level1.json",
+                                "height":8015,
+                                "width":4850,
+                                "tiles" : [{
+                                    "width": 256,
+                                    "scaleFactors": [ 1, 2, 4, 8, 16, 32 ]
+                                }]
+                            },
+                            "height":8015,
+                            "width":4850
+                        },
+                        "on":"http://dams.llgc.org.uk/iiif/2.0/3101763/canvas/3101766.json"
+                    }],
+                    "otherContent": [
+                        
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101766/annotation/list/ART20.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "HUNTING APPOINTMENTS.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART20.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101766/annotation/list/ART21.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "Family Notices",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART21.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101766/annotation/list/ART22.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "lIA Y E R FOR D WE S T MARKET. fe6ef Saturday, January 4, 1867,",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART22.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101766/annotation/list/ART23.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "TRA^ EAT WESTERN RAILWAY.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART23.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101766/annotation/list/ART24.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "[No title]",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART24.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101766/annotation/list/ART25.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "[No title]",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART25.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101766/annotation/list/ART26.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "DREADFUL TRAGEDY IN FINSBURY.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART26.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101766/annotation/list/ART27.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "FENIANISM IN IRELAND.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART27.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101766/annotation/list/ART28.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "THE ERUPTION OF MOUNT VESUVIUS.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART28.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            }
+                    ]
+                },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/2.0/3101763/canvas/3101767.json",
+                    "@type":"sc:Canvas",
+                    
+                    "label":"[4]",
+                    "height":8015,
+                    "width":4850,
+                    "images": [
+                    {
+                        "@id":"http://dams.llgc.org.uk/iiif/2.0/3101763/annotation/3101767.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource": {
+                            "@id":"http://dams.llgc.org.uk/iiif/2.0/3101763/res/3101767.jpg",
+                            "@type":"dctypes:Image",
+                            "format":"image/jpeg",
+                            "service": {
+                                "@context": "http://iiif.io/api/image/2/context.json",
+                                "@id":"http://dams.llgc.org.uk/iiif/2.0/image/3101767",
+                                "profile":"http://iiif.io/api/image/2/level1.json",
+                                "height":8015,
+                                "width":4850,
+                                "tiles" : [{
+                                    "width": 256,
+                                    "scaleFactors": [ 1, 2, 4, 8, 16, 32 ]
+                                }]
+                            },
+                            "height":8015,
+                            "width":4850
+                        },
+                        "on":"http://dams.llgc.org.uk/iiif/2.0/3101763/canvas/3101767.json"
+                    }],
+                    "otherContent": [
+                        
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101767/annotation/list/ART29.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "THE ABYSSINIAN EXPEDITION.)",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART29.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101767/annotation/list/ART30.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "SWEAR IN THE\" SPECIALS\"!",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART30.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3101767/annotation/list/ART31.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "SOUTH WALES RAILWAY TIME TABLE.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART31.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            }
+                    ]
+                }
+                ]
+            }],
+            "structures":[
+            
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART1",
+                    "@type":"sc:Range",
+                    "label":"Advertising",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Advertising"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101764#xywh=759,2634,3084,6744"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART1.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART2",
+                    "@type":"sc:Range",
+                    "label":"MBROKESHIRE AND HAVERFORDWEST INFIRMARY.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Detailed Lists, Results and Guides"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101764#xywh=711,9459,3126,13395"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART2.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART3",
+                    "@type":"sc:Range",
+                    "label":"Advertising",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Advertising"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101764#xywh=3921,2820,6408,12378"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART3.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART4",
+                    "@type":"sc:Range",
+                    "label":"ST. KATHERINE'S CHAPEL, MILFORD.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Detailed Lists, Results and Guides"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101764#xywh=3888,15231,3192,7854"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART4.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART5",
+                    "@type":"sc:Range",
+                    "label":"-'-.-HAROLDSTON WEST CHURCH RESTORATION FUND.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Detailed Lists, Results and Guides"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101764#xywh=7080,12420,3255,4719"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART5.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART6",
+                    "@type":"sc:Range",
+                    "label":"JEFFREYSTONE CHURCH FUND.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Detailed Lists, Results and Guides"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101764#xywh=7080,17469,3177,5520"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART6.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART7",
+                    "@type":"sc:Range",
+                    "label":"HAVERFORDWEST RIFLE VOLUNTEERS.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Detailed Lists, Results and Guides"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101764#xywh=10332,2802,3267,4563"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART7.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART8",
+                    "@type":"sc:Range",
+                    "label":"Advertising",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Advertising"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101764#xywh=10362,7674,3387,15348"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART8.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART9",
+                    "@type":"sc:Range",
+                    "label":"NOTICE TO SUBSCRIBERS.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"It is particularly requested that all remittances be ca&ie to the TRUSTEES, Herald ONce, High-street. I ■1i",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101765#xywh=756,1290,3135,489"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART9.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART10",
+                    "@type":"sc:Range",
+                    "label":"TO CORRESPONDENTS. I N",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"o notice can be taken of anonymous communications Whatever is intandecl for insertion must be authenticated by the nsrneandaddresa of the writer; nof necessarilyforpublication, but as a guarantee of good faith.",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101765#xywh=768,1983,3156,1092"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART10.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART11",
+                    "@type":"sc:Range",
+                    "label":"HAVERFORDWEST POSTAL REGULATIONS",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Detailed Lists, Results and Guides"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101765#xywh=744,3204,3243,5214"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART11.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART12",
+                    "@type":"sc:Range",
+                    "label":"LOOAL INTELLIGENOE.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"Miss EDITH 'WYNNE.—From the Athenaeum we learn that Miss Edith Wynne the famous Welsh songstress, intends soon to go to Italy, in order to pursue her musical studies. The above periodical also- adds : 'She ought",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101765#xywh=765,1290,6513,22083"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART12.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART13",
+                    "@type":"sc:Range",
+                    "label":"T E N B Y.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"SPECIAL CONSTABLES.—At a meeting of the Special Constables, held at the Town Hall, Colonel Curtis. C.B., was appointed Superintendent of Division, Major Kempson Deputy-Superintendent of the South Sub-division,",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101765#xywh=4017,7713,3312,15606"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART13.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART14",
+                    "@type":"sc:Range",
+                    "label":"CHRISTMAS ENTERTAINMENT TO THE POOR.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"On Monday the 6th inst, a good old custom was kept up, or rather revived, which we hope to see renewed at every recurrence of the joyful season of Christmas. Our Rector, from the pulpit, had given his parishioners a",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101765#xywh=7242,1272,3159,4791"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART14.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART15",
+                    "@type":"sc:Range",
+                    "label":"THE FANCY BALL.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":".The following is a list of those who were present Mrs H. Herbert Miss C. Herbert-Flora\" Miss Thomas—Artemis",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101765#xywh=7278,6267,3291,14835"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART15.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART16",
+                    "@type":"sc:Range",
+                    "label":"TENBY CORPORATION.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"IAt a Special Meeting of the Town Council on Wednesday, present: The Mayor, Aldermen Wells, Rees and IMason; Councillors C. Allen, G. White, J. Gregory, G Hughes, M. Phillips, G. Mends, W. W. Rees, W. Gibbs,",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101765#xywh=7227,1218,6414,22137"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART16.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART17",
+                    "@type":"sc:Range",
+                    "label":"! CARDIGAN.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"I SAD CATASTROPHE.—-In the Mwnt Parish, digan, there ia a wild rocky hillock near Treatb-y-^geJ called the Moel, and it is the resort of large ° jyo0i gulls. On holidays, the young men of the neiga mU&e",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101765#xywh=10542,11490,3066,3597"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART17.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART18",
+                    "@type":"sc:Range",
+                    "label":"CARMARTHEN.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"rrn ARCHDEACON WILLIAMS'S ANNUAL DINNER T. AGED POOR.—The annual dinner given by Arch a® ^0 Williams to the aged communicants of his church, fa",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101765#xywh=10578,15174,3078,4335"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART18.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART19",
+                    "@type":"sc:Range",
+                    "label":"Advertising",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Advertising"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101765#xywh=10602,19716,3090,3618"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART19.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART20",
+                    "@type":"sc:Range",
+                    "label":"HUNTING APPOINTMENTS.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Detailed Lists, Results and Guides"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101766#xywh=690,1206,3060,2013"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART20.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART21",
+                    "@type":"sc:Range",
+                    "label":"Family Notices",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Family Notices"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101766#xywh=705,3252,3078,4935"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART21.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART22",
+                    "@type":"sc:Range",
+                    "label":"lIA Y E R FOR D WE S T MARKET. fe6ef Saturday, January 4, 1867,",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"1° 0li, pito7d! Mutton, 6d to 7d; Lamb, Odtofld; Veal 7d 3, p . ^ t0 6d; Butter, Is 3d to Is 4d ; Eggs, 20 for Is ; t ese. ,to Od per couple; Ducks, 3s Od to 4s Od ditto; d to 58 Bd, Turkeys, 5s Cd to 7s Od each; Cheese, 3d",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101766#xywh=765,8322,3021,1185"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART22.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART23",
+                    "@type":"sc:Range",
+                    "label":"TRA^ EAT WESTERN RAILWAY.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"^°talC *or week ending January 5,1867:— * ^>054: Corresponding week, 186'6, £ 57,103. j ^ WMRNI^W^MRNM ■■<■■■ ■■ \"\" '",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101766#xywh=756,9510,3018,804"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART23.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART24",
+                    "@type":"sc:Range",
+                    "label":"[No title]",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"^tWoNl'.Hr^>RA^ERS'—^ar'n§ ^onS French war, one -Is *n Stranraer were going to the kirk, as it not a wonderful ^ battle ' Were aYe victorious over the French",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101766#xywh=708,10293,3141,8487"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART24.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART25",
+                    "@type":"sc:Range",
+                    "label":"[No title]",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"IN EX™AOEBINARY.—\"THE LIMNER\" (Re- ' Mih<llelt by George Bell, Esq, late of the Go- J l° Dra °° -^es%Q—i3 invaluable to all who \\hS,> Writ-^ correspondent of the \"Building 4",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101766#xywh=606,18825,3246,4701"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART25.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART26",
+                    "@type":"sc:Range",
+                    "label":"DREADFUL TRAGEDY IN FINSBURY.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"A little boy named J mes Stranegways was found dead in a house in Clifton-street, Finsbury. under extraordinary circumstances, on Thursday. He was only 13 years old, and was the son of a",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101766#xywh=3837,1305,3180,22191"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART26.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART27",
+                    "@type":"sc:Range",
+                    "label":"FENIANISM IN IRELAND.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"A telegram from Cork say ' On Friday, at midnight, the outside pocket of one of two men passing through Patrick Street was perceived to be on fire. He immediately took off his coat, flung it in the street, and both",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101766#xywh=7002,1278,3270,22182"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART27.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART28",
+                    "@type":"sc:Range",
+                    "label":"THE ERUPTION OF MOUNT VESUVIUS.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"RRU NAPLES, JAN. 12. 1 be lava is still flowing copiously from the crater of Mount Vesuvius. The stream of lava is from seven to eight metres high, and from fifty to sixty brord. Shocks",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101766#xywh=10296,1314,3345,22116"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART28.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART29",
+                    "@type":"sc:Range",
+                    "label":"THE ABYSSINIAN EXPEDITION.)",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"ALEXANDRIA, JAN. 9. Advices from Annesly Bay state that bands of natives are prowling about the English encamp ment at Senafe.",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101767#xywh=849,1266,9642,22236"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART29.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART30",
+                    "@type":"sc:Range",
+                    "label":"SWEAR IN THE\" SPECIALS\"!",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"i Swear in the Specials !-There's danger in delay. And wise men should get ready, whatever fools may say! There is treason in the air-there is murder in the",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101767#xywh=10527,1326,3075,8496"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART30.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3101763/article/ART31",
+                    "@type":"sc:Range",
+                    "label":"SOUTH WALES RAILWAY TIME TABLE.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Detailed Lists, Results and Guides"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3101763/canvas/3101767#xywh=10533,9900,3087,13443"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3101763/annotation/layer/ART31.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    }
+            ]
+      }      
+    

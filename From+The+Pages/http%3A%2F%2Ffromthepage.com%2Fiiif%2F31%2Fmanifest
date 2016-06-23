@@ -1,0 +1,80 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://fromthepage.com/iiif/31/manifest",
+  "@type": "sc:Manifest",
+  "label": "Cottbus 27 May 1917",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "label": "Pages",
+      "canvases": [
+        {
+          "@id": "http://fromthepage.com/iiif/31/manifest/2708/canvas",
+          "@type": "sc:Canvas",
+          "label": "front",
+          "width": 1736,
+          "height": 1184,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/2708",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/2708/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 1736,
+                "height": 1184,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/2708",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/31/manifest/2708/canvas"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://fromthepage.com/iiif/31/manifest/2708/list",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/31/manifest/2709/canvas",
+          "@type": "sc:Canvas",
+          "label": "back",
+          "width": 1752,
+          "height": 1176,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/2709",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/2709/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 1752,
+                "height": 1176,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/2709",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/31/manifest/2709/canvas"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://fromthepage.com/iiif/31/manifest/2709/list",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1479 @@
+
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100411/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Potter's electric news (1861-11-13)", 
+				"navDate":"1861-11-13T00:00:00Z",
+            "metadata": [
+        
+            {
+            "label":[
+            { "@value":"Publisher", "@language": "en"},
+            { "@value":"Cyhoeddwr", "@language": "cy-GB"}
+            ],
+            "value": "Joseph Potter"
+            },
+        
+            {
+            "label": "Place of Publication",
+            "value": "Haverfordwest"
+            },
+        
+            {
+            "label":[
+            { "@value":"Frequency", "@language": "en"},
+            { "@value":"Amlder", "@language": "cy-GB"}
+            ],
+            "value": "Weekly"
+            },
+        
+            {
+            "label": "Language",
+            "value": "eng"
+            },
+        
+        
+        {
+        "label": "Subject",
+        "value": [
+        
+            "Wales Newspapers 19th century",
+            "Haverfordwest (Wales) Newspapers",
+            "Pembrokeshire (Wales) Newspapers",
+            "Begelly (Wales) Newspapers",
+            "Fishguard (Wales) Newspapers",
+            "Tenby (Wales) Newspapers",
+            "Milford Haven (Wales) Newspapers"
+        ]
+        },
+        {
+        "label":[
+        { "@value":"Repository", "@language": "en"},
+        { "@value":"Ystorfa", "@language": "cy-GB"}],
+        "value":[
+        { "@value":"This content has been digitised by The National Library of Wales", "@language": "en"},
+        { "@value":"Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru", "@language": "cy-GB"}
+        ]
+        }
+            ],
+            "within": "http://dams.llgc.org.uk/iiif/newspapers/3100020.json",
+            "sequences": [
+            {
+                "@type": "sc:Sequence",
+                "canvases": [
+            
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/2.0/3100411/canvas/3100412.json",
+                    "@type":"sc:Canvas",
+                    
+                    "label":"[1]",
+                    "height":8015,
+                    "width":4850,
+                    "images": [
+                    {
+                        "@id":"http://dams.llgc.org.uk/iiif/2.0/3100411/annotation/3100412.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource": {
+                            "@id":"http://dams.llgc.org.uk/iiif/2.0/3100411/res/3100412.jpg",
+                            "@type":"dctypes:Image",
+                            "format":"image/jpeg",
+                            "service": {
+                                "@context": "http://iiif.io/api/image/2/context.json",
+                                "@id":"http://dams.llgc.org.uk/iiif/2.0/image/3100412",
+                                "profile":"http://iiif.io/api/image/2/level1.json",
+                                "height":8015,
+                                "width":4850,
+                                "tiles" : [{
+                                    "width": 256,
+                                    "scaleFactors": [ 1, 2, 4, 8, 16, 32 ]
+                                }]
+                            },
+                            "height":8015,
+                            "width":4850
+                        },
+                        "on":"http://dams.llgc.org.uk/iiif/2.0/3100411/canvas/3100412.json"
+                    }],
+                    "otherContent": [
+                        
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100412/annotation/list/ART1.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "Advertising",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART1.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100412/annotation/list/ART2.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "STEAM COMMUNICATION BETWEEN LIVERPOOL, MILFORD, SWANSEA, & BRISTOL For the Month of NO VEMBER, 1861.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART2.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100412/annotation/list/ART3.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "jST. MARTIN'S CHURCH, HAVERFORDWEST.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART3.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100412/annotation/list/ART4.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "Advertising",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART4.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100412/annotation/list/ART5.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "A FRIEND IN NEED!",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART5.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100412/annotation/list/ART6.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "Advertising",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART6.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100412/annotation/list/ART7.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "THE HAVERFORDWEST LIFE INSURANCE UNION SOCIETY,",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART7.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100412/annotation/list/ART8.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "Advertising",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART8.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            }
+                    ]
+                },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/2.0/3100411/canvas/3100413.json",
+                    "@type":"sc:Canvas",
+                    
+                    "label":"[2]",
+                    "height":8015,
+                    "width":4850,
+                    "images": [
+                    {
+                        "@id":"http://dams.llgc.org.uk/iiif/2.0/3100411/annotation/3100413.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource": {
+                            "@id":"http://dams.llgc.org.uk/iiif/2.0/3100411/res/3100413.jpg",
+                            "@type":"dctypes:Image",
+                            "format":"image/jpeg",
+                            "service": {
+                                "@context": "http://iiif.io/api/image/2/context.json",
+                                "@id":"http://dams.llgc.org.uk/iiif/2.0/image/3100413",
+                                "profile":"http://iiif.io/api/image/2/level1.json",
+                                "height":8015,
+                                "width":4850,
+                                "tiles" : [{
+                                    "width": 256,
+                                    "scaleFactors": [ 1, 2, 4, 8, 16, 32 ]
+                                }]
+                            },
+                            "height":8015,
+                            "width":4850
+                        },
+                        "on":"http://dams.llgc.org.uk/iiif/2.0/3100411/canvas/3100413.json"
+                    }],
+                    "otherContent": [
+                        
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100413/annotation/list/ART9.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "HAVERFORDWEST RIFLE VOLUNTEERS.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART9.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100413/annotation/list/ART10.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "PEMBROKE-DOCK TIDE TABLE.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART10.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100413/annotation/list/ART11.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "'LOCAL INTELLIGENCE.'",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART11.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100413/annotation/list/ART12.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "TENBY.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART12.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100413/annotation/list/ART13.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "PEÑIB:ROKE.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART13.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100413/annotation/list/ART14.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "THE ELECTION OF MAYOR.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART14.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100413/annotation/list/ART15.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "MILFORD.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART15.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100413/annotation/list/ART16.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "NARBERTH.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART16.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100413/annotation/list/ART17.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "FISHGU ARD.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART17.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            }
+                    ]
+                },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/2.0/3100411/canvas/3100414.json",
+                    "@type":"sc:Canvas",
+                    
+                    "label":"[3]",
+                    "height":8015,
+                    "width":4850,
+                    "images": [
+                    {
+                        "@id":"http://dams.llgc.org.uk/iiif/2.0/3100411/annotation/3100414.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource": {
+                            "@id":"http://dams.llgc.org.uk/iiif/2.0/3100411/res/3100414.jpg",
+                            "@type":"dctypes:Image",
+                            "format":"image/jpeg",
+                            "service": {
+                                "@context": "http://iiif.io/api/image/2/context.json",
+                                "@id":"http://dams.llgc.org.uk/iiif/2.0/image/3100414",
+                                "profile":"http://iiif.io/api/image/2/level1.json",
+                                "height":8015,
+                                "width":4850,
+                                "tiles" : [{
+                                    "width": 256,
+                                    "scaleFactors": [ 1, 2, 4, 8, 16, 32 ]
+                                }]
+                            },
+                            "height":8015,
+                            "width":4850
+                        },
+                        "on":"http://dams.llgc.org.uk/iiif/2.0/3100411/canvas/3100414.json"
+                    }],
+                    "otherContent": [
+                        
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100414/annotation/list/ART18.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "FISHGU ARD.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART18.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100414/annotation/list/ART19.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "CORRESPONDENCE.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART19.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100414/annotation/list/ART20.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "THE BURIAL OF THE REV. DAVID GRIFFITHS, OF ACCRINGTON.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART20.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100414/annotation/list/ART21.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "GENERAL INT K LLTG-EXOE. J",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART21.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100414/annotation/list/ART22.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "Family Notices",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART22.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100414/annotation/list/ART23.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "-.-HAVERFORDWEST MARKET.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART23.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100414/annotation/list/ART24.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "FAIRS FOR PEMBROKESHIRE.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART24.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100414/annotation/list/ART25.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "HUNTING APPOINTMENTS.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART25.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100414/annotation/list/ART26.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "Advertising",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART26.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            }
+                    ]
+                },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/2.0/3100411/canvas/3100415.json",
+                    "@type":"sc:Canvas",
+                    
+                    "label":"[4]",
+                    "height":8015,
+                    "width":4850,
+                    "images": [
+                    {
+                        "@id":"http://dams.llgc.org.uk/iiif/2.0/3100411/annotation/3100415.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource": {
+                            "@id":"http://dams.llgc.org.uk/iiif/2.0/3100411/res/3100415.jpg",
+                            "@type":"dctypes:Image",
+                            "format":"image/jpeg",
+                            "service": {
+                                "@context": "http://iiif.io/api/image/2/context.json",
+                                "@id":"http://dams.llgc.org.uk/iiif/2.0/image/3100415",
+                                "profile":"http://iiif.io/api/image/2/level1.json",
+                                "height":8015,
+                                "width":4850,
+                                "tiles" : [{
+                                    "width": 256,
+                                    "scaleFactors": [ 1, 2, 4, 8, 16, 32 ]
+                                }]
+                            },
+                            "height":8015,
+                            "width":4850
+                        },
+                        "on":"http://dams.llgc.org.uk/iiif/2.0/3100411/canvas/3100415.json"
+                    }],
+                    "otherContent": [
+                        
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100415/annotation/list/ART27.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "DEPARTED SUMMER.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART27.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100415/annotation/list/ART28.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "... ROSA'S CERTIFICATE.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART28.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100415/annotation/list/ART29.json",
+                                "@type": "sc:AnnotationList",
+                                "label": ".. STATIONS OF THE BRITISH ARMY.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART29.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100415/annotation/list/ART30.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "IROYAL NAVY IN COMMISSION.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART30.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100415/annotation/list/ART31.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "[No title]",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART31.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100415/annotation/list/ART32.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "THE LONDON MARKETS.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART32.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100415/annotation/list/ART33.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "BREAD.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART33.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100415/annotation/list/ART34.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "BUTTER MARKET.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART34.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100415/annotation/list/ART35.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "POTATO MARKET.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART35.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100415/annotation/list/ART36.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "HOP MARKET.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART36.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            },
+                            {
+                                "@id": "http://dams.llgc.org.uk/iiif/3100415/annotation/list/ART37.json",
+                                "@type": "sc:AnnotationList",
+                                "label": "sour II WALES RAILWAY TIME TABLE, CORRECTED FROM COMPANY'S TABLES FOR OCTOBER.",
+                                "within": 
+                                {
+                                    "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART37.json",
+                                    "@type": "sc:Layer",
+                                    "label": "OCR Article Text"
+                                }
+                            }
+                    ]
+                }
+                ]
+            }],
+            "structures":[
+            
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART1",
+                    "@type":"sc:Range",
+                    "label":"Advertising",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Advertising"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100412#xywh=786,2907,3210,9846"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART1.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART2",
+                    "@type":"sc:Range",
+                    "label":"STEAM COMMUNICATION BETWEEN LIVERPOOL, MILFORD, SWANSEA, & BRISTOL For the Month of NO VEMBER, 1861.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Detailed Lists, Results and Guides"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100412#xywh=795,12801,3171,4014"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART2.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART3",
+                    "@type":"sc:Range",
+                    "label":"jST. MARTIN'S CHURCH, HAVERFORDWEST.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Detailed Lists, Results and Guides"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100412#xywh=780,16887,3186,6168"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART3.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART4",
+                    "@type":"sc:Range",
+                    "label":"Advertising",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Advertising"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100412#xywh=4053,2907,6405,11121"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART4.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART5",
+                    "@type":"sc:Range",
+                    "label":"A FRIEND IN NEED!",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Detailed Lists, Results and Guides"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100412#xywh=3990,15693,3186,7347"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART5.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART6",
+                    "@type":"sc:Range",
+                    "label":"Advertising",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Advertising"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100412#xywh=7287,12483,3144,1725"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART6.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART7",
+                    "@type":"sc:Range",
+                    "label":"THE HAVERFORDWEST LIFE INSURANCE UNION SOCIETY,",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Detailed Lists, Results and Guides"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100412#xywh=7269,14415,3156,1890"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART7.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART8",
+                    "@type":"sc:Range",
+                    "label":"Advertising",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Advertising"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100412#xywh=7197,2808,6498,20271"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART8.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART9",
+                    "@type":"sc:Range",
+                    "label":"HAVERFORDWEST RIFLE VOLUNTEERS.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Detailed Lists, Results and Guides"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100413#xywh=828,1086,3165,4914"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART9.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART10",
+                    "@type":"sc:Range",
+                    "label":"PEMBROKE-DOCK TIDE TABLE.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Detailed Lists, Results and Guides"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100413#xywh=861,6042,3123,1557"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART10.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART11",
+                    "@type":"sc:Range",
+                    "label":"'LOCAL INTELLIGENCE.'",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"ENIGMA-(By A LADY)—What does a decayed tooth and a run on the Bank require?—Stopping. I HAVERFORDWEST PETTY SESSIONS—At this sessions, ' held on Wednesday at the Shire Hall, Thomas James, a",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100413#xywh=828,981,9636,22152"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART11.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART12",
+                    "@type":"sc:Range",
+                    "label":"TENBY.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"MAYOR'S DAY.—On Saturday, the 9th instant, being 'mayor's day,' some of the friends and admirers of the present mayor. Dr. Sutton, intend giving him a public dinner at the Cobourg Hotel, as a recognition of his ser",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100413#xywh=7305,7818,3126,11817"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART12.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART13",
+                    "@type":"sc:Range",
+                    "label":"PEÑIB:ROKE.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"Saturday.—[Before J. W. Paynter, Esq., mayor, John IAdams and William Hulm, Esqs.]. Ann Roch alias Twining, was charged with stealing a petticoat.",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100413#xywh=7332,19671,3117,3468"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART13.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART14",
+                    "@type":"sc:Range",
+                    "label":"THE ELECTION OF MAYOR.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Detailed Lists, Results and Guides"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100413#xywh=10512,1119,3129,11970"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART14.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART15",
+                    "@type":"sc:Range",
+                    "label":"MILFORD.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"ODD FELLOWS.—The first demonstration on the part of the Milford Lodge of the above brotherhood took place on Tuesday week, when the brethren, attired in the insignia of their different offices, and accompanied by the",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100413#xywh=10518,13212,3123,3030"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART15.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART16",
+                    "@type":"sc:Range",
+                    "label":"NARBERTH.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"THE BURIAL OF THE REV. DAVID GRIFFITHS, OF AC-CRINGNON.-This town was the scene of great excitement on Monday week, in consequence of its being know that William Rees, Esq., of Haverfordwest, was coming to re",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100413#xywh=10491,16380,3147,3846"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART16.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART17",
+                    "@type":"sc:Range",
+                    "label":"FISHGU ARD.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"THE LOVERS OF SpoRT in this neighbourhood will learn with much pleasure, that John Worthington, Esq*' of Glynamel, is about establishing a pack of Fox Houn in the neighbourhood. We doubt not but it will",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100413#xywh=10530,20430,3117,2742"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART17.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART19",
+                    "@type":"sc:Range",
+                    "label":"CORRESPONDENCE.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"We do not consider ourselves responsible for the opinions and sentiments of our Correspondents.",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100414#xywh=876,4692,2868,450"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART19.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART20",
+                    "@type":"sc:Range",
+                    "label":"THE BURIAL OF THE REV. DAVID GRIFFITHS, OF ACCRINGTON.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"To the Editor of the Milford Haven Telegraph. SIR,—As this unfortunate business is to be made the subject of a legal enquiry, I could have wished that no notice had been taken of it till both sides had been heard",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100414#xywh=699,927,6507,22014"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART20.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART21",
+                    "@type":"sc:Range",
+                    "label":"GENERAL INT K LLTG-EXOE. J",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"POST OFFICE SAVINGS BANKS.—By the end of the present month 900 Post Office Banks will be open throughout the country. Further extensions are contemplated, and it is hoped that Ireland may share in the",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100414#xywh=3939,930,6513,22020"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART21.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART22",
+                    "@type":"sc:Range",
+                    "label":"Family Notices",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Family Notices"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100414#xywh=10395,924,3189,6063"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART22.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART23",
+                    "@type":"sc:Range",
+                    "label":"-.-HAVERFORDWEST MARKET.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Detailed Lists, Results and Guides"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100414#xywh=10434,7083,3189,1308"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART23.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART24",
+                    "@type":"sc:Range",
+                    "label":"FAIRS FOR PEMBROKESHIRE.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"In consequence of some of the Pembrokeshire Fairs clashing with eacli other, and thus materially affecting the interests of the farmer, besides being most inconvenient. a large and influential meeting of cattle drovers,",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100414#xywh=10437,8457,3177,8022"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART24.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART25",
+                    "@type":"sc:Range",
+                    "label":"HUNTING APPOINTMENTS.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Detailed Lists, Results and Guides"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100414#xywh=10482,16509,3135,948"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART25.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART26",
+                    "@type":"sc:Range",
+                    "label":"Advertising",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Advertising"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100414#xywh=10476,17553,3162,5388"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART26.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART27",
+                    "@type":"sc:Range",
+                    "label":"DEPARTED SUMMER.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"Summer still lingers, thouirh its glories fade, Still soft and fragrant are the gales that blow; The silver foliage now adorns the glade, And paler skies succumb to summer's glow.",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100415#xywh=1161,1242,2832,1830"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART27.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART28",
+                    "@type":"sc:Range",
+                    "label":"... ROSA'S CERTIFICATE.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"Rosa had caught the fever-the emigration fever-.and her pulses all bounded wildly with undefined hopes, as she thought of the land beyond the sea, where millions of her countrymen and their descendants found a happy",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100415#xywh=867,1239,6375,22029"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART28.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART29",
+                    "@type":"sc:Range",
+                    "label":".. STATIONS OF THE BRITISH ARMY.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Detailed Lists, Results and Guides"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100415#xywh=4083,6123,3153,17133"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART29.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART30",
+                    "@type":"sc:Range",
+                    "label":"IROYAL NAVY IN COMMISSION.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Detailed Lists, Results and Guides"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100415#xywh=7275,1248,3231,13731"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART30.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART31",
+                    "@type":"sc:Range",
+                    "label":"[No title]",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"HOLLOWAY'S OINTMKNT AND PILLS.--Scurvy, skin, diseases These unsightly complaints are the source of much annoyance to thousands. Whilefretting the mind, they irritate the nerves, and produce a continuous slow fever, disordered stomach, and restless",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100415#xywh=7293,15066,3189,3951"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART31.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART32",
+                    "@type":"sc:Range",
+                    "label":"THE LONDON MARKETS.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Detailed Lists, Results and Guides"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100415#xywh=7296,19158,3135,3540"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART32.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART33",
+                    "@type":"sc:Range",
+                    "label":"BREAD.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Detailed Lists, Results and Guides"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100415#xywh=7311,1257,6369,22032"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART33.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART34",
+                    "@type":"sc:Range",
+                    "label":"BUTTER MARKET.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "News"
+                        }
+                    ],
+                    
+                        "description":"LONDON, MONDAY, November ]I.-For butter the demand continues good, more particularly for American, the sale of which is large ; that to hand this week is good, and it sells freely, at from 94s to 100s per cwt for much about the same",
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100415#xywh=10539,6615,3126,1359"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART34.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART35",
+                    "@type":"sc:Range",
+                    "label":"POTATO MARKET.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Detailed Lists, Results and Guides"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100415#xywh=10533,8073,3120,1338"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART35.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART36",
+                    "@type":"sc:Range",
+                    "label":"HOP MARKET.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Detailed Lists, Results and Guides"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100415#xywh=10533,9531,3111,1143"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART36.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    },
+                {
+                    "@id":"http://dams.llgc.org.uk/iiif/3100411/article/ART37",
+                    "@type":"sc:Range",
+                    "label":"sour II WALES RAILWAY TIME TABLE, CORRECTED FROM COMPANY'S TABLES FOR OCTOBER.",
+                    "metadata": 
+                    [
+                        {
+                            "label": "Article Category",
+                            "value": "Detailed Lists, Results and Guides"
+                        }
+                    ],
+                    
+                    "canvases": [
+                        "http://dams.llgc.org.uk/iiif/3100411/canvas/3100415#xywh=10533,10812,4008,12486"
+                    ],
+                    "contentLayer": [
+                        {
+                            "@id": "http://dams.llgc.org.uk/iiif/3100411/annotation/layer/ART37.json",
+                            "@type": "sc:Layer",
+                            "label": "OCR Article Text"
+                        }
+                    ]
+                    }
+            ]
+      }      
+    

@@ -1,0 +1,113 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "http://digital.library.villanova.edu/Collection/vudl:3/IIIF",
+    "@type": "sc:Collection",
+    "label": "Villanova Digital Library",
+    "collections": [
+        {
+            "label": "Americana",
+            "@id": "http://digital.library.villanova.edu/Collection/vudl:14572/IIIF",
+            "@type": "sc:Collection"
+        },
+        {
+            "label": "Autographed Books Collection",
+            "@id": "http://digital.library.villanova.edu/Collection/vudl:2426/IIIF",
+            "@type": "sc:Collection"
+        },
+        {
+            "label": "Catholica Collection",
+            "@id": "http://digital.library.villanova.edu/Collection/vudl:228899/IIIF",
+            "@type": "sc:Collection"
+        },
+        {
+            "label": "Contributions from Augustinian Theologians and Scholars",
+            "@id": "http://digital.library.villanova.edu/Collection/vudl:70206/IIIF",
+            "@type": "sc:Collection"
+        },
+        {
+            "label": "Cuala Press Broadside Collection",
+            "@id": "http://digital.library.villanova.edu/Collection/vudl:2001/IIIF",
+            "@type": "sc:Collection"
+        },
+        {
+            "label": "Dime Novel and Popular Literature",
+            "@id": "http://digital.library.villanova.edu/Collection/vudl:24093/IIIF",
+            "@type": "sc:Collection"
+        },
+        {
+            "label": "Flora, Fauna, and the Human Form",
+            "@id": "http://digital.library.villanova.edu/Collection/vudl:7028/IIIF",
+            "@type": "sc:Collection"
+        },
+        {
+            "label": "The German Society of Pennsylvania",
+            "@id": "http://digital.library.villanova.edu/Collection/vudl:428064/IIIF",
+            "@type": "sc:Collection"
+        },
+        {
+            "label": "Hubbard Collection",
+            "@id": "http://digital.library.villanova.edu/Collection/vudl:92074/IIIF",
+            "@type": "sc:Collection"
+        },
+        {
+            "label": "Image Collection",
+            "@id": "http://digital.library.villanova.edu/Collection/vudl:98245/IIIF",
+            "@type": "sc:Collection"
+        },
+        {
+            "label": "Independence Seaport Museum",
+            "@id": "http://digital.library.villanova.edu/Collection/vudl:154318/IIIF",
+            "@type": "sc:Collection"
+        },
+        {
+            "label": "Joseph McGarrity Collection",
+            "@id": "http://digital.library.villanova.edu/Collection/vudl:101870/IIIF",
+            "@type": "sc:Collection"
+        },
+        {
+            "label": "La Salle University",
+            "@id": "http://digital.library.villanova.edu/Collection/vudl:54667/IIIF",
+            "@type": "sc:Collection"
+        },
+        {
+            "label": "Manuscript Collection",
+            "@id": "http://digital.library.villanova.edu/Collection/vudl:62524/IIIF",
+            "@type": "sc:Collection"
+        },
+        {
+            "label": "Pennsylvaniana",
+            "@id": "http://digital.library.villanova.edu/Collection/vudl:92075/IIIF",
+            "@type": "sc:Collection"
+        },
+        {
+            "label": "Philadelphia Ceili Group",
+            "@id": "http://digital.library.villanova.edu/Collection/vudl:99258/IIIF",
+            "@type": "sc:Collection"
+        },
+        {
+            "label": "Rambles, Travels, and Maps",
+            "@id": "http://digital.library.villanova.edu/Collection/vudl:2954/IIIF",
+            "@type": "sc:Collection"
+        },
+        {
+            "label": "Saint Augustine Reference Library",
+            "@id": "http://digital.library.villanova.edu/Collection/vudl:99592/IIIF",
+            "@type": "sc:Collection"
+        },
+        {
+            "label": "Sherman Thackara Collection",
+            "@id": "http://digital.library.villanova.edu/Collection/vudl:25033/IIIF",
+            "@type": "sc:Collection"
+        },
+        {
+            "label": "Villanova Digital Collection",
+            "@id": "http://digital.library.villanova.edu/Collection/vudl:171664/IIIF",
+            "@type": "sc:Collection"
+        },
+        {
+            "label": "World",
+            "@id": "http://digital.library.villanova.edu/Collection/vudl:37856/IIIF",
+            "@type": "sc:Collection"
+        }
+    ]
+}

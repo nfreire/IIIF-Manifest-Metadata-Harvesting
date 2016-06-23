@@ -1,0 +1,69 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://fromthepage.com/iiif/84/manifest",
+  "@type": "sc:Manifest",
+  "label": "1. 8 Unknown, circa 1841",
+  "description": "Manuscript, with Morgan’s corrections,: “List of Lands Secured by Title Bonds, Contracts, etc.”",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "label": "Pages",
+      "canvases": [
+        {
+          "@id": "http://fromthepage.com/iiif/84/manifest/4460/canvas",
+          "@type": "sc:Canvas",
+          "label": "Page 1",
+          "width": 3014,
+          "height": 4762,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/4460",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/4460/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 3014,
+                "height": 4762,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/4460",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/84/manifest/4460/canvas"
+            }
+          ]
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/84/manifest/4461/canvas",
+          "@type": "sc:Canvas",
+          "label": "Page 2",
+          "width": 3043,
+          "height": 4778,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/4461",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/4461/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 3043,
+                "height": 4778,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/4461",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/84/manifest/4461/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

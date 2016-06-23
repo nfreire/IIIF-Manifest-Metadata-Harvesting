@@ -1,0 +1,2875 @@
+
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://dams.llgc.org.uk/iiif/newspapers/3100020.json",
+            "@type": "sc:Collection",
+            "label": "Potter's electric news",
+            "metadata": [
+            
+                {
+                "label":[
+                { "@value":"Publisher", "@language": "en"},
+                { "@value":"Cyhoeddwr", "@language": "cy-GB"}
+                ],
+                    "value": "Joseph Potter"
+                },
+            
+             {
+             "label": "Place of Publication",
+             "value": "Haverfordwest"
+             },
+             
+                {
+                "label":[
+                { "@value":"Frequency", "@language": "en"},
+                { "@value":"Amlder", "@language": "cy-GB"}
+                ],
+                "value": "Weekly"
+                },
+            
+            {
+            "label": "Language",
+            "value": "eng"
+            },
+        
+        
+        {
+        "label": "Subject",
+        "value": [
+        
+            "Wales Newspapers 19th century",
+            "Haverfordwest (Wales) Newspapers",
+            "Pembrokeshire (Wales) Newspapers",
+            "Begelly (Wales) Newspapers",
+            "Fishguard (Wales) Newspapers",
+            "Tenby (Wales) Newspapers",
+            "Milford Haven (Wales) Newspapers"
+        ]
+        },
+            
+                {
+                "label": "Persistent Identifier",
+                "value": "http://hdl.handle.net/10107/3100020"
+                },
+            
+        {
+        "label":[
+        { "@value":"Repository", "@language": "en"},
+        { "@value":"Ystorfa", "@language": "cy-GB"}],
+        "value":[
+        { "@value":"This content has been digitised by The National Library of Wales", "@language": "en"},
+        { "@value":"Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru", "@language": "cy-GB"}
+        ]
+        }
+        
+        
+            
+        ],
+        "description": [
+            {
+                "@value": "Papur newydd wythnosol a gyhoeddwyd yn Saesneg. Cylchredwyd yn Hwlffordd, Begeli, Abergwaun, Dinbych-y-pysgod ac Aberdaugleddau. Cyhoeddwyd a golygwyd y papur gan Joseph Potter. Ar un adeg 'roedd i'r papur cylchrediad o 2000 o rifynnau'r wythnos. Cofnodai hysbysebion lleol, newyddion lleol a thramor ac amserlenni'r trenau. Fe'i amlyncwyd gan y 'Pembrokeshire herald and general advertiser'. Teitlau cysylltiol: Pembrokeshire herald and general advertiser (1844-1924).",
+                "@language": "cy-GB"
+            },
+            {
+            "@value": "A weekly English language newspaper, which circulated around Haverfordwest, Begelly, Fishguard, Tenby & Milford Haven. The newspaper's main content included local news, foreign news, advertisements and railway timetables and was published and edited by Joseph Potter. At its peak, it had a weekly circulation of 2000, but was eventually absorbed into 'Pembrokeshire herald and general advertiser'. Associated titles: Pembrokeshire herald and general advertiser (1844-1924).",
+                "@language": "en"
+            }
+        ],
+        "manifests": [
+         
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100021/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-01-05T00:00:00Z",
+                    "label": "Potter's electric news (1859-01-05)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100026/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-01-12T00:00:00Z",
+                    "label": "Potter's electric news (1859-01-12)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100031/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-01-19T00:00:00Z",
+                    "label": "Potter's electric news (1859-01-19)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100036/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-01-26T00:00:00Z",
+                    "label": "Potter's electric news (1859-01-26)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100041/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-05-18T00:00:00Z",
+                    "label": "Potter's electric news (1859-05-18)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100046/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-05-25T00:00:00Z",
+                    "label": "Potter's electric news (1859-05-25)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100051/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-06-01T00:00:00Z",
+                    "label": "Potter's electric news (1859-06-01)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100056/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-06-08T00:00:00Z",
+                    "label": "Potter's electric news (1859-06-08)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100061/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-06-15T00:00:00Z",
+                    "label": "Potter's electric news (1859-06-15)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100066/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-06-22T00:00:00Z",
+                    "label": "Potter's electric news (1859-06-22)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100071/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-06-29T00:00:00Z",
+                    "label": "Potter's electric news (1859-06-29)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100076/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-08-03T00:00:00Z",
+                    "label": "Potter's electric news (1859-08-03)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100081/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-08-10T00:00:00Z",
+                    "label": "Potter's electric news (1859-08-10)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100086/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-08-17T00:00:00Z",
+                    "label": "Potter's electric news (1859-08-17)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100091/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-08-24T00:00:00Z",
+                    "label": "Potter's electric news (1859-08-24)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100096/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-08-31T00:00:00Z",
+                    "label": "Potter's electric news (1859-08-31)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100101/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-09-07T00:00:00Z",
+                    "label": "Potter's electric news (1859-09-07)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100106/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-09-14T00:00:00Z",
+                    "label": "Potter's electric news (1859-09-14)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100111/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-09-21T00:00:00Z",
+                    "label": "Potter's electric news (1859-09-21)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100116/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-09-28T00:00:00Z",
+                    "label": "Potter's electric news (1859-09-28)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100121/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-10-05T00:00:00Z",
+                    "label": "Potter's electric news (1859-10-05)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100126/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-10-12T00:00:00Z",
+                    "label": "Potter's electric news (1859-10-12)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100131/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-10-19T00:00:00Z",
+                    "label": "Potter's electric news (1859-10-19)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100136/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-10-26T00:00:00Z",
+                    "label": "Potter's electric news (1859-10-26)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100141/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-11-02T00:00:00Z",
+                    "label": "Potter's electric news (1859-11-02)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100146/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-11-09T00:00:00Z",
+                    "label": "Potter's electric news (1859-11-09)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100151/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-11-16T00:00:00Z",
+                    "label": "Potter's electric news (1859-11-16)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100156/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-11-23T00:00:00Z",
+                    "label": "Potter's electric news (1859-11-23)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100161/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-11-30T00:00:00Z",
+                    "label": "Potter's electric news (1859-11-30)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100166/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-12-07T00:00:00Z",
+                    "label": "Potter's electric news (1859-12-07)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100171/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-12-14T00:00:00Z",
+                    "label": "Potter's electric news (1859-12-14)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100176/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-12-21T00:00:00Z",
+                    "label": "Potter's electric news (1859-12-21)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100181/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1859-12-28T00:00:00Z",
+                    "label": "Potter's electric news (1859-12-28)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100186/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-01-02T00:00:00Z",
+                    "label": "Potter's electric news (1861-01-02)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100191/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-01-09T00:00:00Z",
+                    "label": "Potter's electric news (1861-01-09)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100196/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-01-16T00:00:00Z",
+                    "label": "Potter's electric news (1861-01-16)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100201/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-01-23T00:00:00Z",
+                    "label": "Potter's electric news (1861-01-23)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100206/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-01-30T00:00:00Z",
+                    "label": "Potter's electric news (1861-01-30)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100211/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-02-06T00:00:00Z",
+                    "label": "Potter's electric news (1861-02-06)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100216/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-02-13T00:00:00Z",
+                    "label": "Potter's electric news (1861-02-13)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100221/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-02-20T00:00:00Z",
+                    "label": "Potter's electric news (1861-02-20)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100226/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-02-27T00:00:00Z",
+                    "label": "Potter's electric news (1861-02-27)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100231/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-03-06T00:00:00Z",
+                    "label": "Potter's electric news (1861-03-06)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100236/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-03-13T00:00:00Z",
+                    "label": "Potter's electric news (1861-03-13)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100241/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-03-20T00:00:00Z",
+                    "label": "Potter's electric news (1861-03-20)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100246/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-03-27T00:00:00Z",
+                    "label": "Potter's electric news (1861-03-27)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100251/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-04-03T00:00:00Z",
+                    "label": "Potter's electric news (1861-04-03)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100256/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-04-10T00:00:00Z",
+                    "label": "Potter's electric news (1861-04-10)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100261/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-04-17T00:00:00Z",
+                    "label": "Potter's electric news (1861-04-17)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100266/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-04-24T00:00:00Z",
+                    "label": "Potter's electric news (1861-04-24)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100271/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-05-01T00:00:00Z",
+                    "label": "Potter's electric news (1861-05-01)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100276/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-05-08T00:00:00Z",
+                    "label": "Potter's electric news (1861-05-08)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100281/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-05-15T00:00:00Z",
+                    "label": "Potter's electric news (1861-05-15)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100286/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-05-22T00:00:00Z",
+                    "label": "Potter's electric news (1861-05-22)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100291/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-05-29T00:00:00Z",
+                    "label": "Potter's electric news (1861-05-29)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100296/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-06-05T00:00:00Z",
+                    "label": "Potter's electric news (1861-06-05)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100301/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-06-12T00:00:00Z",
+                    "label": "Potter's electric news (1861-06-12)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100306/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-06-19T00:00:00Z",
+                    "label": "Potter's electric news (1861-06-19)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100311/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-06-26T00:00:00Z",
+                    "label": "Potter's electric news (1861-06-26)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100316/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-07-03T00:00:00Z",
+                    "label": "Potter's electric news (1861-07-03)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100321/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-07-10T00:00:00Z",
+                    "label": "Potter's electric news (1861-07-10)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100326/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-07-17T00:00:00Z",
+                    "label": "Potter's electric news (1861-07-17)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100331/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-07-24T00:00:00Z",
+                    "label": "Potter's electric news (1861-07-24)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100336/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-07-31T00:00:00Z",
+                    "label": "Potter's electric news (1861-07-31)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100341/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-08-07T00:00:00Z",
+                    "label": "Potter's electric news (1861-08-07)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100346/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-08-14T00:00:00Z",
+                    "label": "Potter's electric news (1861-08-14)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100351/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-08-21T00:00:00Z",
+                    "label": "Potter's electric news (1861-08-21)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100356/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-08-28T00:00:00Z",
+                    "label": "Potter's electric news (1861-08-28)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100361/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-09-04T00:00:00Z",
+                    "label": "Potter's electric news (1861-09-04)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100366/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-09-11T00:00:00Z",
+                    "label": "Potter's electric news (1861-09-11)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100371/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-09-18T00:00:00Z",
+                    "label": "Potter's electric news (1861-09-18)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100376/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-09-25T00:00:00Z",
+                    "label": "Potter's electric news (1861-09-25)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100381/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-10-02T00:00:00Z",
+                    "label": "Potter's electric news (1861-10-02)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100386/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-10-09T00:00:00Z",
+                    "label": "Potter's electric news (1861-10-09)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100391/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-10-16T00:00:00Z",
+                    "label": "Potter's electric news (1861-10-16)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100396/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-10-23T00:00:00Z",
+                    "label": "Potter's electric news (1861-10-23)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100401/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-10-30T00:00:00Z",
+                    "label": "Potter's electric news (1861-10-30)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100406/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-11-06T00:00:00Z",
+                    "label": "Potter's electric news (1861-11-06)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100411/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-11-13T00:00:00Z",
+                    "label": "Potter's electric news (1861-11-13)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100416/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-11-20T00:00:00Z",
+                    "label": "Potter's electric news (1861-11-20)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100421/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-11-27T00:00:00Z",
+                    "label": "Potter's electric news (1861-11-27)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100426/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-12-04T00:00:00Z",
+                    "label": "Potter's electric news (1861-12-04)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100431/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-12-11T00:00:00Z",
+                    "label": "Potter's electric news (1861-12-11)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100436/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-12-18T00:00:00Z",
+                    "label": "Potter's electric news (1861-12-18)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100441/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1861-12-25T00:00:00Z",
+                    "label": "Potter's electric news (1861-12-25)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100446/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-01-01T00:00:00Z",
+                    "label": "Potter's electric news (1862-01-01)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100451/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-01-08T00:00:00Z",
+                    "label": "Potter's electric news (1862-01-08)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100456/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-01-15T00:00:00Z",
+                    "label": "Potter's electric news (1862-01-15)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100461/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-01-22T00:00:00Z",
+                    "label": "Potter's electric news (1862-01-22)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100466/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-01-29T00:00:00Z",
+                    "label": "Potter's electric news (1862-01-29)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100471/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-02-05T00:00:00Z",
+                    "label": "Potter's electric news (1862-02-05)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100476/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-02-12T00:00:00Z",
+                    "label": "Potter's electric news (1862-02-12)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100481/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-02-19T00:00:00Z",
+                    "label": "Potter's electric news (1862-02-19)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100486/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-02-26T00:00:00Z",
+                    "label": "Potter's electric news (1862-02-26)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100491/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-03-05T00:00:00Z",
+                    "label": "Potter's electric news (1862-03-05)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100496/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-03-12T00:00:00Z",
+                    "label": "Potter's electric news (1862-03-12)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100501/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-03-19T00:00:00Z",
+                    "label": "Potter's electric news (1862-03-19)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100506/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-03-26T00:00:00Z",
+                    "label": "Potter's electric news (1862-03-26)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100511/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-04-02T00:00:00Z",
+                    "label": "Potter's electric news (1862-04-02)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100516/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-04-09T00:00:00Z",
+                    "label": "Potter's electric news (1862-04-09)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100521/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-04-16T00:00:00Z",
+                    "label": "Potter's electric news (1862-04-16)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100526/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-04-23T00:00:00Z",
+                    "label": "Potter's electric news (1862-04-23)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100531/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-04-30T00:00:00Z",
+                    "label": "Potter's electric news (1862-04-30)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100536/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-05-07T00:00:00Z",
+                    "label": "Potter's electric news (1862-05-07)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100541/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-05-14T00:00:00Z",
+                    "label": "Potter's electric news (1862-05-14)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100546/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-05-21T00:00:00Z",
+                    "label": "Potter's electric news (1862-05-21)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100551/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-05-28T00:00:00Z",
+                    "label": "Potter's electric news (1862-05-28)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100556/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-06-04T00:00:00Z",
+                    "label": "Potter's electric news (1862-06-04)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100561/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-06-11T00:00:00Z",
+                    "label": "Potter's electric news (1862-06-11)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100566/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-06-18T00:00:00Z",
+                    "label": "Potter's electric news (1862-06-18)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100571/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-06-25T00:00:00Z",
+                    "label": "Potter's electric news (1862-06-25)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100576/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-07-02T00:00:00Z",
+                    "label": "Potter's electric news (1862-07-02)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100581/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-07-09T00:00:00Z",
+                    "label": "Potter's electric news (1862-07-09)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100586/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-07-16T00:00:00Z",
+                    "label": "Potter's electric news (1862-07-16)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100591/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-07-23T00:00:00Z",
+                    "label": "Potter's electric news (1862-07-23)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100596/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-07-30T00:00:00Z",
+                    "label": "Potter's electric news (1862-07-30)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100601/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-08-06T00:00:00Z",
+                    "label": "Potter's electric news (1862-08-06)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100606/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-08-13T00:00:00Z",
+                    "label": "Potter's electric news (1862-08-13)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100611/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-08-20T00:00:00Z",
+                    "label": "Potter's electric news (1862-08-20)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100616/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-08-27T00:00:00Z",
+                    "label": "Potter's electric news (1862-08-27)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100621/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-09-03T00:00:00Z",
+                    "label": "Potter's electric news (1862-09-03)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100626/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-09-10T00:00:00Z",
+                    "label": "Potter's electric news (1862-09-10)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100631/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-09-17T00:00:00Z",
+                    "label": "Potter's electric news (1862-09-17)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100636/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-09-24T00:00:00Z",
+                    "label": "Potter's electric news (1862-09-24)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100641/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-10-01T00:00:00Z",
+                    "label": "Potter's electric news (1862-10-01)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100646/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-10-08T00:00:00Z",
+                    "label": "Potter's electric news (1862-10-08)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100651/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-10-15T00:00:00Z",
+                    "label": "Potter's electric news (1862-10-15)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100656/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-10-22T00:00:00Z",
+                    "label": "Potter's electric news (1862-10-22)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100661/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-10-29T00:00:00Z",
+                    "label": "Potter's electric news (1862-10-29)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100666/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-11-05T00:00:00Z",
+                    "label": "Potter's electric news (1862-11-05)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100671/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-11-12T00:00:00Z",
+                    "label": "Potter's electric news (1862-11-12)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100676/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-11-19T00:00:00Z",
+                    "label": "Potter's electric news (1862-11-19)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100681/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-11-26T00:00:00Z",
+                    "label": "Potter's electric news (1862-11-26)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100686/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-12-03T00:00:00Z",
+                    "label": "Potter's electric news (1862-12-03)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100691/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-12-10T00:00:00Z",
+                    "label": "Potter's electric news (1862-12-10)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100696/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-12-17T00:00:00Z",
+                    "label": "Potter's electric news (1862-12-17)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100701/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-12-24T00:00:00Z",
+                    "label": "Potter's electric news (1862-12-24)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100706/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1862-12-31T00:00:00Z",
+                    "label": "Potter's electric news (1862-12-31)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100711/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-01-07T00:00:00Z",
+                    "label": "Potter's electric news (1863-01-07)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100716/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-01-14T00:00:00Z",
+                    "label": "Potter's electric news (1863-01-14)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100721/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-01-21T00:00:00Z",
+                    "label": "Potter's electric news (1863-01-21)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100726/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-01-28T00:00:00Z",
+                    "label": "Potter's electric news (1863-01-28)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100731/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-02-04T00:00:00Z",
+                    "label": "Potter's electric news (1863-02-04)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100736/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-02-11T00:00:00Z",
+                    "label": "Potter's electric news (1863-02-11)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100741/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-02-18T00:00:00Z",
+                    "label": "Potter's electric news (1863-02-18)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100746/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-02-25T00:00:00Z",
+                    "label": "Potter's electric news (1863-02-25)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100751/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-03-04T00:00:00Z",
+                    "label": "Potter's electric news (1863-03-04)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100756/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-03-11T00:00:00Z",
+                    "label": "Potter's electric news (1863-03-11)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100761/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-03-18T00:00:00Z",
+                    "label": "Potter's electric news (1863-03-18)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100766/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-03-25T00:00:00Z",
+                    "label": "Potter's electric news (1863-03-25)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100771/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-04-01T00:00:00Z",
+                    "label": "Potter's electric news (1863-04-01)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100776/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-04-08T00:00:00Z",
+                    "label": "Potter's electric news (1863-04-08)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100781/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-04-15T00:00:00Z",
+                    "label": "Potter's electric news (1863-04-15)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100786/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-04-22T00:00:00Z",
+                    "label": "Potter's electric news (1863-04-22)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100791/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-04-29T00:00:00Z",
+                    "label": "Potter's electric news (1863-04-29)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100796/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-05-06T00:00:00Z",
+                    "label": "Potter's electric news (1863-05-06)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100801/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-05-13T00:00:00Z",
+                    "label": "Potter's electric news (1863-05-13)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100806/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-05-20T00:00:00Z",
+                    "label": "Potter's electric news (1863-05-20)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100811/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-05-27T00:00:00Z",
+                    "label": "Potter's electric news (1863-05-27)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100816/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-06-03T00:00:00Z",
+                    "label": "Potter's electric news (1863-06-03)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100821/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-06-10T00:00:00Z",
+                    "label": "Potter's electric news (1863-06-10)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100826/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-06-17T00:00:00Z",
+                    "label": "Potter's electric news (1863-06-17)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100831/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-06-24T00:00:00Z",
+                    "label": "Potter's electric news (1863-06-24)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100836/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-07-01T00:00:00Z",
+                    "label": "Potter's electric news (1863-07-01)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100841/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-07-08T00:00:00Z",
+                    "label": "Potter's electric news (1863-07-08)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100846/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-07-15T00:00:00Z",
+                    "label": "Potter's electric news (1863-07-15)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100851/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-07-22T00:00:00Z",
+                    "label": "Potter's electric news (1863-07-22)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100856/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-07-29T00:00:00Z",
+                    "label": "Potter's electric news (1863-07-29)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100861/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-08-05T00:00:00Z",
+                    "label": "Potter's electric news (1863-08-05)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100866/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-08-12T00:00:00Z",
+                    "label": "Potter's electric news (1863-08-12)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100871/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-08-19T00:00:00Z",
+                    "label": "Potter's electric news (1863-08-19)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100876/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-08-26T00:00:00Z",
+                    "label": "Potter's electric news (1863-08-26)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100881/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-09-02T00:00:00Z",
+                    "label": "Potter's electric news (1863-09-02)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100886/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-09-09T00:00:00Z",
+                    "label": "Potter's electric news (1863-09-09)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100891/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-09-16T00:00:00Z",
+                    "label": "Potter's electric news (1863-09-16)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100896/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-09-23T00:00:00Z",
+                    "label": "Potter's electric news (1863-09-23)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100901/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-09-30T00:00:00Z",
+                    "label": "Potter's electric news (1863-09-30)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100906/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-10-07T00:00:00Z",
+                    "label": "Potter's electric news (1863-10-07)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100911/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-10-14T00:00:00Z",
+                    "label": "Potter's electric news (1863-10-14)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100916/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-10-21T00:00:00Z",
+                    "label": "Potter's electric news (1863-10-21)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100921/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-10-28T00:00:00Z",
+                    "label": "Potter's electric news (1863-10-28)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100926/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-11-04T00:00:00Z",
+                    "label": "Potter's electric news (1863-11-04)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100931/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-11-11T00:00:00Z",
+                    "label": "Potter's electric news (1863-11-11)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100936/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-11-18T00:00:00Z",
+                    "label": "Potter's electric news (1863-11-18)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100943/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-11-25T00:00:00Z",
+                    "label": "Potter's electric news (1863-11-25)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100948/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-12-02T00:00:00Z",
+                    "label": "Potter's electric news (1863-12-02)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100953/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-12-09T00:00:00Z",
+                    "label": "Potter's electric news (1863-12-09)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100958/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-12-16T00:00:00Z",
+                    "label": "Potter's electric news (1863-12-16)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100963/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-12-23T00:00:00Z",
+                    "label": "Potter's electric news (1863-12-23)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100968/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1863-12-30T00:00:00Z",
+                    "label": "Potter's electric news (1863-12-30)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100973/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-01-04T00:00:00Z",
+                    "label": "Potter's electric news (1865-01-04)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100978/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-01-11T00:00:00Z",
+                    "label": "Potter's electric news (1865-01-11)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100983/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-01-18T00:00:00Z",
+                    "label": "Potter's electric news (1865-01-18)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100988/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-01-25T00:00:00Z",
+                    "label": "Potter's electric news (1865-01-25)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100993/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-02-01T00:00:00Z",
+                    "label": "Potter's electric news (1865-02-01)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100998/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-02-08T00:00:00Z",
+                    "label": "Potter's electric news (1865-02-08)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101003/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-02-15T00:00:00Z",
+                    "label": "Potter's electric news (1865-02-15)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101008/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-02-22T00:00:00Z",
+                    "label": "Potter's electric news (1865-02-22)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101013/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-03-01T00:00:00Z",
+                    "label": "Potter's electric news (1865-03-01)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101018/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-03-08T00:00:00Z",
+                    "label": "Potter's electric news (1865-03-08)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101023/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-03-15T00:00:00Z",
+                    "label": "Potter's electric news (1865-03-15)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101028/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-03-22T00:00:00Z",
+                    "label": "Potter's electric news (1865-03-22)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101033/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-03-29T00:00:00Z",
+                    "label": "Potter's electric news (1865-03-29)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101038/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-04-05T00:00:00Z",
+                    "label": "Potter's electric news (1865-04-05)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101043/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-04-12T00:00:00Z",
+                    "label": "Potter's electric news (1865-04-12)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101048/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-04-19T00:00:00Z",
+                    "label": "Potter's electric news (1865-04-19)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101053/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-04-26T00:00:00Z",
+                    "label": "Potter's electric news (1865-04-26)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101058/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-05-03T00:00:00Z",
+                    "label": "Potter's electric news (1865-05-03)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101063/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-05-10T00:00:00Z",
+                    "label": "Potter's electric news (1865-05-10)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101068/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-05-17T00:00:00Z",
+                    "label": "Potter's electric news (1865-05-17)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101073/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-05-24T00:00:00Z",
+                    "label": "Potter's electric news (1865-05-24)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101078/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-05-31T00:00:00Z",
+                    "label": "Potter's electric news (1865-05-31)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101083/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-06-07T00:00:00Z",
+                    "label": "Potter's electric news (1865-06-07)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101088/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-06-14T00:00:00Z",
+                    "label": "Potter's electric news (1865-06-14)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101093/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-06-21T00:00:00Z",
+                    "label": "Potter's electric news (1865-06-21)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101098/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-06-28T00:00:00Z",
+                    "label": "Potter's electric news (1865-06-28)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101103/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-07-05T00:00:00Z",
+                    "label": "Potter's electric news (1865-07-05)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101108/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-07-12T00:00:00Z",
+                    "label": "Potter's electric news (1865-07-12)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101113/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-07-19T00:00:00Z",
+                    "label": "Potter's electric news (1865-07-19)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101118/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-07-26T00:00:00Z",
+                    "label": "Potter's electric news (1865-07-26)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101123/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-08-02T00:00:00Z",
+                    "label": "Potter's electric news (1865-08-02)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101128/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-08-09T00:00:00Z",
+                    "label": "Potter's electric news (1865-08-09)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101133/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-08-16T00:00:00Z",
+                    "label": "Potter's electric news (1865-08-16)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101138/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-08-23T00:00:00Z",
+                    "label": "Potter's electric news (1865-08-23)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101143/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-08-30T00:00:00Z",
+                    "label": "Potter's electric news (1865-08-30)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101148/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-09-06T00:00:00Z",
+                    "label": "Potter's electric news (1865-09-06)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101153/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-09-13T00:00:00Z",
+                    "label": "Potter's electric news (1865-09-13)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101158/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-09-20T00:00:00Z",
+                    "label": "Potter's electric news (1865-09-20)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101163/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-09-27T00:00:00Z",
+                    "label": "Potter's electric news (1865-09-27)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101168/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-10-04T00:00:00Z",
+                    "label": "Potter's electric news (1865-10-04)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101173/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-10-11T00:00:00Z",
+                    "label": "Potter's electric news (1865-10-11)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101178/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-10-18T00:00:00Z",
+                    "label": "Potter's electric news (1865-10-18)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101183/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-10-25T00:00:00Z",
+                    "label": "Potter's electric news (1865-10-25)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101188/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-11-01T00:00:00Z",
+                    "label": "Potter's electric news (1865-11-01)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101193/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-11-08T00:00:00Z",
+                    "label": "Potter's electric news (1865-11-08)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101198/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-11-15T00:00:00Z",
+                    "label": "Potter's electric news (1865-11-15)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101203/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-11-22T00:00:00Z",
+                    "label": "Potter's electric news (1865-11-22)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101208/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-11-29T00:00:00Z",
+                    "label": "Potter's electric news (1865-11-29)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101213/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-12-06T00:00:00Z",
+                    "label": "Potter's electric news (1865-12-06)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101218/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-12-13T00:00:00Z",
+                    "label": "Potter's electric news (1865-12-13)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101223/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-12-20T00:00:00Z",
+                    "label": "Potter's electric news (1865-12-20)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101228/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1865-12-27T00:00:00Z",
+                    "label": "Potter's electric news (1865-12-27)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101233/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-01-03T00:00:00Z",
+                    "label": "Potter's electric news (1866-01-03)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101238/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-01-10T00:00:00Z",
+                    "label": "Potter's electric news (1866-01-10)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101243/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-01-17T00:00:00Z",
+                    "label": "Potter's electric news (1866-01-17)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101248/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-01-24T00:00:00Z",
+                    "label": "Potter's electric news (1866-01-24)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101253/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-01-31T00:00:00Z",
+                    "label": "Potter's electric news (1866-01-31)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101258/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-02-07T00:00:00Z",
+                    "label": "Potter's electric news (1866-02-07)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101263/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-02-14T00:00:00Z",
+                    "label": "Potter's electric news (1866-02-14)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101268/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-02-21T00:00:00Z",
+                    "label": "Potter's electric news (1866-02-21)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101273/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-02-28T00:00:00Z",
+                    "label": "Potter's electric news (1866-02-28)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101278/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-03-07T00:00:00Z",
+                    "label": "Potter's electric news (1866-03-07)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101283/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-03-14T00:00:00Z",
+                    "label": "Potter's electric news (1866-03-14)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101288/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-03-21T00:00:00Z",
+                    "label": "Potter's electric news (1866-03-21)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101293/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-03-28T00:00:00Z",
+                    "label": "Potter's electric news (1866-03-28)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101298/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-04-04T00:00:00Z",
+                    "label": "Potter's electric news (1866-04-04)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101303/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-04-11T00:00:00Z",
+                    "label": "Potter's electric news (1866-04-11)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101308/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-04-18T00:00:00Z",
+                    "label": "Potter's electric news (1866-04-18)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101313/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-04-25T00:00:00Z",
+                    "label": "Potter's electric news (1866-04-25)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101318/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-05-02T00:00:00Z",
+                    "label": "Potter's electric news (1866-05-02)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101323/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-05-09T00:00:00Z",
+                    "label": "Potter's electric news (1866-05-09)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101328/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-05-16T00:00:00Z",
+                    "label": "Potter's electric news (1866-05-16)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101333/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-05-23T00:00:00Z",
+                    "label": "Potter's electric news (1866-05-23)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101338/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-05-30T00:00:00Z",
+                    "label": "Potter's electric news (1866-05-30)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101343/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-06-06T00:00:00Z",
+                    "label": "Potter's electric news (1866-06-06)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101348/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-06-13T00:00:00Z",
+                    "label": "Potter's electric news (1866-06-13)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101353/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-06-20T00:00:00Z",
+                    "label": "Potter's electric news (1866-06-20)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101358/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-06-27T00:00:00Z",
+                    "label": "Potter's electric news (1866-06-27)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101363/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-07-04T00:00:00Z",
+                    "label": "Potter's electric news (1866-07-04)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101368/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-07-11T00:00:00Z",
+                    "label": "Potter's electric news (1866-07-11)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101373/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-07-18T00:00:00Z",
+                    "label": "Potter's electric news (1866-07-18)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101378/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-07-25T00:00:00Z",
+                    "label": "Potter's electric news (1866-07-25)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101383/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-08-01T00:00:00Z",
+                    "label": "Potter's electric news (1866-08-01)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101388/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-08-08T00:00:00Z",
+                    "label": "Potter's electric news (1866-08-08)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101393/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-08-15T00:00:00Z",
+                    "label": "Potter's electric news (1866-08-15)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101398/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-08-22T00:00:00Z",
+                    "label": "Potter's electric news (1866-08-22)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101403/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-08-29T00:00:00Z",
+                    "label": "Potter's electric news (1866-08-29)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101408/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-09-05T00:00:00Z",
+                    "label": "Potter's electric news (1866-09-05)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101413/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-09-12T00:00:00Z",
+                    "label": "Potter's electric news (1866-09-12)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101418/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-09-19T00:00:00Z",
+                    "label": "Potter's electric news (1866-09-19)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101423/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-09-26T00:00:00Z",
+                    "label": "Potter's electric news (1866-09-26)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101428/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-10-03T00:00:00Z",
+                    "label": "Potter's electric news (1866-10-03)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101433/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-10-10T00:00:00Z",
+                    "label": "Potter's electric news (1866-10-10)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101438/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-10-17T00:00:00Z",
+                    "label": "Potter's electric news (1866-10-17)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101443/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-10-24T00:00:00Z",
+                    "label": "Potter's electric news (1866-10-24)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101448/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-10-31T00:00:00Z",
+                    "label": "Potter's electric news (1866-10-31)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101453/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-11-07T00:00:00Z",
+                    "label": "Potter's electric news (1866-11-07)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101458/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-11-14T00:00:00Z",
+                    "label": "Potter's electric news (1866-11-14)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101463/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-11-21T00:00:00Z",
+                    "label": "Potter's electric news (1866-11-21)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101468/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-11-28T00:00:00Z",
+                    "label": "Potter's electric news (1866-11-28)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101473/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-12-05T00:00:00Z",
+                    "label": "Potter's electric news (1866-12-05)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101478/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-12-12T00:00:00Z",
+                    "label": "Potter's electric news (1866-12-12)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101483/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-12-19T00:00:00Z",
+                    "label": "Potter's electric news (1866-12-19)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101488/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1866-12-26T00:00:00Z",
+                    "label": "Potter's electric news (1866-12-26)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101493/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-01-02T00:00:00Z",
+                    "label": "Potter's electric news (1867-01-02)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101498/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-01-09T00:00:00Z",
+                    "label": "Potter's electric news (1867-01-09)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101503/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-01-16T00:00:00Z",
+                    "label": "Potter's electric news (1867-01-16)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101508/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-01-23T00:00:00Z",
+                    "label": "Potter's electric news (1867-01-23)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101513/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-01-30T00:00:00Z",
+                    "label": "Potter's electric news (1867-01-30)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101518/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-02-06T00:00:00Z",
+                    "label": "Potter's electric news (1867-02-06)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101523/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-02-13T00:00:00Z",
+                    "label": "Potter's electric news (1867-02-13)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101528/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-02-20T00:00:00Z",
+                    "label": "Potter's electric news (1867-02-20)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101533/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-02-27T00:00:00Z",
+                    "label": "Potter's electric news (1867-02-27)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101538/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-03-06T00:00:00Z",
+                    "label": "Potter's electric news (1867-03-06)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101543/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-03-13T00:00:00Z",
+                    "label": "Potter's electric news (1867-03-13)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101548/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-03-20T00:00:00Z",
+                    "label": "Potter's electric news (1867-03-20)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101553/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-03-27T00:00:00Z",
+                    "label": "Potter's electric news (1867-03-27)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101558/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-04-03T00:00:00Z",
+                    "label": "Potter's electric news (1867-04-03)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101563/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-04-10T00:00:00Z",
+                    "label": "Potter's electric news (1867-04-10)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101568/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-04-17T00:00:00Z",
+                    "label": "Potter's electric news (1867-04-17)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101573/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-04-24T00:00:00Z",
+                    "label": "Potter's electric news (1867-04-24)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101578/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-05-01T00:00:00Z",
+                    "label": "Potter's electric news (1867-05-01)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101583/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-05-08T00:00:00Z",
+                    "label": "Potter's electric news (1867-05-08)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101588/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-05-15T00:00:00Z",
+                    "label": "Potter's electric news (1867-05-15)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101593/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-05-22T00:00:00Z",
+                    "label": "Potter's electric news (1867-05-22)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101598/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-05-29T00:00:00Z",
+                    "label": "Potter's electric news (1867-05-29)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101603/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-06-05T00:00:00Z",
+                    "label": "Potter's electric news (1867-06-05)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101608/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-06-12T00:00:00Z",
+                    "label": "Potter's electric news (1867-06-12)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101613/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-06-19T00:00:00Z",
+                    "label": "Potter's electric news (1867-06-19)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101618/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-06-26T00:00:00Z",
+                    "label": "Potter's electric news (1867-06-26)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101623/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-07-03T00:00:00Z",
+                    "label": "Potter's electric news (1867-07-03)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101628/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-07-10T00:00:00Z",
+                    "label": "Potter's electric news (1867-07-10)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101633/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-07-17T00:00:00Z",
+                    "label": "Potter's electric news (1867-07-17)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101638/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-07-24T00:00:00Z",
+                    "label": "Potter's electric news (1867-07-24)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101643/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-07-31T00:00:00Z",
+                    "label": "Potter's electric news (1867-07-31)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101648/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-08-07T00:00:00Z",
+                    "label": "Potter's electric news (1867-08-07)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101653/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-08-14T00:00:00Z",
+                    "label": "Potter's electric news (1867-08-14)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101658/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-08-21T00:00:00Z",
+                    "label": "Potter's electric news (1867-08-21)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101663/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-08-28T00:00:00Z",
+                    "label": "Potter's electric news (1867-08-28)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101668/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-09-04T00:00:00Z",
+                    "label": "Potter's electric news (1867-09-04)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101673/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-09-11T00:00:00Z",
+                    "label": "Potter's electric news (1867-09-11)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101678/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-09-18T00:00:00Z",
+                    "label": "Potter's electric news (1867-09-18)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101683/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-09-25T00:00:00Z",
+                    "label": "Potter's electric news (1867-09-25)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101688/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-10-02T00:00:00Z",
+                    "label": "Potter's electric news (1867-10-02)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101693/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-10-09T00:00:00Z",
+                    "label": "Potter's electric news (1867-10-09)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101698/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-10-16T00:00:00Z",
+                    "label": "Potter's electric news (1867-10-16)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101703/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-10-23T00:00:00Z",
+                    "label": "Potter's electric news (1867-10-23)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101708/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-10-30T00:00:00Z",
+                    "label": "Potter's electric news (1867-10-30)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101713/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-11-06T00:00:00Z",
+                    "label": "Potter's electric news (1867-11-06)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101718/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-11-13T00:00:00Z",
+                    "label": "Potter's electric news (1867-11-13)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101723/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-11-20T00:00:00Z",
+                    "label": "Potter's electric news (1867-11-20)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101728/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-11-27T00:00:00Z",
+                    "label": "Potter's electric news (1867-11-27)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101733/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-12-04T00:00:00Z",
+                    "label": "Potter's electric news (1867-12-04)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101738/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-12-11T00:00:00Z",
+                    "label": "Potter's electric news (1867-12-11)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101743/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-12-18T00:00:00Z",
+                    "label": "Potter's electric news (1867-12-18)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101748/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1867-12-25T00:00:00Z",
+                    "label": "Potter's electric news (1867-12-25)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101753/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-01-01T00:00:00Z",
+                    "label": "Potter's electric news (1868-01-01)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101758/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-01-08T00:00:00Z",
+                    "label": "Potter's electric news (1868-01-08)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101763/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-01-15T00:00:00Z",
+                    "label": "Potter's electric news (1868-01-15)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101768/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-01-22T00:00:00Z",
+                    "label": "Potter's electric news (1868-01-22)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101773/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-01-29T00:00:00Z",
+                    "label": "Potter's electric news (1868-01-29)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101778/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-02-05T00:00:00Z",
+                    "label": "Potter's electric news (1868-02-05)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101783/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-02-12T00:00:00Z",
+                    "label": "Potter's electric news (1868-02-12)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101788/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-02-19T00:00:00Z",
+                    "label": "Potter's electric news (1868-02-19)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101793/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-02-26T00:00:00Z",
+                    "label": "Potter's electric news (1868-02-26)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101798/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-03-04T00:00:00Z",
+                    "label": "Potter's electric news (1868-03-04)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101803/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-03-11T00:00:00Z",
+                    "label": "Potter's electric news (1868-03-11)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101808/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-03-18T00:00:00Z",
+                    "label": "Potter's electric news (1868-03-18)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101813/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-03-25T00:00:00Z",
+                    "label": "Potter's electric news (1868-03-25)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101818/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-04-01T00:00:00Z",
+                    "label": "Potter's electric news (1868-04-01)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101823/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-04-08T00:00:00Z",
+                    "label": "Potter's electric news (1868-04-08)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101828/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-04-15T00:00:00Z",
+                    "label": "Potter's electric news (1868-04-15)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101833/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-04-22T00:00:00Z",
+                    "label": "Potter's electric news (1868-04-22)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101838/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-04-29T00:00:00Z",
+                    "label": "Potter's electric news (1868-04-29)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101843/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-05-06T00:00:00Z",
+                    "label": "Potter's electric news (1868-05-06)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101848/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-05-13T00:00:00Z",
+                    "label": "Potter's electric news (1868-05-13)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101853/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-05-20T00:00:00Z",
+                    "label": "Potter's electric news (1868-05-20)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101858/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-05-27T00:00:00Z",
+                    "label": "Potter's electric news (1868-05-27)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101863/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-06-03T00:00:00Z",
+                    "label": "Potter's electric news (1868-06-03)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101868/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-06-10T00:00:00Z",
+                    "label": "Potter's electric news (1868-06-10)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101873/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-06-17T00:00:00Z",
+                    "label": "Potter's electric news (1868-06-17)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101878/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-06-24T00:00:00Z",
+                    "label": "Potter's electric news (1868-06-24)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101883/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-07-01T00:00:00Z",
+                    "label": "Potter's electric news (1868-07-01)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101888/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-07-08T00:00:00Z",
+                    "label": "Potter's electric news (1868-07-08)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101893/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-07-15T00:00:00Z",
+                    "label": "Potter's electric news (1868-07-15)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101898/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-07-22T00:00:00Z",
+                    "label": "Potter's electric news (1868-07-22)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101903/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-07-29T00:00:00Z",
+                    "label": "Potter's electric news (1868-07-29)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101908/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-08-05T00:00:00Z",
+                    "label": "Potter's electric news (1868-08-05)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101913/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-08-12T00:00:00Z",
+                    "label": "Potter's electric news (1868-08-12)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101918/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-08-19T00:00:00Z",
+                    "label": "Potter's electric news (1868-08-19)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101923/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-08-26T00:00:00Z",
+                    "label": "Potter's electric news (1868-08-26)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101928/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-09-02T00:00:00Z",
+                    "label": "Potter's electric news (1868-09-02)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101933/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-09-09T00:00:00Z",
+                    "label": "Potter's electric news (1868-09-09)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101938/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-09-16T00:00:00Z",
+                    "label": "Potter's electric news (1868-09-16)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101943/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-09-23T00:00:00Z",
+                    "label": "Potter's electric news (1868-09-23)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101948/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-09-30T00:00:00Z",
+                    "label": "Potter's electric news (1868-09-30)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101953/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-10-07T00:00:00Z",
+                    "label": "Potter's electric news (1868-10-07)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101958/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-10-14T00:00:00Z",
+                    "label": "Potter's electric news (1868-10-14)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101963/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-10-21T00:00:00Z",
+                    "label": "Potter's electric news (1868-10-21)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101968/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-10-28T00:00:00Z",
+                    "label": "Potter's electric news (1868-10-28)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101973/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-11-04T00:00:00Z",
+                    "label": "Potter's electric news (1868-11-04)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101978/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-11-11T00:00:00Z",
+                    "label": "Potter's electric news (1868-11-11)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101983/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-11-18T00:00:00Z",
+                    "label": "Potter's electric news (1868-11-18)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101988/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-11-25T00:00:00Z",
+                    "label": "Potter's electric news (1868-11-25)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101993/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-12-02T00:00:00Z",
+                    "label": "Potter's electric news (1868-12-02)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3101998/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-12-09T00:00:00Z",
+                    "label": "Potter's electric news (1868-12-09)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3102003/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-12-16T00:00:00Z",
+                    "label": "Potter's electric news (1868-12-16)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3102008/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-12-23T00:00:00Z",
+                    "label": "Potter's electric news (1868-12-23)" 
+                }, 
+                { 
+                    "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3102013/manifest.json",
+                    "@type": "sc:Manifest",
+                
+                    "navDate":"1868-12-30T00:00:00Z",
+                    "label": "Potter's electric news (1868-12-30)" 
+                }
+        ]
+        }    
+    

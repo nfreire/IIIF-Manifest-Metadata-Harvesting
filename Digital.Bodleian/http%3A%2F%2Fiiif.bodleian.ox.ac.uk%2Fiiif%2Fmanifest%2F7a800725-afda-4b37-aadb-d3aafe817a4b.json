@@ -1,0 +1,124 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json", 
+  "@id": "http://iiif.bodleian.ox.ac.uk/iiif/manifest/7a800725-afda-4b37-aadb-d3aafe817a4b.json", 
+  "@type": "sc:Manifest", 
+  "label": "Douce O subt. 15", 
+  "metadata": [
+    {
+      "label": "Digital.Bodleian", 
+      "value": "<span>View at: <a href=\"http://digital.bodleian.ox.ac.uk/inquire/p//7a800725-afda-4b37-aadb-d3aafe817a4b\">Digital.Bodleian</a></span>"
+    }, 
+    {
+      "label": "Subject", 
+      "value": "Mexico Maps Early works to 1800"
+    }, 
+    {
+      "label": "Coverage", 
+      "value": "Mexico"
+    }, 
+    {
+      "label": "Coverage", 
+      "value": "Berkshire (England)"
+    }, 
+    {
+      "label": "Collection", 
+      "value": "Maps"
+    }, 
+    {
+      "label": "Date", 
+      "value": "1606"
+    }, 
+    {
+      "label": "Description", 
+      "value": "The Central and South American maps are from Spanish and Portuguese sources, in Abraham Ortelius, Theatrum Orbis Terrarum, English edition as The Theatre of the Whole World, London 1606"
+    }, 
+    {
+      "label": "Language", 
+      "value": "lat"
+    }, 
+    {
+      "label": "Id", 
+      "value": "7a800725-afda-4b37-aadb-d3aafe817a4b"
+    }, 
+    {
+      "label": "Publisher", 
+      "value": "London (England): John Norton"
+    }, 
+    {
+      "label": "Shelfmark", 
+      "value": "Douce O subt. 15"
+    }, 
+    {
+      "label": "Type", 
+      "value": "Page record"
+    }, 
+    {
+      "label": "Type", 
+      "value": "Image.Graphic.Map"
+    }, 
+    {
+      "label": "Identifier", 
+      "value": "Filmstrip Roll 198B, frame 8"
+    }, 
+    {
+      "label": "Title", 
+      "value": " Hispaniae Noviae sivae magnae, ... 1580"
+    }, 
+    {
+      "label": "Contributor", 
+      "value": "Ortelius, Abraham, 1527-1598 [cartographer]"
+    }, 
+    {
+      "label": "Format", 
+      "value": "35mm slide"
+    }, 
+    {
+      "label": "Displaylanguage", 
+      "value": "Latin"
+    }, 
+    {
+      "label": "Source", 
+      "value": "BOD: Douce O subt. 15"
+    }
+  ], 
+  "description": "The Central and South American maps are from Spanish and Portuguese sources, in Abraham Ortelius, Theatrum Orbis Terrarum, English edition as The Theatre of the Whole World, London 1606", 
+  "attribution": "From: BOD: Douce O subt. 15<br>Rights: Photo: \u00c2 Bodleian Libraries, University of Oxford<br>Terms of Access: http://digital.bodleian.ox.ac.uk/terms.html<br>", 
+  "logo": "http://www.bodleian.ox.ac.uk/__data/assets/image/0005/117176/logo.jpg", 
+  "viewingHint": "individuals", 
+  "seeAlso": "http://digital.bodleian.ox.ac.uk/inquire/p/7a800725-afda-4b37-aadb-d3aafe817a4b", 
+  "sequences": [
+    {
+      "@id": "http://iiif.bodleian.ox.ac.uk/iiif/sequence/7a800725-afda-4b37-aadb-d3aafe817a4b_default.json", 
+      "@type": "sc:Sequence", 
+      "label": "Default", 
+      "canvases": [
+        {
+          "@id": "http://iiif.bodleian.ox.ac.uk/iiif/canvas/7a800725-afda-4b37-aadb-d3aafe817a4b.json", 
+          "@type": "sc:Canvas", 
+          "label": "Douce O subt. 15", 
+          "height": 1228, 
+          "width": 1818, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "http://iiif.bodleian.ox.ac.uk/iiif/image/7a800725-afda-4b37-aadb-d3aafe817a4b/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1228, 
+                "width": 1818, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "http://iiif.bodleian.ox.ac.uk/iiif/image/7a800725-afda-4b37-aadb-d3aafe817a4b", 
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }, 
+              "on": "http://iiif.bodleian.ox.ac.uk/iiif/canvas/7a800725-afda-4b37-aadb-d3aafe817a4b.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

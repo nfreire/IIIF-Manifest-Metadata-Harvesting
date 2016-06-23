@@ -1,0 +1,169 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Manifest",
+    "@id": "http://digital.library.villanova.edu/Item/vudl:68791/Manifest",
+    "label": "Papal dispensation for marriage of Francesco di Giuliano de' Medici (d. 1632) to Fiammetta di Giovanni Ugolini.",
+    "metadata": [
+        {
+            "label": "Full Title",
+            "value": "<span>Papal dispensation for marriage of Francesco di Giuliano de' Medici (d. 1632) to Fiammetta di Giovanni Ugolini.</span>"
+        },
+        {
+            "label": "Author",
+            "value": "<span><a href=\"http://digital.library.villanova.edu/Search/Results?filter[]=author:Gregory+--+XIII%2C+--+Pope%2C+--+1502-1585.\">Gregory -- XIII, -- Pope, -- 1502-1585.</a></span>"
+        },
+        {
+            "label": "Date Added",
+            "value": "<span>13 January 2014</span>"
+        },
+        {
+            "label": "Language",
+            "value": "<span><a href=\"http://digital.library.villanova.edu/Search/Results?filter[]=language:Latin\">Latin</a></span>"
+        },
+        {
+            "label": "Publish Date",
+            "value": "<span><a href=\"http://digital.library.villanova.edu/Search/Results?filter[]=dc_date_str:1577-01-01\">1577-01-01</a></span>"
+        },
+        {
+            "label": "Source",
+            "value": "<span><a href=\"http://digital.library.villanova.edu/Search/Results?filter[]=dc_source_str_mv:Manuscript.\">Manuscript.</a></span>"
+        },
+        {
+            "label": "Topic",
+            "value": "<span><a href=\"http://digital.library.villanova.edu/Search/Results?type=Subject&lookfor=%22Ugolini%2C+Fiammetta+di+Giovanni.%22\">Ugolini, Fiammetta di Giovanni.</a><br /><a href=\"http://digital.library.villanova.edu/Search/Results?type=Subject&lookfor=%22Medici%2C+Francesco+di+Giuliano+de%27%2C+d.+1632.%22\">Medici, Francesco di Giuliano de', d. 1632.</a><br /><a href=\"http://digital.library.villanova.edu/Search/Results?type=Subject&lookfor=%22Matrimonial+dispensation.%22\">Matrimonial dispensation.</a><br /><a href=\"http://digital.library.villanova.edu/Search/Results?type=Subject&lookfor=%22Papal+dispensation.%22\">Papal dispensation.</a><br /><a href=\"http://digital.library.villanova.edu/Search/Results?type=Subject&lookfor=%22Marriage+records.%22\">Marriage records.</a></span>"
+        },
+        {
+            "label": "About",
+            "value": "<span><a href=\"http://digital.library.villanova.edu/Record/vudl:68791\">More Details</a><br /><a href=\"http://digital.library.villanova.edu/Item/vudl:68791\">Permanent Link</a></span>"
+        }
+    ],
+    "description": "<p>OM  BX1818 .P18 1577  [2] p. ; 20 x 36 cm. Folded parchment with attached papal lead seal of Gregory XIII.  Includes original twine.   Donation from Augustinian Midwest Province of Our Mother of Good Counsel, May 2011.   Written in Latin; dated KL Januarii  =  January 1, 1577.</p>",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "Digital Library@Villanova University",
+    "within": "http://digital.library.villanova.edu/Collection/vudl:62524/IIIF",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "label": "Pages",
+            "rendering": [],
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged",
+            "canvases": [
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:68791/Canvas/p0",
+                    "label": "Front, folded",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:68793/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:68793/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 5866,
+                    "width": 8912,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:68793/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A68793",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 5866,
+                                "width": 8912
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:68791/Canvas/p0"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:68791/Canvas/p1",
+                    "label": "Front, unfolded",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:68794/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:68794/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 6398,
+                    "width": 8861,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:68794/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A68794",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 6398,
+                                "width": 8861
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:68791/Canvas/p1"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:68791/Canvas/p2",
+                    "label": "Back",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:68795/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:68795/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 6518,
+                    "width": 8861,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:68795/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A68795",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 6518,
+                                "width": 8861
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:68791/Canvas/p2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

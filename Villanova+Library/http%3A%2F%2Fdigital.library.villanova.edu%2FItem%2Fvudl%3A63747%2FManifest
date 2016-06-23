@@ -1,0 +1,169 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Manifest",
+    "@id": "http://digital.library.villanova.edu/Item/vudl:63747/Manifest",
+    "label": "Right and Might.",
+    "metadata": [
+        {
+            "label": "Full Title",
+            "value": "<span>Right and Might.</span>"
+        },
+        {
+            "label": "Author",
+            "value": "<span><a href=\"http://digital.library.villanova.edu/Search/Results?filter[]=author:Johnson%2C+Lionel+Pigot%2C+1867-1902.\">Johnson, Lionel Pigot, 1867-1902.</a></span>"
+        },
+        {
+            "label": "Date Added",
+            "value": "<span>13 January 2014</span>"
+        },
+        {
+            "label": "Language",
+            "value": "<span><a href=\"http://digital.library.villanova.edu/Search/Results?filter[]=language:English\">English</a></span>"
+        },
+        {
+            "label": "Publish Date",
+            "value": "<span><a href=\"http://digital.library.villanova.edu/Search/Results?filter[]=dc_date_str:1890\">1890</a></span>"
+        },
+        {
+            "label": "Source",
+            "value": "<span><a href=\"http://digital.library.villanova.edu/Search/Results?filter[]=dc_source_str_mv:Manuscript\">Manuscript</a></span>"
+        },
+        {
+            "label": "Topic",
+            "value": "<span><a href=\"http://digital.library.villanova.edu/Search/Results?type=Subject&lookfor=%22Johnson%2C+Lionel+Pigot%2C+1867-1902.+Right+and+might%22\">Johnson, Lionel Pigot, 1867-1902. Right and might</a> &gt; <a href=\"http://digital.library.villanova.edu/Search/Results?type=Subject&lookfor=%22Johnson%2C+Lionel+Pigot%2C+1867-1902.+Right+and+might+Manuscripts.%22\">Manuscripts.</a><br /><a href=\"http://digital.library.villanova.edu/Search/Results?type=Subject&lookfor=%22Nationalism%22\">Nationalism</a> &gt; <a href=\"http://digital.library.villanova.edu/Search/Results?type=Subject&lookfor=%22Nationalism+Ireland%22\">Ireland</a> &gt; <a href=\"http://digital.library.villanova.edu/Search/Results?type=Subject&lookfor=%22Nationalism+Ireland+Poetry.%22\">Poetry.</a></span>"
+        },
+        {
+            "label": "About",
+            "value": "<span><a href=\"http://digital.library.villanova.edu/Record/vudl:63747\">More Details</a><br /><a href=\"http://digital.library.villanova.edu/Item/vudl:63747\">Permanent Link</a></span>"
+        }
+    ],
+    "description": "<p>OM PR4826.J5R5 1890z Handwritten manuscript of the poem, \"Right and Might,\" written and signed by Lionel Johnson.</p>",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": "Digital Library@Villanova University",
+    "within": "http://digital.library.villanova.edu/Collection/vudl:62524/IIIF",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "label": "Pages",
+            "rendering": [],
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged",
+            "canvases": [
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63747/Canvas/p0",
+                    "label": "Front",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63749/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63749/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 6613,
+                    "width": 5238,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63749/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63749",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 6613,
+                                "width": 5238
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63747/Canvas/p0"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63747/Canvas/p1",
+                    "label": "Back",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63750/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63750/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 6729,
+                    "width": 5209,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63750/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63750",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 6729,
+                                "width": 5209
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63747/Canvas/p1"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63747/Canvas/p2",
+                    "label": "Envelope  ",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63751/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63751/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 6666,
+                    "width": 5161,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63751/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63751",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 6666,
+                                "width": 5161
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63747/Canvas/p2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

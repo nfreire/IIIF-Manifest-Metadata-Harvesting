@@ -1,0 +1,141 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://fromthepage.com/iiif/76/manifest",
+  "@type": "sc:Manifest",
+  "label": "1. 1 Andrews, Edmund, 20 April 1835",
+  "description": "Letter, signed to James Morgan. Brazoria, April 20,l 1835. Wreck and damage of a vessel belonging to the New Washington Association.",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "label": "Pages",
+      "canvases": [
+        {
+          "@id": "http://fromthepage.com/iiif/76/manifest/4429/canvas",
+          "@type": "sc:Canvas",
+          "label": "Page 1",
+          "width": 2490,
+          "height": 3024,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/4429",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/4429/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 2490,
+                "height": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/4429",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/76/manifest/4429/canvas"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://fromthepage.com/iiif/76/manifest/4429/list",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/76/manifest/4430/canvas",
+          "@type": "sc:Canvas",
+          "label": "Page 2",
+          "width": 2554,
+          "height": 3144,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/4430",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/4430/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 2554,
+                "height": 3144,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/4430",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/76/manifest/4430/canvas"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://fromthepage.com/iiif/76/manifest/4430/list",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/76/manifest/4431/canvas",
+          "@type": "sc:Canvas",
+          "label": "Page 3",
+          "width": 2544,
+          "height": 3144,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/4431",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/4431/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 2544,
+                "height": 3144,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/4431",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/76/manifest/4431/canvas"
+            }
+          ]
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/76/manifest/4432/canvas",
+          "@type": "sc:Canvas",
+          "label": "Page 4",
+          "width": 2473,
+          "height": 3015,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/4432",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/4432/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 2473,
+                "height": 3015,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/4432",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/76/manifest/4432/canvas"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://fromthepage.com/iiif/76/manifest/4432/list",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

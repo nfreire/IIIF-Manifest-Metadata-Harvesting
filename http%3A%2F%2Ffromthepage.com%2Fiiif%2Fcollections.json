@@ -1,0 +1,758 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://fromthepage.com/iiif/collections",
+  "@type": "sc:Collection",
+  "label": "IIIF resources avaliable on the FromThePage installation at fromthepage.com",
+  "collections": [
+    {
+      "@id": "http://fromthepage.com/iiif/collection/1",
+      "@type": "sc:Collection",
+      "label": "Julia Brumfield Diaries",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/2/manifest",
+          "@type": "sc:Manifest",
+          "label": "1918"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/3/manifest",
+          "@type": "sc:Manifest",
+          "label": "1919"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/9/manifest",
+          "@type": "sc:Manifest",
+          "label": "1920"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/6/manifest",
+          "@type": "sc:Manifest",
+          "label": "1921"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/16/manifest",
+          "@type": "sc:Manifest",
+          "label": "1922"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/17/manifest",
+          "@type": "sc:Manifest",
+          "label": "1923"
+        }
+      ]
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/2",
+      "@type": "sc:Collection",
+      "label": "William Wenham Letters",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/24/manifest",
+          "@type": "sc:Manifest",
+          "label": "Berlin 1 February 1917"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/23/manifest",
+          "@type": "sc:Manifest",
+          "label": "Berlin 15 January 1917"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/5/manifest",
+          "@type": "sc:Manifest",
+          "label": "Berlin 21 December 1916"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/21/manifest",
+          "@type": "sc:Manifest",
+          "label": "Berlin 28 December 1916"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/22/manifest",
+          "@type": "sc:Manifest",
+          "label": "Berlin 4 January 1917"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/28/manifest",
+          "@type": "sc:Manifest",
+          "label": "Cottbus 1 April 1917"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/32/manifest",
+          "@type": "sc:Manifest",
+          "label": "Cottbus 10 June 1917"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/36/manifest",
+          "@type": "sc:Manifest",
+          "label": "Cottbus 11 November 1917"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/35/manifest",
+          "@type": "sc:Manifest",
+          "label": "Cottbus 14 October 1917"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/29/manifest",
+          "@type": "sc:Manifest",
+          "label": "Cottbus 15 April 1917"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/25/manifest",
+          "@type": "sc:Manifest",
+          "label": "Cottbus 19 February 1917"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/26/manifest",
+          "@type": "sc:Manifest",
+          "label": "Cottbus 25 February 1917"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/37/manifest",
+          "@type": "sc:Manifest",
+          "label": "Cottbus 25 November 1917"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/31/manifest",
+          "@type": "sc:Manifest",
+          "label": "Cottbus 27 May 1917"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/30/manifest",
+          "@type": "sc:Manifest",
+          "label": "Cottbus 29 April 1917"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/27/manifest",
+          "@type": "sc:Manifest",
+          "label": "Cottbus 4 March 1917"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/34/manifest",
+          "@type": "sc:Manifest",
+          "label": "Cottbus 5 August 1917"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/33/manifest",
+          "@type": "sc:Manifest",
+          "label": "Cottbus 8 July 1917"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/38/manifest",
+          "@type": "sc:Manifest",
+          "label": "Cottbus 9 December 1917"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/4/manifest",
+          "@type": "sc:Manifest",
+          "label": "Wahn 20 December 1916"
+        }
+      ]
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/3",
+      "@type": "sc:Collection",
+      "label": "College Station Poetry Group",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/8/manifest",
+          "@type": "sc:Manifest",
+          "label": "Foldover Poems"
+        }
+      ]
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/4",
+      "@type": "sc:Collection",
+      "label": "East Civil War Letters",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/11/manifest",
+          "@type": "sc:Manifest",
+          "label": "George East to Thomas East"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/10/manifest",
+          "@type": "sc:Manifest",
+          "label": "John C. East Envelope"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/12/manifest",
+          "@type": "sc:Manifest",
+          "label": "Shemi Watson to Mary Farthing Shackleford Watson"
+        }
+      ]
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/5",
+      "@type": "sc:Collection",
+      "label": "Jeremiah White Graves Diaries",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/13/manifest",
+          "@type": "sc:Manifest",
+          "label": "Diary Volume Two"
+        }
+      ]
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/6",
+      "@type": "sc:Collection",
+      "label": "Thomas Tolman Family Organization"
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/7",
+      "@type": "sc:Collection",
+      "label": "Zenas Matthews' 1846 U.S.-Mexico War Diary and Service Papers",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/18/manifest",
+          "@type": "sc:Manifest",
+          "label": "Z. Matthews' Diary"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/19/manifest",
+          "@type": "sc:Manifest",
+          "label": "Z. Matthews' Service Records"
+        }
+      ]
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/8",
+      "@type": "sc:Collection",
+      "label": "Stobbs Papers",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/39/manifest",
+          "@type": "sc:Manifest",
+          "label": "Statehood Petition"
+        }
+      ]
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/9",
+      "@type": "sc:Collection",
+      "label": "Robert E. Lee Letters",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/40/manifest",
+          "@type": "sc:Manifest",
+          "label": "Letter from Robert E. Lee to John B. Floyd"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/41/manifest",
+          "@type": "sc:Manifest",
+          "label": "Letter from Robert E. Lee to Mrs. D.C. Kennedy"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/42/manifest",
+          "@type": "sc:Manifest",
+          "label": "Letter from Robert E. Lee to U.S. Grant"
+        }
+      ]
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/10",
+      "@type": "sc:Collection",
+      "label": "Valladolid Legal Papers",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/43/manifest",
+          "@type": "sc:Manifest",
+          "label": "Registro de ejecutorias 1999.0090"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/44/manifest",
+          "@type": "sc:Manifest",
+          "label": "Registro de ejecutorias 1999.0101"
+        }
+      ]
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/11",
+      "@type": "sc:Collection",
+      "label": "Austin Fanzine Project",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/45/manifest",
+          "@type": "sc:Manifest",
+          "label": "Geek Weekly #1"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/64/manifest",
+          "@type": "sc:Manifest",
+          "label": "Geek Weekly #2 [November Food'n'Fun issue] "
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/57/manifest",
+          "@type": "sc:Manifest",
+          "label": "Geek Weekly #3"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/58/manifest",
+          "@type": "sc:Manifest",
+          "label": "Geek Weekly #4"
+        }
+      ]
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/12",
+      "@type": "sc:Collection",
+      "label": "Mosman 1914-1918",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/46/manifest",
+          "@type": "sc:Manifest",
+          "label": "Allsop Diary"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/51/manifest",
+          "@type": "sc:Manifest",
+          "label": "E.S. \"Gordon\" Lacey - Diary 1"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/52/manifest",
+          "@type": "sc:Manifest",
+          "label": "E.S. \"Gordon\" Lacey - Diary 2"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/53/manifest",
+          "@type": "sc:Manifest",
+          "label": "E.S. \"Gordon\" Lacey - Diary 3"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/48/manifest",
+          "@type": "sc:Manifest",
+          "label": "Mosman Church of England Preparatory School Honor Roll (1914-1918)"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/47/manifest",
+          "@type": "sc:Manifest",
+          "label": "Mosman Methodist Church roll of honour 1914-1919"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/49/manifest",
+          "@type": "sc:Manifest",
+          "label": "Mosman Rowing Club roll of honour 1914-1918"
+        }
+      ]
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/13",
+      "@type": "sc:Collection",
+      "label": "Cecil County at University of Delaware",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/50/manifest",
+          "@type": "sc:Manifest",
+          "label": "Joseph Brown Diary"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/104/manifest",
+          "@type": "sc:Manifest",
+          "label": "McCauley 1851"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/105/manifest",
+          "@type": "sc:Manifest",
+          "label": "McCauley 1852"
+        }
+      ]
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/16",
+      "@type": "sc:Collection",
+      "label": "C. S. Peirce Manuscripts",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/146/manifest",
+          "@type": "sc:Manifest",
+          "label": "Logic Notebook 1865-7 "
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/145/manifest",
+          "@type": "sc:Manifest",
+          "label": "Logic Notebook 1867 March-Oct"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/144/manifest",
+          "@type": "sc:Manifest",
+          "label": "Logic Notebook 1867 Oct-Nov "
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/142/manifest",
+          "@type": "sc:Manifest",
+          "label": "Logic Notebook 1867-1880"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/143/manifest",
+          "@type": "sc:Manifest",
+          "label": "Logic Notebook 1880-97"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/147/manifest",
+          "@type": "sc:Manifest",
+          "label": "Logic Notebook Directory "
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/69/manifest",
+          "@type": "sc:Manifest",
+          "label": "MS 145"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/68/manifest",
+          "@type": "sc:Manifest",
+          "label": "MS 460"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/67/manifest",
+          "@type": "sc:Manifest",
+          "label": "MS 462"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/65/manifest",
+          "@type": "sc:Manifest",
+          "label": "MS 464"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/66/manifest",
+          "@type": "sc:Manifest",
+          "label": "MS 507"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/149/manifest",
+          "@type": "sc:Manifest",
+          "label": "MS 611-15"
+        }
+      ]
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/18",
+      "@type": "sc:Collection",
+      "label": "HSBC War Cards",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/72/manifest",
+          "@type": "sc:Manifest",
+          "label": "Butler"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/73/manifest",
+          "@type": "sc:Manifest",
+          "label": "Carey"
+        }
+      ]
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/19",
+      "@type": "sc:Collection",
+      "label": "University of Texas at San Antonio Civil War Diaries",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/74/manifest",
+          "@type": "sc:Manifest",
+          "label": "Sketch of Hoods Texas Brigade of the Virginia Army (Handwritten Civil War Diary)"
+        }
+      ]
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/20",
+      "@type": "sc:Collection",
+      "label": "Transcribing the field notes of the Museum of Vertebrate Zoology",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/75/manifest",
+          "@type": "sc:Manifest",
+          "label": "1925: Joseph Grinnell's field notes"
+        }
+      ]
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/21",
+      "@type": "sc:Collection",
+      "label": "UTSA James Morgan Papers",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/76/manifest",
+          "@type": "sc:Manifest",
+          "label": "1. 1 Andrews, Edmund, 20 April 1835"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/77/manifest",
+          "@type": "sc:Manifest",
+          "label": "1. 2 Unknown, 23 October 1835"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/78/manifest",
+          "@type": "sc:Manifest",
+          "label": "1. 3 Treat, James, 13 November 1835"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/79/manifest",
+          "@type": "sc:Manifest",
+          "label": "1. 4 Unknown, 30 August 1836"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/80/manifest",
+          "@type": "sc:Manifest",
+          "label": "1. 5 Treat, James, September 1836"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/81/manifest",
+          "@type": "sc:Manifest",
+          "label": "1. 6 Morgan, James, 26 July 1841"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/82/manifest",
+          "@type": "sc:Manifest",
+          "label": "1. 7 Unknown, circa 1841"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/84/manifest",
+          "@type": "sc:Manifest",
+          "label": "1. 8 Unknown, circa 1841"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/85/manifest",
+          "@type": "sc:Manifest",
+          "label": "1. 9 Patrick, George M., 26 June 1850"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/86/manifest",
+          "@type": "sc:Manifest",
+          "label": "1.10 Barlow, L., 26 August 1835"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/87/manifest",
+          "@type": "sc:Manifest",
+          "label": "1.11 Texas (Republic). Army, 6 June 1836"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/88/manifest",
+          "@type": "sc:Manifest",
+          "label": "1.12 Santa Anna, Antonio Lopéz de 9 June 1936"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/89/manifest",
+          "@type": "sc:Manifest",
+          "label": "1.13 Burnet, David G., 10 June 1836"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/90/manifest",
+          "@type": "sc:Manifest",
+          "label": "1.14 Burnet, David G., 11 June 1836"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/91/manifest",
+          "@type": "sc:Manifest",
+          "label": "1.15 Unknown, 14 June 1836"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/92/manifest",
+          "@type": "sc:Manifest",
+          "label": "1.16 Somervell, Alexander and David G. Burnet, 14 June 1836"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/93/manifest",
+          "@type": "sc:Manifest",
+          "label": "1.17 Texas (Republic). Army, 20-26 July 1836"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/94/manifest",
+          "@type": "sc:Manifest",
+          "label": "1.18 Morgan, James, 1833-1837"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/95/manifest",
+          "@type": "sc:Manifest",
+          "label": "1.19 Selby, A. B., 28 January 1841"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/96/manifest",
+          "@type": "sc:Manifest",
+          "label": "1.20 Kissam, Jacob, 24 June 1841"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/98/manifest",
+          "@type": "sc:Manifest",
+          "label": "1.21 Baker, Moseley, 14 January 1840"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/97/manifest",
+          "@type": "sc:Manifest",
+          "label": "1.22 Morgan, James, 22 April 1850"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/100/manifest",
+          "@type": "sc:Manifest",
+          "label": "1.23 Houston, Sam, 29 May 1841"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/99/manifest",
+          "@type": "sc:Manifest",
+          "label": "1.24 Houston, Sam, 30 July 1841"
+        }
+      ]
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/22",
+      "@type": "sc:Collection",
+      "label": "William Brewster Diaries"
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/23",
+      "@type": "sc:Collection",
+      "label": "ASECS Workshop",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/103/manifest",
+          "@type": "sc:Manifest",
+          "label": "A Short Account of the Dealings with God"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/107/manifest",
+          "@type": "sc:Manifest",
+          "label": "Of Religious Melancholy"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/106/manifest",
+          "@type": "sc:Manifest",
+          "label": "Sermon on the Death of Mrs. Crabb"
+        }
+      ]
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/25",
+      "@type": "sc:Collection",
+      "label": "Edición y Crítica Textual",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/110/manifest",
+          "@type": "sc:Manifest",
+          "label": "Pequeño cancionero"
+        }
+      ]
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/26",
+      "@type": "sc:Collection",
+      "label": "French of Outremer (trial)"
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/28",
+      "@type": "sc:Collection",
+      "label": "Stagville Accounts",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/151/manifest",
+          "@type": "sc:Manifest",
+          "label": "00133_sv0061"
+        }
+      ]
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/30",
+      "@type": "sc:Collection",
+      "label": "empty collection"
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/31",
+      "@type": "sc:Collection",
+      "label": "Experiences of World War One"
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/32",
+      "@type": "sc:Collection",
+      "label": "Andrew Taylor",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/128/manifest",
+          "@type": "sc:Manifest",
+          "label": "Dukes of Cornwall"
+        }
+      ]
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/33",
+      "@type": "sc:Collection",
+      "label": "Genealogy Literature"
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/34",
+      "@type": "sc:Collection",
+      "label": "Thornton Manuscripts"
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/35",
+      "@type": "sc:Collection",
+      "label": "Falkner Letters",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/131/manifest",
+          "@type": "sc:Manifest",
+          "label": "T.E. Cannell letter"
+        }
+      ]
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/36",
+      "@type": "sc:Collection",
+      "label": "Maria Weston Chapman Letters (HILT)"
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/37",
+      "@type": "sc:Collection",
+      "label": "WAAC letters"
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/41",
+      "@type": "sc:Collection",
+      "label": "The French campaign in Egypt, 1798-1801",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/137/manifest",
+          "@type": "sc:Manifest",
+          "label": "محاكمة سليمان الحلبي"
+        }
+      ]
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/42",
+      "@type": "sc:Collection",
+      "label": "Letters to/from Samuel Kearsley 1825-1828",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/153/manifest",
+          "@type": "sc:Manifest",
+          "label": "Samuel_Kearsley_1825"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/154/manifest",
+          "@type": "sc:Manifest",
+          "label": "Samuel_Kearsley_1826"
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/155/manifest",
+          "@type": "sc:Manifest",
+          "label": "Samuel_Kearsley_1828"
+        }
+      ]
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/43",
+      "@type": "sc:Collection",
+      "label": "Will of Zephaniah Kingsley, 1843"
+    },
+    {
+      "@id": "http://fromthepage.com/iiif/collection/44",
+      "@type": "sc:Collection",
+      "label": "Will of Zephaniah Kingsley, 1843",
+      "manifests": [
+        {
+          "@id": "http://fromthepage.com/iiif/159/manifest",
+          "@type": "sc:Manifest",
+          "label": "Will of Zephaniah Kingsley, 1843"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Manifest",
+    "@id": "http://digital.library.villanova.edu/Item/vudl:63709/Manifest",
+    "label": "Letter, To: Thomas Moore.",
+    "metadata": [
+        {
+            "label": "Full Title",
+            "value": "<span>Letter, To: Thomas Moore.</span>"
+        },
+        {
+            "label": "Author",
+            "value": "<span><a href=\"http://digital.library.villanova.edu/Search/Results?filter[]=author:Moore%2C+Thomas+%281779-1852%29\">Moore, Thomas (1779-1852)</a></span>"
+        },
+        {
+            "label": "Date Added",
+            "value": "<span>13 January 2014</span>"
+        },
+        {
+            "label": "Language",
+            "value": "<span><a href=\"http://digital.library.villanova.edu/Search/Results?filter[]=language:English\">English</a></span>"
+        },
+        {
+            "label": "Publish Date",
+            "value": "<span><a href=\"http://digital.library.villanova.edu/Search/Results?filter[]=dc_date_str:1824-12-31\">1824-12-31</a></span>"
+        },
+        {
+            "label": "Source",
+            "value": "<span><a href=\"http://digital.library.villanova.edu/Search/Results?filter[]=dc_source_str_mv:Manuscript\">Manuscript</a></span>"
+        },
+        {
+            "label": "About",
+            "value": "<span><a href=\"http://digital.library.villanova.edu/Record/vudl:63709\">More Details</a><br /><a href=\"http://digital.library.villanova.edu/Item/vudl:63709\">Permanent Link</a></span>"
+        }
+    ],
+    "description": "<p>OM PR5054.A41 1824. This is a letter from Thomas Moore.</p>",
+    "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": "Digital Library@Villanova University",
+    "within": "http://digital.library.villanova.edu/Collection/vudl:62524/IIIF",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "label": "Pages",
+            "rendering": [],
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged",
+            "canvases": [
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63709/Canvas/p0",
+                    "label": "1",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63711/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63711/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 2986,
+                    "width": 2173,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63711/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63711",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 2986,
+                                "width": 2173
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63709/Canvas/p0"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63709/Canvas/p1",
+                    "label": "2",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63712/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63712/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 2758,
+                    "width": 1788,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63712/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63712",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 2758,
+                                "width": 1788
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63709/Canvas/p1"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "http://digital.library.villanova.edu/Item/vudl:63709/Canvas/p2",
+                    "label": "Envelope  ",
+                    "rendering": [
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63713/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file"
+                        },
+                        {
+                            "@id": "http://digital.library.villanova.edu/files/vudl:63713/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
+                    "height": 2758,
+                    "width": 1842,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://digital.library.villanova.edu/files/vudl:63713/LARGE",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.villanova.edu/image/vudl%3A63713",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "height": 2758,
+                                "width": 1842
+                            },
+                            "on": "http://digital.library.villanova.edu/Item/vudl:63709/Canvas/p2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

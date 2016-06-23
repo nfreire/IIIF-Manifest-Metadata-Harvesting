@@ -1,0 +1,80 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://fromthepage.com/iiif/5/manifest",
+  "@type": "sc:Manifest",
+  "label": "Berlin 21 December 1916",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "label": "Pages",
+      "canvases": [
+        {
+          "@id": "http://fromthepage.com/iiif/5/manifest/1124/canvas",
+          "@type": "sc:Canvas",
+          "label": "front",
+          "width": 1152,
+          "height": 1700,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/1124",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/1124/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 1152,
+                "height": 1700,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/1124",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/5/manifest/1124/canvas"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://fromthepage.com/iiif/5/manifest/1124/list",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/5/manifest/1125/canvas",
+          "@type": "sc:Canvas",
+          "label": "back",
+          "width": 1708,
+          "height": 1168,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/1125",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/1125/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 1708,
+                "height": 1168,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/1125",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/5/manifest/1125/canvas"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://fromthepage.com/iiif/5/manifest/1125/list",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

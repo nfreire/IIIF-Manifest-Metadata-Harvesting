@@ -1,0 +1,477 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://fromthepage.com/iiif/68/manifest",
+  "@type": "sc:Manifest",
+  "label": "MS 460",
+  "description": "13-16, 13 ... 23, 22v",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "label": "Pages",
+      "canvases": [
+        {
+          "@id": "http://fromthepage.com/iiif/68/manifest/3789/canvas",
+          "@type": "sc:Canvas",
+          "label": "13-16",
+          "width": 1050,
+          "height": 1390,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/3789",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/3789/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 1050,
+                "height": 1390,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/3789",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/68/manifest/3789/canvas"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://fromthepage.com/iiif/68/manifest/3789/list",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/68/manifest/3790/canvas",
+          "@type": "sc:Canvas",
+          "label": "13",
+          "width": 1050,
+          "height": 1390,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/3790",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/3790/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 1050,
+                "height": 1390,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/3790",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/68/manifest/3790/canvas"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://fromthepage.com/iiif/68/manifest/3790/list",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/68/manifest/3791/canvas",
+          "@type": "sc:Canvas",
+          "label": "14",
+          "width": 1050,
+          "height": 1390,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/3791",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/3791/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 1050,
+                "height": 1390,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/3791",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/68/manifest/3791/canvas"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://fromthepage.com/iiif/68/manifest/3791/list",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/68/manifest/3792/canvas",
+          "@type": "sc:Canvas",
+          "label": "15",
+          "width": 1050,
+          "height": 1390,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/3792",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/3792/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 1050,
+                "height": 1390,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/3792",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/68/manifest/3792/canvas"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://fromthepage.com/iiif/68/manifest/3792/list",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/68/manifest/3793/canvas",
+          "@type": "sc:Canvas",
+          "label": "16",
+          "width": 1050,
+          "height": 1390,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/3793",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/3793/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 1050,
+                "height": 1390,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/3793",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/68/manifest/3793/canvas"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://fromthepage.com/iiif/68/manifest/3793/list",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/68/manifest/3794/canvas",
+          "@type": "sc:Canvas",
+          "label": "17",
+          "width": 1050,
+          "height": 1390,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/3794",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/3794/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 1050,
+                "height": 1390,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/3794",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/68/manifest/3794/canvas"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://fromthepage.com/iiif/68/manifest/3794/list",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/68/manifest/3795/canvas",
+          "@type": "sc:Canvas",
+          "label": "18",
+          "width": 1050,
+          "height": 1390,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/3795",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/3795/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 1050,
+                "height": 1390,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/3795",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/68/manifest/3795/canvas"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://fromthepage.com/iiif/68/manifest/3795/list",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/68/manifest/3796/canvas",
+          "@type": "sc:Canvas",
+          "label": "19",
+          "width": 1050,
+          "height": 1390,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/3796",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/3796/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 1050,
+                "height": 1390,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/3796",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/68/manifest/3796/canvas"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://fromthepage.com/iiif/68/manifest/3796/list",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/68/manifest/3797/canvas",
+          "@type": "sc:Canvas",
+          "label": "20",
+          "width": 1050,
+          "height": 1390,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/3797",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/3797/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 1050,
+                "height": 1390,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/3797",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/68/manifest/3797/canvas"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://fromthepage.com/iiif/68/manifest/3797/list",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/68/manifest/3798/canvas",
+          "@type": "sc:Canvas",
+          "label": "21",
+          "width": 1050,
+          "height": 1390,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/3798",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/3798/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 1050,
+                "height": 1390,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/3798",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/68/manifest/3798/canvas"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://fromthepage.com/iiif/68/manifest/3798/list",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/68/manifest/3799/canvas",
+          "@type": "sc:Canvas",
+          "label": "21v",
+          "width": 1050,
+          "height": 1390,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/3799",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/3799/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 1050,
+                "height": 1390,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/3799",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/68/manifest/3799/canvas"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://fromthepage.com/iiif/68/manifest/3799/list",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/68/manifest/3800/canvas",
+          "@type": "sc:Canvas",
+          "label": "22",
+          "width": 1050,
+          "height": 1390,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/3800",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/3800/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 1050,
+                "height": 1390,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/3800",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/68/manifest/3800/canvas"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://fromthepage.com/iiif/68/manifest/3800/list",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/68/manifest/3801/canvas",
+          "@type": "sc:Canvas",
+          "label": "22v",
+          "width": 1050,
+          "height": 1390,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/3801",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/3801/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 1050,
+                "height": 1390,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/3801",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/68/manifest/3801/canvas"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://fromthepage.com/iiif/68/manifest/3801/list",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/68/manifest/3802/canvas",
+          "@type": "sc:Canvas",
+          "label": "23",
+          "width": 1050,
+          "height": 1390,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/3802",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/3802/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 1050,
+                "height": 1390,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/3802",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/68/manifest/3802/canvas"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://fromthepage.com/iiif/68/manifest/3802/list",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

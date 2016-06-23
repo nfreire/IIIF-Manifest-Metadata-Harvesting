@@ -1,0 +1,114 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://fromthepage.com/iiif/91/manifest",
+  "@type": "sc:Manifest",
+  "label": "1.15 Unknown, 14 June 1836",
+  "description": "Treaty of Velasco. Contemporary copy or draft of the original treaty, misdated June 14 (rather than May 14), 1836.",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "label": "Pages",
+      "canvases": [
+        {
+          "@id": "http://fromthepage.com/iiif/91/manifest/4502/canvas",
+          "@type": "sc:Canvas",
+          "label": "Page 1",
+          "width": 2640,
+          "height": 4319,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/4502",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/4502/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 2640,
+                "height": 4319,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/4502",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/91/manifest/4502/canvas"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://fromthepage.com/iiif/91/manifest/4502/list",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/91/manifest/4504/canvas",
+          "@type": "sc:Canvas",
+          "label": "Page 2",
+          "width": 2640,
+          "height": 4359,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/4504",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/4504/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 2640,
+                "height": 4359,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/4504",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/91/manifest/4504/canvas"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://fromthepage.com/iiif/91/manifest/4504/list",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://fromthepage.com/iiif/91/manifest/4506/canvas",
+          "@type": "sc:Canvas",
+          "label": "Page 3",
+          "width": 2640,
+          "height": 3718,
+          "images": [
+            {
+              "@id": "http://fromthepage.com/image-service/4506",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://fromthepage.com/image-service/4506/full/full/0/native.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "width": 2640,
+                "height": 3718,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://fromthepage.com/image-service/4506",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              },
+              "on": "http://fromthepage.com/iiif/91/manifest/4506/canvas"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://fromthepage.com/iiif/91/manifest/4506/list",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

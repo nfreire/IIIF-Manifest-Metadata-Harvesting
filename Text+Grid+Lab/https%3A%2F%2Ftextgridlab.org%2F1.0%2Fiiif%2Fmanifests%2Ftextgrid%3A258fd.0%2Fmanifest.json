@@ -1,0 +1,1536 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/manifest.json",
+  "@type" : "sc:Manifest",
+  "attribution" : "",
+  "sequences" : [ {
+    "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/sequence/normal.json",
+    "@type" : "sc:Sequence",
+    "canvases" : [ {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gr.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258gr.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258gr.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258gr.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4466,
+          "width" : 3049
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gr.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_001",
+      "height" : 4466,
+      "width" : 3049
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hf.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258hf.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258hf.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258hf.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4698,
+          "width" : 5958
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hf.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_002",
+      "height" : 4698,
+      "width" : 5958
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258g6.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258g6.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258g6.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258g6.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4698,
+          "width" : 5958
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258g6.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_003",
+      "height" : 4698,
+      "width" : 5958
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258g5.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258g5.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258g5.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258g5.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4698,
+          "width" : 5958
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258g5.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_004",
+      "height" : 4698,
+      "width" : 5958
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hj.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258hj.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258hj.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258hj.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4698,
+          "width" : 5958
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hj.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_005",
+      "height" : 4698,
+      "width" : 5958
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gn.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258gn.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258gn.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258gn.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4698,
+          "width" : 5958
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gn.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_006",
+      "height" : 4698,
+      "width" : 5958
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fq.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258fq.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258fq.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258fq.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4698,
+          "width" : 5958
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fq.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_007",
+      "height" : 4698,
+      "width" : 5958
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fw.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258fw.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258fw.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258fw.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4698,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fw.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_008",
+      "height" : 4698,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hp.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258hp.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258hp.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258hp.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hp.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_009",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gf.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258gf.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258gf.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258gf.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5958
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gf.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_010",
+      "height" : 4699,
+      "width" : 5958
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fh.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258fh.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258fh.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258fh.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5958
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fh.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_011",
+      "height" : 4699,
+      "width" : 5958
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fz.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258fz.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258fz.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258fz.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4698,
+          "width" : 5958
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fz.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_012",
+      "height" : 4698,
+      "width" : 5958
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258ft.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258ft.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258ft.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258ft.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4698,
+          "width" : 5958
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258ft.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_013",
+      "height" : 4698,
+      "width" : 5958
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258h7.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258h7.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258h7.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258h7.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4698,
+          "width" : 5958
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258h7.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_014",
+      "height" : 4698,
+      "width" : 5958
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258h3.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258h3.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258h3.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258h3.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4698,
+          "width" : 5958
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258h3.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_015",
+      "height" : 4698,
+      "width" : 5958
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258h6.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258h6.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258h6.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258h6.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4698,
+          "width" : 5958
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258h6.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_016",
+      "height" : 4698,
+      "width" : 5958
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hr.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258hr.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258hr.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258hr.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4698,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hr.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_017",
+      "height" : 4698,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hs.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258hs.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258hs.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258hs.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4698,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hs.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_018",
+      "height" : 4698,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fv.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258fv.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258fv.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258fv.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fv.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_019",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258h8.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258h8.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258h8.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258h8.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4698,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258h8.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_020",
+      "height" : 4698,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gm.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258gm.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258gm.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258gm.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5958
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gm.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_021",
+      "height" : 4699,
+      "width" : 5958
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gs.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258gs.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258gs.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258gs.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gs.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_022",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258h9.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258h9.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258h9.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258h9.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258h9.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_023",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gx.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258gx.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258gx.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258gx.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gx.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_024",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fj.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258fj.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258fj.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258fj.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fj.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_025",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258g2.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258g2.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258g2.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258g2.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258g2.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_026",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258h0.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258h0.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258h0.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258h0.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258h0.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_027",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258g0.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258g0.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258g0.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258g0.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258g0.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_028",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258h5.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258h5.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258h5.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258h5.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258h5.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_029",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gt.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258gt.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258gt.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258gt.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gt.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_030",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gh.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258gh.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258gh.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258gh.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gh.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_031",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hm.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258hm.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258hm.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258hm.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hm.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_032",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gw.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258gw.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258gw.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258gw.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gw.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_033",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fx.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258fx.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258fx.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258fx.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fx.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_034",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258h2.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258h2.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258h2.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258h2.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258h2.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_035",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fk.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258fk.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258fk.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258fk.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4698,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fk.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_036",
+      "height" : 4698,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gg.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258gg.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258gg.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258gg.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4698,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gg.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_037",
+      "height" : 4698,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gj.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258gj.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258gj.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258gj.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4698,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gj.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_038",
+      "height" : 4698,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hh.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258hh.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258hh.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258hh.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4698,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hh.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_039",
+      "height" : 4698,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fn.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258fn.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258fn.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258fn.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4698,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fn.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_040",
+      "height" : 4698,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fs.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258fs.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258fs.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258fs.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fs.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_041",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258h4.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258h4.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258h4.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258h4.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4698,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258h4.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_042",
+      "height" : 4698,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hg.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258hg.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258hg.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258hg.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4698,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hg.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_043",
+      "height" : 4698,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hc.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258hc.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258hc.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258hc.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4698,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hc.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_044",
+      "height" : 4698,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gb.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258gb.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258gb.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258gb.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4698,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gb.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_045",
+      "height" : 4698,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gv.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258gv.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258gv.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258gv.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gv.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_046",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258g8.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258g8.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258g8.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258g8.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258g8.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_047",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fr.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258fr.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258fr.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258fr.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fr.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_048",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gp.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258gp.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258gp.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258gp.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gp.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_049",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hk.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258hk.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258hk.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258hk.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hk.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_050",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gq.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258gq.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258gq.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258gq.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gq.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_051",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gz.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258gz.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258gz.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258gz.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gz.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_052",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258h1.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258h1.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258h1.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258h1.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258h1.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_053",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fp.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258fp.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258fp.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258fp.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fp.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_054",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258g4.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258g4.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258g4.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258g4.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258g4.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_055",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hd.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258hd.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258hd.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258hd.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hd.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_056",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fm.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258fm.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258fm.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258fm.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fm.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_057",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hq.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258hq.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258hq.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258hq.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hq.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_058",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hn.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258hn.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258hn.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258hn.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hn.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_059",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hb.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258hb.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258hb.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258hb.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258hb.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_060",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fg.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258fg.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258fg.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258fg.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5957
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258fg.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_061",
+      "height" : 4699,
+      "width" : 5957
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258g3.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258g3.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258g3.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258g3.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5958
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258g3.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_062",
+      "height" : 4699,
+      "width" : 5958
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258g9.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258g9.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258g9.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258g9.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5958
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258g9.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_063",
+      "height" : 4699,
+      "width" : 5958
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258g1.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258g1.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258g1.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258g1.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4699,
+          "width" : 5958
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258g1.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_064",
+      "height" : 4699,
+      "width" : 5958
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gc.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258gc.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258gc.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258gc.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4465,
+          "width" : 3063
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gc.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_065",
+      "height" : 4465,
+      "width" : 3063
+    }, {
+      "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gd.0.json",
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@id" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/annotation/textgrid:258gd.0.json",
+        "@type" : "oa:Annotation",
+        "resource" : {
+          "@id" : "https://textgridlab.org/1.0/tgcrud-public/rest/textgrid:258gd.0/data",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@id" : "https://textgridlab.org/1.0/digilib/rest/IIIF/textgrid:258gd.0",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+          },
+          "height" : 4139,
+          "width" : 342
+        },
+        "on" : "https://textgridlab.org/1.0/iiif/manifests/textgrid:258fd.0/canvas/textgrid:258gd.0.json",
+        "motivation" : "sc:painting"
+      } ],
+      "label" : "C07_066",
+      "height" : 4139,
+      "width" : 342
+    } ],
+    "label" : "Current Page Order"
+  } ],
+  "description" : "Unpublished testdata from the TextGrid repository sandbox, see also: https://textgridrep.org/browse/-/browse/textgrid:258fd.0 / ",
+  "service" : "https://textgridrep.org/browse/-/browse/258fd_0",
+  "label" : "Notizbuch_C07",
+  "foaf:page" : {
+    "@id" : "https://textgridrep.org/browse/-/browse/258fd_0"
+  }
+}
