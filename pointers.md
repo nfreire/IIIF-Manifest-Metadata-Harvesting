@@ -8,6 +8,8 @@
   - a manifest of manifests
   - not the same coverage as previous list
 
+- [list of IIIF partners, can be used to mine sources] (http://iiif.io/community/)
+
 ## Discussions on discovery
 
 - [IIIF Discovery - seeAlso best practice] (https://groups.google.com/forum/#!searchin/iiif-discuss/discovery/iiif-discuss/DeLGCqZXJZ0/7RmCMgMBBgAJ)
