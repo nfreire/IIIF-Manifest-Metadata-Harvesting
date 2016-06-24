@@ -1,0 +1,19 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://textgridlab.org/1.0/iiif/manifests/collection.json",
+  "@type" : "sc:Collection",
+  "label" : "TextGrid objects with IIIF metadata",
+  "collections" : [ {
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://textgridlab.org/1.0/iiif/manifests/collection/published.json",
+    "@type" : "sc:Collection",
+    "label" : "Published data in the TextGrid Repository",
+    "description" : "Published data in the TextGrid Repository."
+  }, {
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://textgridlab.org/1.0/iiif/manifests/collection/sandbox.json",
+    "@type" : "sc:Collection",
+    "label" : "Data in the TextGrid Repository Sandbox",
+    "description" : "Data in the TextGrid Repository Sandbox is evaluated for final publication, but may still be removed."
+  } ]
+}
