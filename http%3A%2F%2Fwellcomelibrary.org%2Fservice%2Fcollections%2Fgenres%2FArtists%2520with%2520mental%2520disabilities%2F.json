@@ -1,0 +1,74 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://wellcomelibrary.org/service/collections/genres/Artists%20with%20mental%20disabilities/",
+  "@type": "sc:Collection",
+  "label": " Genre: Artists with mental disabilities",
+  "manifests": [
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11963104/manifest",
+      "@type": "sc:Manifest",
+      "label": "Three cats performing a song and dance act. Gouache by Louis Wain, 1925/1939.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11963104-0/c39aed4c-77de-450f-ade7-ac1463d8c404/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11963104-0/c39aed4c-77de-450f-ade7-ac1463d8c404",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11963104",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11963104",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11598190/manifest",
+      "@type": "sc:Manifest",
+      "label": "The infant Aesculapius discovered by shepherds on a mountain. Watercolour painting by R. Dadd, 1851.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11598190-0/a7736451-be54-4dc5-9fa6-79ea5621299c/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11598190-0/a7736451-be54-4dc5-9fa6-79ea5621299c",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11598190",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11598190",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b15465548/manifest",
+      "@type": "sc:Manifest",
+      "label": "Patients waiting to see the doctor, with figures representing their fears. Oil painting by Rosemary Carson, 1997.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b15465548-0/b06c2741-af97-4d20-9f26-9f1a796b4e40/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b15465548-0/b06c2741-af97-4d20-9f26-9f1a796b4e40",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b15465548",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b15465548",
+        "format": "text/turtle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://wellcomelibrary.org/iiif/b11589668/manifest",
+  "@type": "sc:Manifest",
+  "label": "A new apothecary's shop open for business, with parody advertisements for different potions; representing the remedies required for different professions and social types. Coloured etching after G.M. Woodward, 1802.",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "A new apothecary's shop open for business, with parody advertisements for different potions; representing the remedies required for different professions and social types. Coloured etching after G.M. Woodward, 1802."
+    },
+    {
+      "label": "Author(s)",
+      "value": "Woodward, G. M"
+    },
+    {
+      "label": "Description",
+      "value": "A humorous allegory showing the requirements of people such as electioneering politicians, gossips, widows, lawyers etc., in the form of a picture of the shop of a Georgian vendor of patent remedies. The forms which the medicines take -- powders, pills, ointments, balsams etc.--are derived from mainstream traditional pharmacy, but the vendor is trying to claim added value by targeting them at the needs of particular groups of customers. In this example of rather laboured Georgian humour, the patent medicines offered are not cures for diseases at all but are cures for specific social situations such as overwork, loneliness, low esteem, networking needs, etc.\n\nThe words: \"Physic for man and horse!! Daniel Drug, dealer in patent medicines\" are above the shop door, \"Kill or cure!!\" on it; the vendor says \"Will nobody buy? -Will nobody buy?\" and his posters display the names of twenty potions for specific types of people. The subject appears to be the low-grade shop of a medicine vendor just starting out in business. Whereas established shops of this period had a panelled doorway with a fanlight above and bow windows to the sides, this one has a stable door, above it is a plain lintel, and at the sides are paper posters stuck on to a wooden framework fixed to the outside wall."
+    },
+    {
+      "label": "Attribution",
+      "value": "Wellcome Library<br/>License: CC-BY-NC"
+    },
+    {
+      "label": "",
+      "value": "<a href='http://search.wellcomelibrary.org/iii/encore/record/C__Rb1158966'>View full catalogue record</a>"
+    },
+    {
+      "label": "Full conditions of use",
+      "value": "You have permission to make copies of this work under a <a target=\"_top\" href=\"http://creativecommons.org/licenses/by-nc/4.0/\">Creative Commons, Attribution, Non-commercial license</a>.<br/><br/>Non-commercial use includes private study, academic research, teaching, and other activities that are not primarily intended for, or directed towards, commercial advantage or private monetary compensation. See the <a target=\"_top\" href=\"http://creativecommons.org/licenses/by-nc/4.0/legalcode\">Legal Code</a> for further information.<br/><br/>Image source should be attributed as specified in the full catalogue record. If no source is given the image should be attributed to Wellcome Library."
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "logo": "http://wellcomelibrary.org/assets/img/squarelogo64.png",
+  "related": {
+    "@id": "http://wellcomelibrary.org/item/b11589668",
+    "format": "text/html"
+  },
+  "seeAlso": {
+    "@id": "http://wellcomelibrary.org/resource/b11589668",
+    "format": "text/turtle"
+  },
+  "service": [
+    {
+      "@context": "http://wellcomelibrary.org/ld/iiif-ext/0/context.json",
+      "@id": "http://wellcomelibrary.org/iiif/b11589668-0/access-control-hints-service",
+      "profile": "http://wellcomelibrary.org/ld/iiif-ext/access-control-hints",
+      "accessHint": "open"
+    },
+    {
+      "@context": "http://universalviewer.io/context.json",
+      "@id": "http://wellcomelibrary.org/service/trackingLabels/b11589668",
+      "profile": "http://universalviewer.io/tracking-extensions-profile",
+      "trackingLabel": "Format: artwork, Institution: n/a, Identifier: b11589668, Digicode: digicon, Collection code: n/a"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11589668/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence s0",
+      "rendering": {
+        "@id": "http://wellcomelibrary.org/pdf/b11589668/0/b11589668_0.pdf",
+        "format": "application/pdf",
+        "label": "Download as PDF"
+      },
+      "canvases": [
+        {
+          "@id": "http://wellcomelibrary.org/iiif/b11589668/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": " - ",
+          "thumbnail": "http://wellcomelibrary.org/thumbs/b11589668/0/9342cb81-1b36-4097-89e6-7d20186b4399.jpg",
+          "height": 2416,
+          "width": 3116,
+          "images": [
+            {
+              "@id": "http://wellcomelibrary.org/iiif/b11589668/imageanno/9342cb81-1b36-4097-89e6-7d20186b4399",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://wellcomelibrary.org/iiif-img/b11589668-0/9342cb81-1b36-4097-89e6-7d20186b4399/full/!1024,1024/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 794,
+                "width": 1024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://wellcomelibrary.org/iiif-img/b11589668-0/9342cb81-1b36-4097-89e6-7d20186b4399",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://wellcomelibrary.org/iiif/b11589668/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

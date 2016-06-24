@@ -1,0 +1,98 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://wellcomelibrary.org/iiif/b11879853/manifest",
+  "@type": "sc:Manifest",
+  "label": "A barber's shop. Coloured etching with aquatint by T. Rowlandson, 178-, after W.H. Bunbury.",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "A barber's shop. Coloured etching with aquatint by T. Rowlandson, 178-, after W.H. Bunbury."
+    },
+    {
+      "label": "Author(s)",
+      "value": "Bunbury, Henry William; Rowlandson, Thomas"
+    },
+    {
+      "label": "Description",
+      "value": "In the centre a man is seated, swathed in a sheet while a boy on the left applies tongs to his hair, which a man on the right is combing. On the left two men admire their freshly curled hair in the mirror. On the extreme right a barber shaves a man next to whom stands a man who stanches a cut on his cheek with a towel. In the left-hand foreground a seated customer reads a newspaper with a concerned expression"
+    },
+    {
+      "label": "Attribution",
+      "value": "Wellcome Library<br/>License: CC-BY-NC"
+    },
+    {
+      "label": "",
+      "value": "<a href='http://search.wellcomelibrary.org/iii/encore/record/C__Rb1187985'>View full catalogue record</a>"
+    },
+    {
+      "label": "Full conditions of use",
+      "value": "You have permission to make copies of this work under a <a target=\"_top\" href=\"http://creativecommons.org/licenses/by-nc/4.0/\">Creative Commons, Attribution, Non-commercial license</a>.<br/><br/>Non-commercial use includes private study, academic research, teaching, and other activities that are not primarily intended for, or directed towards, commercial advantage or private monetary compensation. See the <a target=\"_top\" href=\"http://creativecommons.org/licenses/by-nc/4.0/legalcode\">Legal Code</a> for further information.<br/><br/>Image source should be attributed as specified in the full catalogue record. If no source is given the image should be attributed to Wellcome Library."
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "logo": "http://wellcomelibrary.org/assets/img/squarelogo64.png",
+  "related": {
+    "@id": "http://wellcomelibrary.org/item/b11879853",
+    "format": "text/html"
+  },
+  "seeAlso": {
+    "@id": "http://wellcomelibrary.org/resource/b11879853",
+    "format": "text/turtle"
+  },
+  "service": [
+    {
+      "@context": "http://wellcomelibrary.org/ld/iiif-ext/0/context.json",
+      "@id": "http://wellcomelibrary.org/iiif/b11879853-0/access-control-hints-service",
+      "profile": "http://wellcomelibrary.org/ld/iiif-ext/access-control-hints",
+      "accessHint": "open"
+    },
+    {
+      "@context": "http://universalviewer.io/context.json",
+      "@id": "http://wellcomelibrary.org/service/trackingLabels/b11879853",
+      "profile": "http://universalviewer.io/tracking-extensions-profile",
+      "trackingLabel": "Format: artwork, Institution: n/a, Identifier: b11879853, Digicode: digicon, Collection code: n/a"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11879853/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence s0",
+      "rendering": {
+        "@id": "http://wellcomelibrary.org/pdf/b11879853/0/b11879853_0.pdf",
+        "format": "application/pdf",
+        "label": "Download as PDF"
+      },
+      "canvases": [
+        {
+          "@id": "http://wellcomelibrary.org/iiif/b11879853/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": " - ",
+          "thumbnail": "http://wellcomelibrary.org/thumbs/b11879853/0/624be8f0-abb1-4a76-93e0-966337409691.jpg",
+          "height": 2379,
+          "width": 3294,
+          "images": [
+            {
+              "@id": "http://wellcomelibrary.org/iiif/b11879853/imageanno/624be8f0-abb1-4a76-93e0-966337409691",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://wellcomelibrary.org/iiif-img/b11879853-0/624be8f0-abb1-4a76-93e0-966337409691/full/!1024,1024/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 740,
+                "width": 1024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://wellcomelibrary.org/iiif-img/b11879853-0/624be8f0-abb1-4a76-93e0-966337409691",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://wellcomelibrary.org/iiif/b11879853/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

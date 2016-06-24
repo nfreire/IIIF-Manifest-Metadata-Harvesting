@@ -1,0 +1,94 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://wellcomelibrary.org/iiif/b11617457/manifest",
+  "@type": "sc:Manifest",
+  "label": "Phrenological head of Sir Robert Peel as Prime Minister of the United Kingdom. Lithograph, ca. 1844.",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Phrenological head of Sir Robert Peel as Prime Minister of the United Kingdom. Lithograph, ca. 1844."
+    },
+    {
+      "label": "Description",
+      "value": "The lettering refers to the phrenological organ allocated to each section of the head. 1. Benevolence: Peel stands on a platform holding corn before a crowd of supplicants. 2. Secretiveness: Peel stands astride a locked trunk marked \"Peel's opinions\". 3. Firmness: Peel, keeling over backwards, is pushed upright by the Duke of Wellington and Queen Victoria. 4. Adhesiveness: a blank space, suggesting lack of steadfastness. 5. Distructiveness [sic]: Peel applies a syphon marked \"Income tax\" to the side of a bull which has a name-tag \"Taxes\". 6. Comparison: before election Peel goes down on bended knee to beseech the electors, while after election they go down on bended knee to beseech him. 7. Wonder: Peel ponders his future. 8. Hope: Peel as a Jack o'Lantern leads the manufacturers into a swamp by holding out a lantern marked \"Protection\". 9. Cautiousness: Peel stands blindfolded in front of bales marked \"League\" (i.e. Anti-Corn Law League) and \"State trials\". 10. Language: Peel as a three-headed statue saying \"Yes\" (left), \"No\" (right), and \"I reserve my opinion\" (centre)"
+    },
+    {
+      "label": "Attribution",
+      "value": "Wellcome Library<br/>License: CC-BY-NC"
+    },
+    {
+      "label": "",
+      "value": "<a href='http://search.wellcomelibrary.org/iii/encore/record/C__Rb1161745'>View full catalogue record</a>"
+    },
+    {
+      "label": "Full conditions of use",
+      "value": "You have permission to make copies of this work under a <a target=\"_top\" href=\"http://creativecommons.org/licenses/by-nc/4.0/\">Creative Commons, Attribution, Non-commercial license</a>.<br/><br/>Non-commercial use includes private study, academic research, teaching, and other activities that are not primarily intended for, or directed towards, commercial advantage or private monetary compensation. See the <a target=\"_top\" href=\"http://creativecommons.org/licenses/by-nc/4.0/legalcode\">Legal Code</a> for further information.<br/><br/>Image source should be attributed as specified in the full catalogue record. If no source is given the image should be attributed to Wellcome Library."
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "logo": "http://wellcomelibrary.org/assets/img/squarelogo64.png",
+  "related": {
+    "@id": "http://wellcomelibrary.org/item/b11617457",
+    "format": "text/html"
+  },
+  "seeAlso": {
+    "@id": "http://wellcomelibrary.org/resource/b11617457",
+    "format": "text/turtle"
+  },
+  "service": [
+    {
+      "@context": "http://wellcomelibrary.org/ld/iiif-ext/0/context.json",
+      "@id": "http://wellcomelibrary.org/iiif/b11617457-0/access-control-hints-service",
+      "profile": "http://wellcomelibrary.org/ld/iiif-ext/access-control-hints",
+      "accessHint": "open"
+    },
+    {
+      "@context": "http://universalviewer.io/context.json",
+      "@id": "http://wellcomelibrary.org/service/trackingLabels/b11617457",
+      "profile": "http://universalviewer.io/tracking-extensions-profile",
+      "trackingLabel": "Format: artwork, Institution: n/a, Identifier: b11617457, Digicode: digicon, Collection code: n/a"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11617457/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence s0",
+      "rendering": {
+        "@id": "http://wellcomelibrary.org/pdf/b11617457/0/b11617457_0.pdf",
+        "format": "application/pdf",
+        "label": "Download as PDF"
+      },
+      "canvases": [
+        {
+          "@id": "http://wellcomelibrary.org/iiif/b11617457/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": " - ",
+          "thumbnail": "http://wellcomelibrary.org/thumbs/b11617457/0/1a62f439-99cd-4780-9868-3b5df335e81e.jpg",
+          "height": 3316,
+          "width": 2307,
+          "images": [
+            {
+              "@id": "http://wellcomelibrary.org/iiif/b11617457/imageanno/1a62f439-99cd-4780-9868-3b5df335e81e",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://wellcomelibrary.org/iiif-img/b11617457-0/1a62f439-99cd-4780-9868-3b5df335e81e/full/!1024,1024/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1024,
+                "width": 712,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://wellcomelibrary.org/iiif-img/b11617457-0/1a62f439-99cd-4780-9868-3b5df335e81e",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://wellcomelibrary.org/iiif/b11617457/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

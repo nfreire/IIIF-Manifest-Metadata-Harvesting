@@ -1,0 +1,683 @@
+{        "@context":"http://www.shared-canvas.org/ns/context.json",        "@id":"http://dams.llgc.org.uk/iiif/4525602/manifest.json",        "@type":"sc:Manifest",                "label":"calendar by Gutun Owain, [15 cent., second ½]",                "metadata": [            {"label":"Title", "value":"A calendar by Gutun Owain, [15 cent., second ½]"},                            {"label":"Author", "value":"Gutun Owain fl. 1450-1498"},            {"label":"StartDate", "value":"1450"},                {"label":"note", "value":"Formerly Hengwrt MS 22."},                            {"label":"note", "value":"preferred citation - Peniarth MS 27 i [RESTRICTED ACCESS]."},                            {"label":"note", "value":"additional physical form - Available on microfilm at the Library."},                            {"label":"note", "value":"language - Welsh."},                            {"label":"note", "value":"J. Gwenogvryn Evans, Report on Manuscripts in the Welsh Language, 2 vols (London, 1898-1910), I, 355."},                            {"label":"Collection", "value":"Manuscripts", "@language":"en"},                {"label":"Collection", "value":"LLawysgrifau", "@language":"cy"}                            ],        "description":"A calendar by Gutun Owain, [15 cent., second ½].",                "license":"",         "attribution":"Llyfrgell Genedlaethol Cymru - National Library of Wales",                                 "sequences" : [        {                        "@context":"http://www.shared-canvas.org/ns/context.json",                "@id":"http://dams.llgc.org.uk/iiif/4525602/sequence/Physical.json",                "@type":"sc:Sequence",                "label":"Current Page Order",                                "viewingDirection":"left-to-right",                "viewingHint":"paged",                                "canvases": [						 
+	{	  
+		"@context":"http://www.shared-canvas.org/ns/context.json",
+		"@id":"http://dams.llgc.org.uk/iiif/4525602/canvas/4525603.json",
+		"@type":"sc:Canvas",
+		"label":"front cover",
+        "height":4671,
+        "width":3686,
+		"images": [
+		{
+			 "@id":"http://dams.llgc.org.uk/iiif/4525602/annotation/4525603.json",
+			 "@type":"oa:Annotation",
+			 "motivation":"sc:painting",
+			 "resource": {
+				  "@id":"http://dams.llgc.org.uk/iiif/4525602/res/4525603.jpg",
+				  "@type":"dctypes:Image",
+				  "format":"image/jpeg",
+				  "service": {
+						"@id":"http://dams.llgc.org.uk/iiif/image/4525603",
+                        "profile":"http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+						"scale_factors" : [ 1, 2, 4, 8, 16, 32 ],
+						"tile_width" : 256,
+                        "tile_height" : 256
+				  }    
+			 },
+     	  "height":"4671",
+          "width":"3686"
+		}
+		]
+	}
+    
+														 ,
+	{	  
+		"@context":"http://www.shared-canvas.org/ns/context.json",
+		"@id":"http://dams.llgc.org.uk/iiif/4525602/canvas/4525604.json",
+		"@type":"sc:Canvas",
+		"label":"inside front cover",
+        "height":4580,
+        "width":3674,
+		"images": [
+		{
+			 "@id":"http://dams.llgc.org.uk/iiif/4525602/annotation/4525604.json",
+			 "@type":"oa:Annotation",
+			 "motivation":"sc:painting",
+			 "resource": {
+				  "@id":"http://dams.llgc.org.uk/iiif/4525602/res/4525604.jpg",
+				  "@type":"dctypes:Image",
+				  "format":"image/jpeg",
+				  "service": {
+						"@id":"http://dams.llgc.org.uk/iiif/image/4525604",
+                        "profile":"http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+						"scale_factors" : [ 1, 2, 4, 8, 16, 32 ],
+						"tile_width" : 256,
+                        "tile_height" : 256
+				  }    
+			 },
+     	  "height":"4580",
+          "width":"3674"
+		}
+		]
+	}
+    
+														 ,
+	{	  
+		"@context":"http://www.shared-canvas.org/ns/context.json",
+		"@id":"http://dams.llgc.org.uk/iiif/4525602/canvas/4525605.json",
+		"@type":"sc:Canvas",
+		"label":"p.1",
+        "height":4594,
+        "width":3629,
+		"images": [
+		{
+			 "@id":"http://dams.llgc.org.uk/iiif/4525602/annotation/4525605.json",
+			 "@type":"oa:Annotation",
+			 "motivation":"sc:painting",
+			 "resource": {
+				  "@id":"http://dams.llgc.org.uk/iiif/4525602/res/4525605.jpg",
+				  "@type":"dctypes:Image",
+				  "format":"image/jpeg",
+				  "service": {
+						"@id":"http://dams.llgc.org.uk/iiif/image/4525605",
+                        "profile":"http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+						"scale_factors" : [ 1, 2, 4, 8, 16, 32 ],
+						"tile_width" : 256,
+                        "tile_height" : 256
+				  }    
+			 },
+     	  "height":"4594",
+          "width":"3629"
+		}
+		]
+	}
+    
+														 ,
+	{	  
+		"@context":"http://www.shared-canvas.org/ns/context.json",
+		"@id":"http://dams.llgc.org.uk/iiif/4525602/canvas/4525606.json",
+		"@type":"sc:Canvas",
+		"label":"p.2",
+        "height":4553,
+        "width":3678,
+		"images": [
+		{
+			 "@id":"http://dams.llgc.org.uk/iiif/4525602/annotation/4525606.json",
+			 "@type":"oa:Annotation",
+			 "motivation":"sc:painting",
+			 "resource": {
+				  "@id":"http://dams.llgc.org.uk/iiif/4525602/res/4525606.jpg",
+				  "@type":"dctypes:Image",
+				  "format":"image/jpeg",
+				  "service": {
+						"@id":"http://dams.llgc.org.uk/iiif/image/4525606",
+                        "profile":"http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+						"scale_factors" : [ 1, 2, 4, 8, 16, 32 ],
+						"tile_width" : 256,
+                        "tile_height" : 256
+				  }    
+			 },
+     	  "height":"4553",
+          "width":"3678"
+		}
+		]
+	}
+    
+														 ,
+	{	  
+		"@context":"http://www.shared-canvas.org/ns/context.json",
+		"@id":"http://dams.llgc.org.uk/iiif/4525602/canvas/4525607.json",
+		"@type":"sc:Canvas",
+		"label":"p.3",
+        "height":4607,
+        "width":3669,
+		"images": [
+		{
+			 "@id":"http://dams.llgc.org.uk/iiif/4525602/annotation/4525607.json",
+			 "@type":"oa:Annotation",
+			 "motivation":"sc:painting",
+			 "resource": {
+				  "@id":"http://dams.llgc.org.uk/iiif/4525602/res/4525607.jpg",
+				  "@type":"dctypes:Image",
+				  "format":"image/jpeg",
+				  "service": {
+						"@id":"http://dams.llgc.org.uk/iiif/image/4525607",
+                        "profile":"http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+						"scale_factors" : [ 1, 2, 4, 8, 16, 32 ],
+						"tile_width" : 256,
+                        "tile_height" : 256
+				  }    
+			 },
+     	  "height":"4607",
+          "width":"3669"
+		}
+		]
+	}
+    
+														 ,
+	{	  
+		"@context":"http://www.shared-canvas.org/ns/context.json",
+		"@id":"http://dams.llgc.org.uk/iiif/4525602/canvas/4525608.json",
+		"@type":"sc:Canvas",
+		"label":"p.4",
+        "height":4553,
+        "width":3678,
+		"images": [
+		{
+			 "@id":"http://dams.llgc.org.uk/iiif/4525602/annotation/4525608.json",
+			 "@type":"oa:Annotation",
+			 "motivation":"sc:painting",
+			 "resource": {
+				  "@id":"http://dams.llgc.org.uk/iiif/4525602/res/4525608.jpg",
+				  "@type":"dctypes:Image",
+				  "format":"image/jpeg",
+				  "service": {
+						"@id":"http://dams.llgc.org.uk/iiif/image/4525608",
+                        "profile":"http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+						"scale_factors" : [ 1, 2, 4, 8, 16, 32 ],
+						"tile_width" : 256,
+                        "tile_height" : 256
+				  }    
+			 },
+     	  "height":"4553",
+          "width":"3678"
+		}
+		]
+	}
+    
+														 ,
+	{	  
+		"@context":"http://www.shared-canvas.org/ns/context.json",
+		"@id":"http://dams.llgc.org.uk/iiif/4525602/canvas/4525609.json",
+		"@type":"sc:Canvas",
+		"label":"p.5",
+        "height":4607,
+        "width":3669,
+		"images": [
+		{
+			 "@id":"http://dams.llgc.org.uk/iiif/4525602/annotation/4525609.json",
+			 "@type":"oa:Annotation",
+			 "motivation":"sc:painting",
+			 "resource": {
+				  "@id":"http://dams.llgc.org.uk/iiif/4525602/res/4525609.jpg",
+				  "@type":"dctypes:Image",
+				  "format":"image/jpeg",
+				  "service": {
+						"@id":"http://dams.llgc.org.uk/iiif/image/4525609",
+                        "profile":"http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+						"scale_factors" : [ 1, 2, 4, 8, 16, 32 ],
+						"tile_width" : 256,
+                        "tile_height" : 256
+				  }    
+			 },
+     	  "height":"4607",
+          "width":"3669"
+		}
+		]
+	}
+    
+														 ,
+	{	  
+		"@context":"http://www.shared-canvas.org/ns/context.json",
+		"@id":"http://dams.llgc.org.uk/iiif/4525602/canvas/4525610.json",
+		"@type":"sc:Canvas",
+		"label":"p.6",
+        "height":4553,
+        "width":3678,
+		"images": [
+		{
+			 "@id":"http://dams.llgc.org.uk/iiif/4525602/annotation/4525610.json",
+			 "@type":"oa:Annotation",
+			 "motivation":"sc:painting",
+			 "resource": {
+				  "@id":"http://dams.llgc.org.uk/iiif/4525602/res/4525610.jpg",
+				  "@type":"dctypes:Image",
+				  "format":"image/jpeg",
+				  "service": {
+						"@id":"http://dams.llgc.org.uk/iiif/image/4525610",
+                        "profile":"http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+						"scale_factors" : [ 1, 2, 4, 8, 16, 32 ],
+						"tile_width" : 256,
+                        "tile_height" : 256
+				  }    
+			 },
+     	  "height":"4553",
+          "width":"3678"
+		}
+		]
+	}
+    
+														 ,
+	{	  
+		"@context":"http://www.shared-canvas.org/ns/context.json",
+		"@id":"http://dams.llgc.org.uk/iiif/4525602/canvas/4525611.json",
+		"@type":"sc:Canvas",
+		"label":"p.7",
+        "height":4607,
+        "width":3669,
+		"images": [
+		{
+			 "@id":"http://dams.llgc.org.uk/iiif/4525602/annotation/4525611.json",
+			 "@type":"oa:Annotation",
+			 "motivation":"sc:painting",
+			 "resource": {
+				  "@id":"http://dams.llgc.org.uk/iiif/4525602/res/4525611.jpg",
+				  "@type":"dctypes:Image",
+				  "format":"image/jpeg",
+				  "service": {
+						"@id":"http://dams.llgc.org.uk/iiif/image/4525611",
+                        "profile":"http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+						"scale_factors" : [ 1, 2, 4, 8, 16, 32 ],
+						"tile_width" : 256,
+                        "tile_height" : 256
+				  }    
+			 },
+     	  "height":"4607",
+          "width":"3669"
+		}
+		]
+	}
+    
+														 ,
+	{	  
+		"@context":"http://www.shared-canvas.org/ns/context.json",
+		"@id":"http://dams.llgc.org.uk/iiif/4525602/canvas/4525612.json",
+		"@type":"sc:Canvas",
+		"label":"p.8",
+        "height":4553,
+        "width":3678,
+		"images": [
+		{
+			 "@id":"http://dams.llgc.org.uk/iiif/4525602/annotation/4525612.json",
+			 "@type":"oa:Annotation",
+			 "motivation":"sc:painting",
+			 "resource": {
+				  "@id":"http://dams.llgc.org.uk/iiif/4525602/res/4525612.jpg",
+				  "@type":"dctypes:Image",
+				  "format":"image/jpeg",
+				  "service": {
+						"@id":"http://dams.llgc.org.uk/iiif/image/4525612",
+                        "profile":"http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+						"scale_factors" : [ 1, 2, 4, 8, 16, 32 ],
+						"tile_width" : 256,
+                        "tile_height" : 256
+				  }    
+			 },
+     	  "height":"4553",
+          "width":"3678"
+		}
+		]
+	}
+    
+														 ,
+	{	  
+		"@context":"http://www.shared-canvas.org/ns/context.json",
+		"@id":"http://dams.llgc.org.uk/iiif/4525602/canvas/4525613.json",
+		"@type":"sc:Canvas",
+		"label":"p.9",
+        "height":4607,
+        "width":3669,
+		"images": [
+		{
+			 "@id":"http://dams.llgc.org.uk/iiif/4525602/annotation/4525613.json",
+			 "@type":"oa:Annotation",
+			 "motivation":"sc:painting",
+			 "resource": {
+				  "@id":"http://dams.llgc.org.uk/iiif/4525602/res/4525613.jpg",
+				  "@type":"dctypes:Image",
+				  "format":"image/jpeg",
+				  "service": {
+						"@id":"http://dams.llgc.org.uk/iiif/image/4525613",
+                        "profile":"http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+						"scale_factors" : [ 1, 2, 4, 8, 16, 32 ],
+						"tile_width" : 256,
+                        "tile_height" : 256
+				  }    
+			 },
+     	  "height":"4607",
+          "width":"3669"
+		}
+		]
+	}
+    
+														 ,
+	{	  
+		"@context":"http://www.shared-canvas.org/ns/context.json",
+		"@id":"http://dams.llgc.org.uk/iiif/4525602/canvas/4525614.json",
+		"@type":"sc:Canvas",
+		"label":"p.10",
+        "height":4553,
+        "width":3678,
+		"images": [
+		{
+			 "@id":"http://dams.llgc.org.uk/iiif/4525602/annotation/4525614.json",
+			 "@type":"oa:Annotation",
+			 "motivation":"sc:painting",
+			 "resource": {
+				  "@id":"http://dams.llgc.org.uk/iiif/4525602/res/4525614.jpg",
+				  "@type":"dctypes:Image",
+				  "format":"image/jpeg",
+				  "service": {
+						"@id":"http://dams.llgc.org.uk/iiif/image/4525614",
+                        "profile":"http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+						"scale_factors" : [ 1, 2, 4, 8, 16, 32 ],
+						"tile_width" : 256,
+                        "tile_height" : 256
+				  }    
+			 },
+     	  "height":"4553",
+          "width":"3678"
+		}
+		]
+	}
+    
+														 ,
+	{	  
+		"@context":"http://www.shared-canvas.org/ns/context.json",
+		"@id":"http://dams.llgc.org.uk/iiif/4525602/canvas/4525615.json",
+		"@type":"sc:Canvas",
+		"label":"p.11",
+        "height":4607,
+        "width":3669,
+		"images": [
+		{
+			 "@id":"http://dams.llgc.org.uk/iiif/4525602/annotation/4525615.json",
+			 "@type":"oa:Annotation",
+			 "motivation":"sc:painting",
+			 "resource": {
+				  "@id":"http://dams.llgc.org.uk/iiif/4525602/res/4525615.jpg",
+				  "@type":"dctypes:Image",
+				  "format":"image/jpeg",
+				  "service": {
+						"@id":"http://dams.llgc.org.uk/iiif/image/4525615",
+                        "profile":"http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+						"scale_factors" : [ 1, 2, 4, 8, 16, 32 ],
+						"tile_width" : 256,
+                        "tile_height" : 256
+				  }    
+			 },
+     	  "height":"4607",
+          "width":"3669"
+		}
+		]
+	}
+    
+														 ,
+	{	  
+		"@context":"http://www.shared-canvas.org/ns/context.json",
+		"@id":"http://dams.llgc.org.uk/iiif/4525602/canvas/4525616.json",
+		"@type":"sc:Canvas",
+		"label":"p.12",
+        "height":4553,
+        "width":3678,
+		"images": [
+		{
+			 "@id":"http://dams.llgc.org.uk/iiif/4525602/annotation/4525616.json",
+			 "@type":"oa:Annotation",
+			 "motivation":"sc:painting",
+			 "resource": {
+				  "@id":"http://dams.llgc.org.uk/iiif/4525602/res/4525616.jpg",
+				  "@type":"dctypes:Image",
+				  "format":"image/jpeg",
+				  "service": {
+						"@id":"http://dams.llgc.org.uk/iiif/image/4525616",
+                        "profile":"http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+						"scale_factors" : [ 1, 2, 4, 8, 16, 32 ],
+						"tile_width" : 256,
+                        "tile_height" : 256
+				  }    
+			 },
+     	  "height":"4553",
+          "width":"3678"
+		}
+		]
+	}
+    
+														 ,
+	{	  
+		"@context":"http://www.shared-canvas.org/ns/context.json",
+		"@id":"http://dams.llgc.org.uk/iiif/4525602/canvas/4525617.json",
+		"@type":"sc:Canvas",
+		"label":"p.13",
+        "height":4607,
+        "width":3669,
+		"images": [
+		{
+			 "@id":"http://dams.llgc.org.uk/iiif/4525602/annotation/4525617.json",
+			 "@type":"oa:Annotation",
+			 "motivation":"sc:painting",
+			 "resource": {
+				  "@id":"http://dams.llgc.org.uk/iiif/4525602/res/4525617.jpg",
+				  "@type":"dctypes:Image",
+				  "format":"image/jpeg",
+				  "service": {
+						"@id":"http://dams.llgc.org.uk/iiif/image/4525617",
+                        "profile":"http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+						"scale_factors" : [ 1, 2, 4, 8, 16, 32 ],
+						"tile_width" : 256,
+                        "tile_height" : 256
+				  }    
+			 },
+     	  "height":"4607",
+          "width":"3669"
+		}
+		]
+	}
+    
+														 ,
+	{	  
+		"@context":"http://www.shared-canvas.org/ns/context.json",
+		"@id":"http://dams.llgc.org.uk/iiif/4525602/canvas/4525618.json",
+		"@type":"sc:Canvas",
+		"label":"p.14",
+        "height":4553,
+        "width":3678,
+		"images": [
+		{
+			 "@id":"http://dams.llgc.org.uk/iiif/4525602/annotation/4525618.json",
+			 "@type":"oa:Annotation",
+			 "motivation":"sc:painting",
+			 "resource": {
+				  "@id":"http://dams.llgc.org.uk/iiif/4525602/res/4525618.jpg",
+				  "@type":"dctypes:Image",
+				  "format":"image/jpeg",
+				  "service": {
+						"@id":"http://dams.llgc.org.uk/iiif/image/4525618",
+                        "profile":"http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+						"scale_factors" : [ 1, 2, 4, 8, 16, 32 ],
+						"tile_width" : 256,
+                        "tile_height" : 256
+				  }    
+			 },
+     	  "height":"4553",
+          "width":"3678"
+		}
+		]
+	}
+    
+														 ,
+	{	  
+		"@context":"http://www.shared-canvas.org/ns/context.json",
+		"@id":"http://dams.llgc.org.uk/iiif/4525602/canvas/4525619.json",
+		"@type":"sc:Canvas",
+		"label":"p.15",
+        "height":4607,
+        "width":3669,
+		"images": [
+		{
+			 "@id":"http://dams.llgc.org.uk/iiif/4525602/annotation/4525619.json",
+			 "@type":"oa:Annotation",
+			 "motivation":"sc:painting",
+			 "resource": {
+				  "@id":"http://dams.llgc.org.uk/iiif/4525602/res/4525619.jpg",
+				  "@type":"dctypes:Image",
+				  "format":"image/jpeg",
+				  "service": {
+						"@id":"http://dams.llgc.org.uk/iiif/image/4525619",
+                        "profile":"http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+						"scale_factors" : [ 1, 2, 4, 8, 16, 32 ],
+						"tile_width" : 256,
+                        "tile_height" : 256
+				  }    
+			 },
+     	  "height":"4607",
+          "width":"3669"
+		}
+		]
+	}
+    
+														 ,
+	{	  
+		"@context":"http://www.shared-canvas.org/ns/context.json",
+		"@id":"http://dams.llgc.org.uk/iiif/4525602/canvas/4525620.json",
+		"@type":"sc:Canvas",
+		"label":"p.16",
+        "height":4553,
+        "width":3696,
+		"images": [
+		{
+			 "@id":"http://dams.llgc.org.uk/iiif/4525602/annotation/4525620.json",
+			 "@type":"oa:Annotation",
+			 "motivation":"sc:painting",
+			 "resource": {
+				  "@id":"http://dams.llgc.org.uk/iiif/4525602/res/4525620.jpg",
+				  "@type":"dctypes:Image",
+				  "format":"image/jpeg",
+				  "service": {
+						"@id":"http://dams.llgc.org.uk/iiif/image/4525620",
+                        "profile":"http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+						"scale_factors" : [ 1, 2, 4, 8, 16, 32 ],
+						"tile_width" : 256,
+                        "tile_height" : 256
+				  }    
+			 },
+     	  "height":"4553",
+          "width":"3696"
+		}
+		]
+	}
+    
+														 ,
+	{	  
+		"@context":"http://www.shared-canvas.org/ns/context.json",
+		"@id":"http://dams.llgc.org.uk/iiif/4525602/canvas/4525621.json",
+		"@type":"sc:Canvas",
+		"label":"inside rear cover",
+        "height":4607,
+        "width":3669,
+		"images": [
+		{
+			 "@id":"http://dams.llgc.org.uk/iiif/4525602/annotation/4525621.json",
+			 "@type":"oa:Annotation",
+			 "motivation":"sc:painting",
+			 "resource": {
+				  "@id":"http://dams.llgc.org.uk/iiif/4525602/res/4525621.jpg",
+				  "@type":"dctypes:Image",
+				  "format":"image/jpeg",
+				  "service": {
+						"@id":"http://dams.llgc.org.uk/iiif/image/4525621",
+                        "profile":"http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+						"scale_factors" : [ 1, 2, 4, 8, 16, 32 ],
+						"tile_width" : 256,
+                        "tile_height" : 256
+				  }    
+			 },
+     	  "height":"4607",
+          "width":"3669"
+		}
+		]
+	}
+    
+														 ,
+	{	  
+		"@context":"http://www.shared-canvas.org/ns/context.json",
+		"@id":"http://dams.llgc.org.uk/iiif/4525602/canvas/4525622.json",
+		"@type":"sc:Canvas",
+		"label":"rear cover",
+        "height":4668,
+        "width":3624,
+		"images": [
+		{
+			 "@id":"http://dams.llgc.org.uk/iiif/4525602/annotation/4525622.json",
+			 "@type":"oa:Annotation",
+			 "motivation":"sc:painting",
+			 "resource": {
+				  "@id":"http://dams.llgc.org.uk/iiif/4525602/res/4525622.jpg",
+				  "@type":"dctypes:Image",
+				  "format":"image/jpeg",
+				  "service": {
+						"@id":"http://dams.llgc.org.uk/iiif/image/4525622",
+                        "profile":"http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+						"scale_factors" : [ 1, 2, 4, 8, 16, 32 ],
+						"tile_width" : 256,
+                        "tile_height" : 256
+				  }    
+			 },
+     	  "height":"4668",
+          "width":"3624"
+		}
+		]
+	}
+    
+														 ,
+	{	  
+		"@context":"http://www.shared-canvas.org/ns/context.json",
+		"@id":"http://dams.llgc.org.uk/iiif/4525602/canvas/4525623.json",
+		"@type":"sc:Canvas",
+		"label":"spine",
+        "height":364,
+        "width":4655,
+		"images": [
+		{
+			 "@id":"http://dams.llgc.org.uk/iiif/4525602/annotation/4525623.json",
+			 "@type":"oa:Annotation",
+			 "motivation":"sc:painting",
+			 "resource": {
+				  "@id":"http://dams.llgc.org.uk/iiif/4525602/res/4525623.jpg",
+				  "@type":"dctypes:Image",
+				  "format":"image/jpeg",
+				  "service": {
+						"@id":"http://dams.llgc.org.uk/iiif/image/4525623",
+                        "profile":"http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+						"scale_factors" : [ 1, 2, 4, 8, 16, 32 ],
+						"tile_width" : 256,
+                        "tile_height" : 256
+				  }    
+			 },
+     	  "height":"364",
+          "width":"4655"
+		}
+		]
+	}
+    
+														 ,
+	{	  
+		"@context":"http://www.shared-canvas.org/ns/context.json",
+		"@id":"http://dams.llgc.org.uk/iiif/4525602/canvas/4525624.json",
+		"@type":"sc:Canvas",
+		"label":"general view",
+        "height":3574,
+        "width":5416,
+		"images": [
+		{
+			 "@id":"http://dams.llgc.org.uk/iiif/4525602/annotation/4525624.json",
+			 "@type":"oa:Annotation",
+			 "motivation":"sc:painting",
+			 "resource": {
+				  "@id":"http://dams.llgc.org.uk/iiif/4525602/res/4525624.jpg",
+				  "@type":"dctypes:Image",
+				  "format":"image/jpeg",
+				  "service": {
+						"@id":"http://dams.llgc.org.uk/iiif/image/4525624",
+                        "profile":"http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+						"scale_factors" : [ 1, 2, 4, 8, 16, 32 ],
+						"tile_width" : 256,
+                        "tile_height" : 256
+				  }    
+			 },
+     	  "height":"3574",
+          "width":"5416"
+		}
+		]
+	}
+    
+														 					]        }]}    

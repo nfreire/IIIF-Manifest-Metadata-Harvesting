@@ -1,0 +1,94 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://wellcomelibrary.org/iiif/b14601308/manifest",
+  "@type": "sc:Manifest",
+  "label": "An itinerant doctor, by a subterfuge, cures an undergraduate hoaxer of his supposed maladies of lying and bad memory. Coloured etching by T. Rowlandson, 1807, after G.M. Woodward.",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "An itinerant doctor, by a subterfuge, cures an undergraduate hoaxer of his supposed maladies of lying and bad memory. Coloured etching by T. Rowlandson, 1807, after G.M. Woodward."
+    },
+    {
+      "label": "Author(s)",
+      "value": "Woodward, G. M; Rowlandson, Thomas"
+    },
+    {
+      "label": "Attribution",
+      "value": "Wellcome Library<br/>License: CC-BY"
+    },
+    {
+      "label": "",
+      "value": "<a href='http://search.wellcomelibrary.org/iii/encore/record/C__Rb1460130'>View full catalogue record</a>"
+    },
+    {
+      "label": "Full conditions of use",
+      "value": "You have permission to make copies of this work under a <a target=\"_top\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons, Attribution license</a>.<br/><br/>This licence permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. See the <a target=\"_top\" href=\"http://creativecommons.org/licenses/by/4.0/legalcode\">Legal Code</a> for further information.<br/><br/>Image source should be attributed as specified in the full catalogue record. If no source is given the image should be attributed to Wellcome Library."
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "logo": "http://wellcomelibrary.org/assets/img/squarelogo64.png",
+  "related": {
+    "@id": "http://wellcomelibrary.org/item/b14601308",
+    "format": "text/html"
+  },
+  "seeAlso": {
+    "@id": "http://wellcomelibrary.org/resource/b14601308",
+    "format": "text/turtle"
+  },
+  "service": [
+    {
+      "@context": "http://wellcomelibrary.org/ld/iiif-ext/0/context.json",
+      "@id": "http://wellcomelibrary.org/iiif/b14601308-0/access-control-hints-service",
+      "profile": "http://wellcomelibrary.org/ld/iiif-ext/access-control-hints",
+      "accessHint": "open"
+    },
+    {
+      "@context": "http://universalviewer.io/context.json",
+      "@id": "http://wellcomelibrary.org/service/trackingLabels/b14601308",
+      "profile": "http://universalviewer.io/tracking-extensions-profile",
+      "trackingLabel": "Format: artwork, Institution: n/a, Identifier: b14601308, Digicode: digprojectx, Collection code: n/a"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b14601308/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence s0",
+      "rendering": {
+        "@id": "http://wellcomelibrary.org/pdf/b14601308/0/b14601308_0.pdf",
+        "format": "application/pdf",
+        "label": "Download as PDF"
+      },
+      "canvases": [
+        {
+          "@id": "http://wellcomelibrary.org/iiif/b14601308/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": " - ",
+          "thumbnail": "http://wellcomelibrary.org/thumbs/b14601308/0/59ffd0d4-e103-45ba-8aff-dd524427490b.jpg",
+          "height": 3828,
+          "width": 2970,
+          "images": [
+            {
+              "@id": "http://wellcomelibrary.org/iiif/b14601308/imageanno/59ffd0d4-e103-45ba-8aff-dd524427490b",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://wellcomelibrary.org/iiif-img/b14601308-0/59ffd0d4-e103-45ba-8aff-dd524427490b/full/!1024,1024/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1024,
+                "width": 794,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://wellcomelibrary.org/iiif-img/b14601308-0/59ffd0d4-e103-45ba-8aff-dd524427490b",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://wellcomelibrary.org/iiif/b14601308/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

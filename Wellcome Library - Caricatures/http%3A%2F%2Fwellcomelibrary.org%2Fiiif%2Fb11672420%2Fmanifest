@@ -1,0 +1,98 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://wellcomelibrary.org/iiif/b11672420/manifest",
+  "@type": "sc:Manifest",
+  "label": "Physicians expressing their thanks to influenza. Coloured etching attributed to Temple West, 1803.",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Physicians expressing their thanks to influenza. Coloured etching attributed to Temple West, 1803."
+    },
+    {
+      "label": "Author(s)",
+      "value": "West, Temple"
+    },
+    {
+      "label": "Description",
+      "value": "The physicians are identified as Sir W. Farquar (kneeling in front); J. Ware (wearing spectacles); R. Pearson (presenting the address with Farquar); Sir G. Baker (bowing low behind Farquar); M. Garthshore or alternatively Sir William Knighton  (standing at right); G.Pearson (the agitated man in the centre of the group); T. Beddoes (back left); W. Falconer (right of Beddoes); Sir George Smith Gibbes (extreme right). The figure of influenza is represented as a French visitor to England."
+    },
+    {
+      "label": "Attribution",
+      "value": "Wellcome Library<br/>License: CC-BY"
+    },
+    {
+      "label": "",
+      "value": "<a href='http://search.wellcomelibrary.org/iii/encore/record/C__Rb1167242'>View full catalogue record</a>"
+    },
+    {
+      "label": "Full conditions of use",
+      "value": "You have permission to make copies of this work under a <a target=\"_top\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons, Attribution license</a>.<br/><br/>This licence permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. See the <a target=\"_top\" href=\"http://creativecommons.org/licenses/by/4.0/legalcode\">Legal Code</a> for further information.<br/><br/>Image source should be attributed as specified in the full catalogue record. If no source is given the image should be attributed to Wellcome Library."
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "logo": "http://wellcomelibrary.org/assets/img/squarelogo64.png",
+  "related": {
+    "@id": "http://wellcomelibrary.org/item/b11672420",
+    "format": "text/html"
+  },
+  "seeAlso": {
+    "@id": "http://wellcomelibrary.org/resource/b11672420",
+    "format": "text/turtle"
+  },
+  "service": [
+    {
+      "@context": "http://wellcomelibrary.org/ld/iiif-ext/0/context.json",
+      "@id": "http://wellcomelibrary.org/iiif/b11672420-0/access-control-hints-service",
+      "profile": "http://wellcomelibrary.org/ld/iiif-ext/access-control-hints",
+      "accessHint": "open"
+    },
+    {
+      "@context": "http://universalviewer.io/context.json",
+      "@id": "http://wellcomelibrary.org/service/trackingLabels/b11672420",
+      "profile": "http://universalviewer.io/tracking-extensions-profile",
+      "trackingLabel": "Format: artwork, Institution: n/a, Identifier: b11672420, Digicode: digrr, Collection code: n/a"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11672420/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence s0",
+      "rendering": {
+        "@id": "http://wellcomelibrary.org/pdf/b11672420/0/b11672420_0.pdf",
+        "format": "application/pdf",
+        "label": "Download as PDF"
+      },
+      "canvases": [
+        {
+          "@id": "http://wellcomelibrary.org/iiif/b11672420/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": " - ",
+          "thumbnail": "http://wellcomelibrary.org/thumbs/b11672420/0/0869932c-6f96-4a49-beba-9cf5e3b49f0f.jpg",
+          "height": 5599,
+          "width": 7964,
+          "images": [
+            {
+              "@id": "http://wellcomelibrary.org/iiif/b11672420/imageanno/0869932c-6f96-4a49-beba-9cf5e3b49f0f",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://wellcomelibrary.org/iiif-img/b11672420-0/0869932c-6f96-4a49-beba-9cf5e3b49f0f/full/!1024,1024/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 720,
+                "width": 1024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://wellcomelibrary.org/iiif-img/b11672420-0/0869932c-6f96-4a49-beba-9cf5e3b49f0f",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://wellcomelibrary.org/iiif/b11672420/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

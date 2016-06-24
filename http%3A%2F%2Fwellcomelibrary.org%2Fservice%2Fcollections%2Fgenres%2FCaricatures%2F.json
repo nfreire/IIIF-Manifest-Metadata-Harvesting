@@ -1,0 +1,1152 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://wellcomelibrary.org/service/collections/genres/Caricatures/",
+  "@type": "sc:Collection",
+  "label": " Genre: Caricatures",
+  "manifests": [
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b16736400/manifest",
+      "@type": "sc:Manifest",
+      "label": "The apparent revival of a dead man by galvanism. Drawing attributed to G.M. Woodward.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b16736400-0/8fb54b80-80e6-427d-acd8-6a323f354249/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b16736400-0/8fb54b80-80e6-427d-acd8-6a323f354249",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b16736400",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b16736400",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11672420/manifest",
+      "@type": "sc:Manifest",
+      "label": "Physicians expressing their thanks to influenza. Coloured etching attributed to Temple West, 1803.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11672420-0/0869932c-6f96-4a49-beba-9cf5e3b49f0f/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11672420-0/0869932c-6f96-4a49-beba-9cf5e3b49f0f",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11672420",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11672420",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11784520/manifest",
+      "@type": "sc:Manifest",
+      "label": "Doctor Botherum, an itinerant medicine vendor (perhaps based on Doctor Bossy) selling his wares on stage with the aid of assistants to a raucous crowd. Coloured etching by T. Rowlandson, 1800.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11784520-0/bc4c3ebb-68bc-471d-8813-d36291024c87/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11784520-0/bc4c3ebb-68bc-471d-8813-d36291024c87",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11784520",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11784520",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11599820/manifest",
+      "@type": "sc:Manifest",
+      "label": "Sixteen feet in profile, of women and men: a parody of phrenology. Coloured etching.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11599820-0/3cab2dd3-c56c-4d7e-b6e7-42cc053be2d0/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11599820-0/3cab2dd3-c56c-4d7e-b6e7-42cc053be2d0",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11599820",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11599820",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11759380/manifest",
+      "@type": "sc:Manifest",
+      "label": "A woman covers her eyes as she steals the teeth of a hanged man. Aquatint with etching by F. Goya, ca. 1797.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11759380-0/4359f99e-bfe7-488d-ad71-ae29a183b92b/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11759380-0/4359f99e-bfe7-488d-ad71-ae29a183b92b",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11759380",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11759380",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11759021/manifest",
+      "@type": "sc:Manifest",
+      "label": "A family threatened by influenza is prepared for a large scale bloodletting. Coloured etching, 18--.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11759021-0/7afd9040-aece-4eb8-b1ea-d611c2cdfef6/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11759021-0/7afd9040-aece-4eb8-b1ea-d611c2cdfef6",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11759021",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11759021",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11835151/manifest",
+      "@type": "sc:Manifest",
+      "label": "A nightwatchman disturbs a body-snatcher who has dropped the stolen corpse he had been carrying in a hamper, while the anatomist runs away. Etching with engraving by W. Austin, 1773.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11835151-0/0eeca15a-8387-4203-b342-48200c591ecd/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11835151-0/0eeca15a-8387-4203-b342-48200c591ecd",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11835151",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11835151",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11748412/manifest",
+      "@type": "sc:Manifest",
+      "label": "Sadi Carnot, the president of France, lies in bed having his pulse taken. Lithograph by H. de Toulouse-Lautrec, 1893.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11748412-0/0c94dc98-1e0c-4b69-bf51-01ac96b47f5e/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11748412-0/0c94dc98-1e0c-4b69-bf51-01ac96b47f5e",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11748412",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11748412",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11750832/manifest",
+      "@type": "sc:Manifest",
+      "label": "Mediaeval torturers torture a gout-sufferer; representing the view atributed to Fabricius von Hilden that gout could be cured by torture. Colour process print after D.T. de Losques, 1910.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11750832-0/d6bc7317-4e51-49fc-b4b9-5cc19d47f5e9/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11750832-0/d6bc7317-4e51-49fc-b4b9-5cc19d47f5e9",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11750832",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11750832",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11603562/manifest",
+      "@type": "sc:Manifest",
+      "label": "An alchemist using a crown-shaped bellows to blow the flames of a furnace and heat a glass vessel in which the House of Commons is distilled; representing the dissolution of parliament by Pitt. Coloured etching by J. Gillray, 1796.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11603562-0/80b2c4d1-33bb-4306-a2b4-0502f2e5c6bf/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11603562-0/80b2c4d1-33bb-4306-a2b4-0502f2e5c6bf",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11603562",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11603562",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11602892/manifest",
+      "@type": "sc:Manifest",
+      "label": "Mr. Lambkin (right) being introduced to a ballet dancer. Lithograph after G. Cruikshank.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11602892-0/132727d3-8e82-43b2-91f8-535210963148/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11602892-0/132727d3-8e82-43b2-91f8-535210963148",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11602892",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11602892",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11598803/manifest",
+      "@type": "sc:Manifest",
+      "label": "A monster being fed baskets of infants and excreting them with horns; symbolising vaccination and its effects. Etching by C. Williams, 1802(?).",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11598803-0/f1f113b7-be9b-492a-8411-8b43c90d004f/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11598803-0/f1f113b7-be9b-492a-8411-8b43c90d004f",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11598803",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11598803",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11589723/manifest",
+      "@type": "sc:Manifest",
+      "label": "A quack doctor irresponsibly dispensing his potions. Coloured lithograph.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11589723-0/0cb1db0c-7fc6-4df6-8b06-d6bbf6f85991/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11589723-0/0cb1db0c-7fc6-4df6-8b06-d6bbf6f85991",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11589723",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11589723",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11592734/manifest",
+      "@type": "sc:Manifest",
+      "label": "A sailor with a bandaged eye consulting a quack doctor. Coloured etching by I. Cruikshank, 1807?, after G.M. Woodward.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11592734-0/c5212b1d-518e-40f1-a1b5-2ed86165a92f/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11592734-0/c5212b1d-518e-40f1-a1b5-2ed86165a92f",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11592734",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11592734",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b16804065/manifest",
+      "@type": "sc:Manifest",
+      "label": "Evolution of household articles, animals etc. according to Darwin's doctrine. Colour lithographs by Fr. Schmidt, ca. 187-(?).",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b16804065-0/3e8cec18-8fca-4ba2-9c55-a997d6e86127/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b16804065-0/3e8cec18-8fca-4ba2-9c55-a997d6e86127",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b16804065",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b16804065",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11584956/manifest",
+      "@type": "sc:Manifest",
+      "label": "A swollen and inflamed foot: gout is represented by an attacking demon. Coloured soft-ground etching by J. Gillray, 1799.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11584956-0/87f07a8b-1c59-4024-b335-5917ef01377d/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11584956-0/87f07a8b-1c59-4024-b335-5917ef01377d",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11584956",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11584956",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11957347/manifest",
+      "@type": "sc:Manifest",
+      "label": "A hooded alchemist at a furnace; above him hang dead animals: caricature. Watercolour painting.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11957347-0/781fa833-7851-4a19-bd0f-84436898a089/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11957347-0/781fa833-7851-4a19-bd0f-84436898a089",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11957347",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11957347",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11855757/manifest",
+      "@type": "sc:Manifest",
+      "label": "Phrenological head of Lord Ellenborough as Governor General of India 1841-1844. Lithograph, ca. 1844.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11855757-0/ffe0f698-0d17-4a3f-b52f-96ff136a272e/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11855757-0/ffe0f698-0d17-4a3f-b52f-96ff136a272e",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11855757",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11855757",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b15751697/manifest",
+      "@type": "sc:Manifest",
+      "label": "An ape in military attire, sitting astride a hog, confronts a baboon, also in military attire, who sits astride a bear. Engraving by F. Barlow, ca. 1679/1680.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b15751697-0/3a03a4c0-8ca1-474a-aea4-25d768fc42df/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b15751697-0/3a03a4c0-8ca1-474a-aea4-25d768fc42df",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b15751697",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b15751697",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11757280/manifest",
+      "@type": "sc:Manifest",
+      "label": "A goat-headed man caresses a sleeping ewe-headed woman; representing the notion of animal magnetism and its application by physicians. Etching after M. Voltz (?), 1815.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11757280-0/ba2ccaf1-308f-4afb-934f-448cc71cf50b/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11757280-0/ba2ccaf1-308f-4afb-934f-448cc71cf50b",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11757280",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11757280",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11598761/manifest",
+      "@type": "sc:Manifest",
+      "label": "Edward Jenner vaccinating patients in the Smallpox and Inoculation Hospital at St. Pancras: the patients develop features of cows. Coloured etching by J. Gillray, 1802.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11598761-0/2def7b9e-a8d2-41c1-bb94-3e62e57f89a7/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11598761-0/2def7b9e-a8d2-41c1-bb94-3e62e57f89a7",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11598761",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11598761",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11950791/manifest",
+      "@type": "sc:Manifest",
+      "label": "A futuristic vision: the advance of technology leads to rapid transport, sophisticated tastes among the masses, mechanization, and extravagant building projects. Coloured etching by W. Heath, 1829.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11950791-0/96d33b64-a267-4e7d-86b6-24c24cc775f5/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11950791-0/96d33b64-a267-4e7d-86b6-24c24cc775f5",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11950791",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11950791",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11651222/manifest",
+      "@type": "sc:Manifest",
+      "label": "A figure dressed in a cholera safety suit. Coloured etching after J. Petzl (?), ca. 1832.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11651222-0/1796f0a8-18c8-4d74-a17b-5f7af0db117d/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11651222-0/1796f0a8-18c8-4d74-a17b-5f7af0db117d",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11651222",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11651222",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11949442/manifest",
+      "@type": "sc:Manifest",
+      "label": "Lord Melbourne and Lord John Russell as schoolboys at a class given by Sir Robert Peel: Lord Brougham peeps from behind a door. Coloured lithograph by H.B. (John Doyle), 1841.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11949442-0/9f3d66cc-5282-4b34-bf07-3990acd6a63e/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11949442-0/9f3d66cc-5282-4b34-bf07-3990acd6a63e",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11949442",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11949442",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11879853/manifest",
+      "@type": "sc:Manifest",
+      "label": "A barber's shop. Coloured etching with aquatint by T. Rowlandson, 178-, after W.H. Bunbury.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11879853-0/624be8f0-abb1-4a76-93e0-966337409691/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11879853-0/624be8f0-abb1-4a76-93e0-966337409691",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11879853",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11879853",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11740644/manifest",
+      "@type": "sc:Manifest",
+      "label": "In a room filled with skulls of the famous, the phrenologist Gall examines William Pitt the Younger and Gustavus IV, the King of Sweden, both currently plagued by Napoleon. Coloured etching, 1806.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11740644-0/6a72935f-0d3e-426b-8162-975cfc399e1b/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11740644-0/6a72935f-0d3e-426b-8162-975cfc399e1b",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11740644",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11740644",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b16452835/manifest",
+      "@type": "sc:Manifest",
+      "label": "A village doctress distilling eyewater. Watercolour by Thomas Rowlandson, ca. 1800 (?).",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b16452835-0/8d1bc7b5-8e8f-4564-be51-34f211f013c0/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b16452835-0/8d1bc7b5-8e8f-4564-be51-34f211f013c0",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b16452835",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b16452835",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11894945/manifest",
+      "@type": "sc:Manifest",
+      "label": "A man engrossed in a newspaper and unaware that he is setting his wig alight with the candle which he holds in his right hand. Etching",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11894945-0/ebdb2d63-b0c0-4f6c-bd96-27a35d889200/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11894945-0/ebdb2d63-b0c0-4f6c-bd96-27a35d889200",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11894945",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11894945",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b15649945/manifest",
+      "@type": "sc:Manifest",
+      "label": "Gladstone and three other politicians involved in Irish politics as Christmas drinking companions.  Lithograph by Tom Merry, 24 December 1887.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b15649945-0/02739ede-8778-4c22-86bf-03e3c8d85e6d/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b15649945-0/02739ede-8778-4c22-86bf-03e3c8d85e6d",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b15649945",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b15649945",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11759355/manifest",
+      "@type": "sc:Manifest",
+      "label": "A donkey as a physician taking the pulse of a dying man. Aquatint with etching by F. Goya, ca. 1797.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11759355-0/de208c70-a655-4578-9b37-35b96a36e800/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11759355-0/de208c70-a655-4578-9b37-35b96a36e800",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11759355",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11759355",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11951266/manifest",
+      "@type": "sc:Manifest",
+      "label": "A young dancer trying to escape winged figures with men's heads. Etching by F. Goya, 1796/1798.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11951266-0/7920af80-77c4-431a-85d2-f19366a18d6b/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11951266-0/7920af80-77c4-431a-85d2-f19366a18d6b",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11951266",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11951266",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b15632696/manifest",
+      "@type": "sc:Manifest",
+      "label": "A mesmeric physician taking advantage of his female patient. Colour lithograph, 1852.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b15632696-0/fc5e6377-f935-4d52-9f37-a86f2adb910f/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b15632696-0/fc5e6377-f935-4d52-9f37-a86f2adb910f",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b15632696",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b15632696",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11617457/manifest",
+      "@type": "sc:Manifest",
+      "label": "Phrenological head of Sir Robert Peel as Prime Minister of the United Kingdom. Lithograph, ca. 1844.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11617457-0/1a62f439-99cd-4780-9868-3b5df335e81e/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11617457-0/1a62f439-99cd-4780-9868-3b5df335e81e",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11617457",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11617457",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11944377/manifest",
+      "@type": "sc:Manifest",
+      "label": "Two young men are approached by a prostitute: she is a clothed skeleton holding a made-up mask in front of her face, representing syphilis. Lithograph by J.J. Grandville, 1830.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11944377-0/1ead647d-03be-48a7-88cc-43debcc75281/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11944377-0/1ead647d-03be-48a7-88cc-43debcc75281",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11944377",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11944377",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11743918/manifest",
+      "@type": "sc:Manifest",
+      "label": "A crippled man and a blind man go to court; the lawyer eats oysters and gives them the empty shells. Mezzotint, 1779.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11743918-0/20bfd125-4aef-4abe-8924-96cae2dc994e/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11743918-0/20bfd125-4aef-4abe-8924-96cae2dc994e",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11743918",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11743918",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11579328/manifest",
+      "@type": "sc:Manifest",
+      "label": "A lecture on pneumatics at the Royal Institution, London. Coloured etching by J. Gillray, 1802.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11579328-0/4fdb5842-14c2-4e64-8adc-5e0216dd121d/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11579328-0/4fdb5842-14c2-4e64-8adc-5e0216dd121d",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11579328",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11579328",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11589668/manifest",
+      "@type": "sc:Manifest",
+      "label": "A new apothecary's shop open for business, with parody advertisements for different potions; representing the remedies required for different professions and social types. Coloured etching after G.M. Woodward, 1802.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11589668-0/9342cb81-1b36-4097-89e6-7d20186b4399/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11589668-0/9342cb81-1b36-4097-89e6-7d20186b4399",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11589668",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11589668",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11599509/manifest",
+      "@type": "sc:Manifest",
+      "label": "An operator treating the carbuncled nose of an obese patient with \"Perkins's tractors\". Coloured aquatint after J. Gillray, 1801.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11599509-0/53e2e36d-ce2f-47b1-9cab-db861580aa25/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11599509-0/53e2e36d-ce2f-47b1-9cab-db861580aa25",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11599509",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11599509",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11757619/manifest",
+      "@type": "sc:Manifest",
+      "label": "A gynaecologist strokes his long red beard. Colour process print by C. Josef, c. 1930.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11757619-0/be254116-e199-424d-ab74-ab8082e2dc0c/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11757619-0/be254116-e199-424d-ab74-ab8082e2dc0c",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11757619",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11757619",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11873449/manifest",
+      "@type": "sc:Manifest",
+      "label": "A barber standing with his hands in his pockets. Coloured lithograph.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11873449-0/58932380-28e1-4fc0-90ca-c08928ad82d9/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11873449-0/58932380-28e1-4fc0-90ca-c08928ad82d9",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11873449",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11873449",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11602399/manifest",
+      "@type": "sc:Manifest",
+      "label": "A woman dropping her porcelain tea-cup in horror upon discovering the monstrous contents of a magnified drop of Thames water; revealing the impurity of London drinking water. Coloured etching by W. Heath, 1828.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11602399-0/c45bce25-c327-466e-baf2-5b2ac31b96b5/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11602399-0/c45bce25-c327-466e-baf2-5b2ac31b96b5",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11602399",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11602399",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b1175820x/manifest",
+      "@type": "sc:Manifest",
+      "label": "A rich miser eating humble food. Coloured etching after G. Piattoli, c. 1800.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b1175820x-0/684c6426-5122-4827-8086-34d67b9e0d47/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b1175820x-0/684c6426-5122-4827-8086-34d67b9e0d47",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b1175820x",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b1175820x",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b1165711x/manifest",
+      "@type": "sc:Manifest",
+      "label": "Chang and Eng the Siamese twins, eating and drinking to excess. Coloured etching by W. Heath, 1829.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b1165711x-0/2ef0161c-0145-4424-ad3a-8c883282b134/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b1165711x-0/2ef0161c-0145-4424-ad3a-8c883282b134",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b1165711x",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b1165711x",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b14601308/manifest",
+      "@type": "sc:Manifest",
+      "label": "An itinerant doctor, by a subterfuge, cures an undergraduate hoaxer of his supposed maladies of lying and bad memory. Coloured etching by T. Rowlandson, 1807, after G.M. Woodward.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b14601308-0/59ffd0d4-e103-45ba-8aff-dd524427490b/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b14601308-0/59ffd0d4-e103-45ba-8aff-dd524427490b",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b14601308",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b14601308",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11746828/manifest",
+      "@type": "sc:Manifest",
+      "label": "An exotic doctor magnetises a young woman; her husband looks on. Lithograph by C. Jacque, c. 1843.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11746828-0/776dac2d-177a-463f-be61-2af87fa1723e/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11746828-0/776dac2d-177a-463f-be61-2af87fa1723e",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11746828",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11746828",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11742148/manifest",
+      "@type": "sc:Manifest",
+      "label": "Five antiquaries look through magnifying glasses at objects. Coloured lithograph after L. Boilly, 1823.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11742148-0/99c39520-ee16-4857-8d7e-60e326f2bd41/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11742148-0/99c39520-ee16-4857-8d7e-60e326f2bd41",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11742148",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11742148",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11603458/manifest",
+      "@type": "sc:Manifest",
+      "label": "William Pitt the younger and his ministers as anatomists dissecting the body of the Prince of Wales; representing Pitt's reduction of the powers of the regent. Coloured etching by Thomas Rowlandson, 1788/1789.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11603458-0/5a3e66bd-8a05-4cc1-b01c-fe0b0c3ddc95/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11603458-0/5a3e66bd-8a05-4cc1-b01c-fe0b0c3ddc95",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11603458",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11603458",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b16763269/manifest",
+      "@type": "sc:Manifest",
+      "label": "Cartoon scenes featuring condoms representing a safe sex advertisement by the Folkhälsoinstitutet RFSU och Landstinget Förebygger AIDS. Colour lithograph by L. Nitka, ca. 1995.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b16763269-0/23bc7fed-11a0-4f27-8c5c-cea2aaf68c65/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b16763269-0/23bc7fed-11a0-4f27-8c5c-cea2aaf68c65",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b16763269",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b16763269",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11600299/manifest",
+      "@type": "sc:Manifest",
+      "label": "A decrepit man screaming in pain from gout, rheumatism and catarrh; represented as three tormenting devils. Coloured etching by J. Cawse, 1809, after G.M. Woodward.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b11600299-0/a4d8c1b1-046a-4f1a-b04c-8fd10e42bc57/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b11600299-0/a4d8c1b1-046a-4f1a-b04c-8fd10e42bc57",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11600299",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11600299",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b1676321x/manifest",
+      "@type": "sc:Manifest",
+      "label": "A calendar for the year 1994 by Nitka featuring cartoon scenes with condoms; produced by the Folkhälsoinstitutet RFSU [?]. Colour lithograph, ca. 1994.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b1676321x-0/60622b55-5548-4f81-90cd-fd886acef5bb/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b1676321x-0/60622b55-5548-4f81-90cd-fd886acef5bb",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b1676321x",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b1676321x",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b1159987x/manifest",
+      "@type": "sc:Manifest",
+      "label": "A man in bed with vegetables sprouting from all parts of his body; as a result of taking an overdose of James Morison's vegetable pills. Coloured lithograph by C.J. Grant, 1831.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b1159987x-0/7f76d636-d450-4096-a1d4-65a2f24db6bc/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b1159987x-0/7f76d636-d450-4096-a1d4-65a2f24db6bc",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b1159987x",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b1159987x",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b1158788x/manifest",
+      "@type": "sc:Manifest",
+      "label": "A physician, a lawyer and a vicar; represented as outlandish figures. Coloured etching.",
+      "thumbnail": {
+        "@id": "http://wellcomelibrary.org/iiif-img/b1158788x-0/342bab57-846f-480c-b9c8-bb3174ab9d62/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://wellcomelibrary.org/iiif-img/b1158788x-0/342bab57-846f-480c-b9c8-bb3174ab9d62",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b1158788x",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b1158788x",
+        "format": "text/turtle"
+      }
+    }
+  ]
+}

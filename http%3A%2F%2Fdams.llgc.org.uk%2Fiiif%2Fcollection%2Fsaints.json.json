@@ -1,0 +1,205 @@
+
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://dams.llgc.org.uk/iiif/collection/saints",
+            "@type": "sc:Collection",
+            "label": "Saints Manuscripts",
+            "description": "A collection of Saints Manuscripts",
+            "attribution": "Provided by the National Library of Wales",
+
+            
+            "manifests": [
+                
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/1429577/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Brogyntyn 1.2"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/1432069/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "NLW MS 3049D (Mostyn 146)"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/1434532/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Peniarth 55"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/1435107/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Llanstephan 6A"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/1437185/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Gwaith prydyddawl amryw hen feirdd, [1550x1647]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/1438485/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Cywydeu ac odleu, [1558]-[1563], [mid 17 cent.]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/1441573/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Wynnstay MS. part 1"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/1441792/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Wynnstay MS. part 2"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4384774/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Poetry, [1475x1600]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4385000/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Llanstephan MS 27"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4389453/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Poetry, [1475x1600]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4389987/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Llanstephan MS 47"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4391785/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Barddoniaeth Dafydd Nanmor a Dafydd ap Gwilym [15 cent., second ½]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4392801/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Llyfr Syr Hugh Pennant, [c. 1514]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4396205/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Llyfr Gwyn Rhydderch, [14 cent., second ¼-third ¼]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4524131/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Theology, cerdd dafod, &c., [1455-1456]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4525361/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Poetry, biblical history, &c., [16-17 cents]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4525602/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "calendar by Gutun Owain, [15 cent., second ½]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4525625/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Llyfr Dafydd Cayo, [16 cent., second ½]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4525890/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Llyfr cywyddau Siôn ap William ap Siôn, [1609x1621]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4526787/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Llyfr Syr Thomas ap Ieuan ap Deicws, [c. 1510 - 1544]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4527085/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Historical extracts, [16-17 cents]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4533649/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Breuddwyd Macsen Wledig, [13 cent., second ½ - mid-15 cent.]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4537070/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Lives of saints, [1585x1633]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4574931/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Texts copied by Gutun Owain, [15 cent., second ½]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4575050/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Gwyrthiau y Wynfydedig Fair a St Edmund, [13 cent., second ½- 14 cent., first ½]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4575261/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Proffwydoliaethau Rhys Fardd [c. 1485x1510]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4575404/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Brut y Brenhinedd Geoffrey, [14 cent., first ½]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4575723/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "compendium of texts, [late 15 cent. x early 16 cent.]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4575864/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Bucheddau'r Saint, [1594x1610]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4576179/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Pedigrees, [16 cent., second ½]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4576446/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Barddoniaeth Lewys Glyn Cothi, [1470s]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4577040/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "poetrical works of Lewis Glyn Cothi, Ieuan Brechfa and others, [1501x1560]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4577411/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Poetry, [after 1638]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4618570/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Llyvyr Jams Dwnn, [c. 1647]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4619123/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "British Genealogy, [late 18 cent.]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4619924/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Llyfr Gwyn Corsygedol, [17 cent., second ¼]"
+                    },
+                    { 
+                        "@id": "http://dams.llgc.org.uk/iiif/4620701/manifest.json",
+                        "@type": "sc:Manifest",
+                        "label" : "Llyfr Edward ap Roger, [16 cent.]"
+                    }
+            ]
+        }
+    
