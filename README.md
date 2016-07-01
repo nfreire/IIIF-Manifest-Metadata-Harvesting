@@ -9,5 +9,5 @@ This repository contains the following outcomes of the experiment:
 - [Sources of information](https://github.com/nfreire/IIIF-Manifest-Metadata-Harvesting/blob/master/pointers.md) relevant for IIIF harvesting
 - The [source code](https://github.com/nfreire/IIIF-Manifest-Metadata-Harvesting/tree/master/harvester%20software) of the harvest process
 - The [raw data harvested](https://github.com/nfreire/IIIF-Manifest-Metadata-Harvesting/tree/master/data) (IIIF Collections and Manifests)
-- The [analysis of the data](https://github.com/nfreire/IIIF-Manifest-Metadata-Harvesting/blob/master/IIIF-Harvesting-analysis.xls), with focus on the metadata
+- The analysis of the data, with focus on the metadata ([summary](https://github.com/nfreire/IIIF-Manifest-Metadata-Harvesting/blob/master/ManifestAnalysis.md) and  [details](https://github.com/nfreire/IIIF-Manifest-Metadata-Harvesting/blob/master/IIIF-Harvesting-analysis.xls))
 - A [report and conclusions](https://github.com/nfreire/IIIF-Manifest-Metadata-Harvesting/blob/master/report.md)
