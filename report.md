@@ -40,17 +40,20 @@
 
 - IIIF is still an evolving technology
   - Legacy (old IIIF versions) and immature IIIF implementations exist
+  - seeAlso fields may not be used appropriately, even for old IIIF versions (seeAslo from a manifest to itself)
+  - Some image service URIs have files extensions (e.g., '.tif') in them, which is quite ugly
+  - More content negotiation across all identifiers is not mandatory but it would help.
 
 - In general the metadata doesn't meet the Europeana standard
   - one or two collections come close (incl. Bodleian and NL Wales)
   - metadata quality issues
     - lack of metadata (few fields, empty values)
     - no controlled values
-    - no controlled field (e.g. metadata element 'erschienen' in German)
+    - no controlled field (e.g. metadata element 'erschienen' in German) leading to interoperability issues
   - rights issues: not there or not controlled
   - IIIF has the promise of finer-grained structures
     - for example a book and all its pages as a nice sequence. Or a big map with parts.
-    - but this is not always implemented: pages not sequenced, part of the map not connected together
+    - but this is not always implemented: pages not sequenced, part of the map not connected together, ranges are apparently defined based on some topical unity but they don't fit.
     - names of rather common concepts in sequences are not controlled ('front' 'back', 'middle', etc.). Not better than other standards 
 
 Take-home message: 
